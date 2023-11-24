@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-// import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
@@ -11,6 +10,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <BNav>
         <BNavItem href="/">Home</BNavItem>
         <BNavItem href="/about">About</BNavItem>
+        <BNavItem href="/contact">Contact Me</BNavItem>
       </BNav>
     </BNavbar>
 
