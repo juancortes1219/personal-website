@@ -11,6 +11,8 @@ declare module 'vue' {
     BNavbar: typeof import('bootstrap-vue-next')['BNavbar']
     BNavbarBrand: typeof import('bootstrap-vue-next')['BNavbarBrand']
     BNavItem: typeof import('bootstrap-vue-next')['BNavItem']
+    ColumnsIcons: typeof import('./src/components/ColumnsIcons.vue')['default']
+    HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
   }
