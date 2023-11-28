@@ -11,6 +11,9 @@ dependencies:
   bootstrap-vue-next:
     specifier: ^0.15.4
     version: 0.15.4(vue@3.3.8)
+  mdb-vue-ui-kit:
+    specifier: ^4.1.1
+    version: 4.1.1
   pinia:
     specifier: ^2.1.7
     version: 2.1.7(typescript@5.2.2)(vue@3.3.8)
@@ -3204,6 +3207,10 @@ packages:
   /map-stream@0.1.0:
     resolution: {integrity: sha512-CkYQrPYZfWnu/DAmVCpTSX/xHpKZ80eKh2lAkyA6AJTef6bW+6JpbQZN5rofum7da+SyN1bi5ctTm+lTfcCW3g==}
     dev: true
+
+  /mdb-vue-ui-kit@4.1.1:
+    resolution: {integrity: sha512-EeZ9Wefj4tWT9hiIF+SF6/epHqV6uC02IHN68DJP7x+mDXA/KZ063eGhocYJZ/O7RlMDt4pgt4oqsYuNDS6CTQ==}
+    dev: false
 
   /memorystream@0.3.1:
     resolution: {integrity: sha512-S3UwM3yj5mtUSEfP41UZmt/0SCoVYUcU1rkXv+BQ5Ig8ndL4sPoJNBUJERafdPb5jjHJGuMgytgKvKIf58XNBw==}

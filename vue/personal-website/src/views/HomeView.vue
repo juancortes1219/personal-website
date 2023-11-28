@@ -1,27 +1,27 @@
 <script setup lang="ts">
 import HeroJumbotron from '../components/HeroJumbotron.vue'
-import CustomCards from '../components/ColumnsIcons.vue'
+import TempCards from '../components/TempCards.vue'
 </script>
 
 <template>
   <section class="hero-section">
     <HeroJumbotron />
   </section>
-  <section class="feature-section">
-    <CustomCards />
+  <section class="cards-section">
+    <TempCards />
   </section>
 </template>
 
 <style scoped>
 .hero-section {
-  padding-top: 6rem;
-  height: 100vh;
-  background-color: lightgray;
+  /* padding-top: 6rem; */
+  /* height: 100vh; */
+  /* background-color: lightgray; */
 }
 
-.feature-section {
-  padding-top: 6rem;
-  height: 100%;
-  background-color: lightgray;
+.cards-section {
+  /* padding: 6rem; */
+  /* height: 100vh; */
+  /* background-color: lightblue; */
 }
 </style>

@@ -1,56 +1,102 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
+
+// Imports for MDBootstrap
+import {
+    MDBNavbar,
+    MDBNavbarToggler,
+    MDBNavbarBrand,
+    MDBNavbarNav,
+    MDBNavbarItem,
+    MDBCollapse,
+    MDBFooter,
+    MDBContainer,
+    MDBIcon,
+    mdbRipple as vMdbRipple
+  } from 'mdb-vue-ui-kit';
+  import { ref } from 'vue';
+
+  const collapse1 = ref(false);
+// 
+
+// Dynamic year for the 'Footer'
+const currentYear = new Date().getFullYear();
 </script>
 
 <template>
   <header>
-    <BNavbar class="nav-bar" variant="primary" v-b-color-mode="'dark'">
-      <BNavbarBrand href="/">NavBar</BNavbarBrand>
-      <BNav>
-        <BNavItem href="/">Home</BNavItem>
-        <BNavItem href="/about">About</BNavItem>
-        <BNavItem href="/contact">Contact Me</BNavItem>
-      </BNav>
-    </BNavbar>
+    <MDBNavbar expand="lg" light bg="light" position="top" container>
+      <MDBNavbarBrand href="#">Brand</MDBNavbarBrand>
+      <MDBNavbarToggler
+        @click="collapse1 = !collapse1"
+        target="#navbarSupportedContent"
+      ></MDBNavbarToggler>
+      <MDBCollapse v-model="collapse1" id="navbarSupportedContent">
+        <MDBNavbarNav right class="mb-2 mb-lg-0">
+          <MDBNavbarItem to="/" active>
+            Home
+          </MDBNavbarItem>
+          <MDBNavbarItem href="/about">
+            About
+          </MDBNavbarItem>
+          <MDBNavbarItem href="/contact">
+            Contact Me
+          </MDBNavbarItem>
+        </MDBNavbarNav>
+      </MDBCollapse>
+    </MDBNavbar>
   </header>
 
   <RouterView />
 
-  <div class="container footer">
-    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3">
-      <div class="col-md-4 d-flex align-items-center">
-        <a href="/" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1">
-          <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"></use></svg>
-        </a>
-        <span class="mb-3 mb-md-0 text-body-secondary">© 2023 Company, Inc</span>
+  <MDBFooter text="center" style="background-color: #f1f1f1">
+      <!-- Grid container -->
+      <MDBContainer class="pt-4">
+        <!-- Section: Social media -->
+        <section class="mb-4">
+          <!-- Instagram -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="https://www.instagram.com/its.juancortes/"
+            role="button"
+            v-mdb-ripple="{ color: 'dark' }"
+            ><MDBIcon iconStyle="fab" icon="instagram"></MDBIcon
+          ></a>
+          <!-- Linkedin -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="https://www.linkedin.com/in/juan-cortes1219/"
+            role="button"
+            v-mdb-ripple="{ color: 'dark' }"
+            ><MDBIcon iconStyle="fab" icon="linkedin"></MDBIcon
+          ></a>
+          <!-- Github -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="https://github.com/juancortes1219"
+            role="button"
+            v-mdb-ripple="{ color: 'dark' }"
+            ><MDBIcon iconStyle="fab" icon="github"></MDBIcon
+          ></a>
+        </section>
+        <!-- Section: Social media -->
+      </MDBContainer>
+      <!-- Grid container -->
+      <!-- Copyright -->
+      <div
+        id="copyright"
+        class="text-center text-dark p-3"
+        style="background-color: rgba(0, 0, 0, 0.2)"
+      >
+        © {{ currentYear }} by 
+        <a class="text-dark" href="/"
+          >Juan Cortes</a
+        >.
       </div>
-
-      <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-        <li class="ms-3"><a class="text-body-secondary" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"></use></svg></a></li>
-        <li class="ms-3"><a class="text-body-secondary" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"></use></svg></a></li>
-        <li class="ms-3"><a class="text-body-secondary" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#facebook"></use></svg></a></li>
-      </ul>
-    </footer>
-  </div>
-
-  <!-- <footer class="footer mt-auto py-3 bg-body-tertiary">
-    <div class="container">
-      <span class="text-body-secondary">Place sticky footer content here.</span>
-    </div>
-  </footer> -->
+      <!-- Copyright -->
+    </MDBFooter>
 </template>
 
 <style scoped>
-.nav-bar {
-  position: fixed;
-  width: 100%;
-  z-index: 999;
-}
 
-.footer {
-  margin-left: 0;
-  margin-right: 0;
-  max-width: 100%;
-  background-color: gray;
-}
 </style>

@@ -22,5 +22,9 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
+  },
+  // Needed for MDBootstrap
+  css: {
+    devSourcemap: true,
   }
 })

@@ -7,12 +7,15 @@ import App from './App.vue'
 import router from './router'
 
 // Imports for BootstrapVue
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue-next/dist/bootstrap-vue-next.css'
+// import 'bootstrap/dist/css/bootstrap.css'
+// import 'bootstrap-vue-next/dist/bootstrap-vue-next.css'
 
 // Imports from VueTyper
 import VueTyper from 'vue3-typer'
 import "vue3-typer/dist/vue-typer.css"
+
+// Import for MDBootstrap
+import 'mdb-vue-ui-kit/css/mdb.min.css'
 
 const app = createApp(App)
 

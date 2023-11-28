@@ -1,36 +1,52 @@
 <template>
-    <div class="my-5 hero-jumbotron">
-      <div class="p-5 text-center">
-        <div class="container py-5">
-          <h1 class="display-1 text-body-emphasis">Hello, I'm Juan Cortes.</h1>
-          <p class="h2 col-lg-8 mx-auto">
-            A
-            <VueTyper
-              :text='["Programmer","Photographer"]'
-              :repeat='Infinity'
-              :shuffle='false'
-              initial-action='erasing'
-              :pre-type-delay='70'
-              :type-delay='70'
-              :pre-erase-delay='1500'
-              :erase-delay='70'
-              erase-style='backspace'
-              :erase-on-complete='false'
-              caret-animation='blink'
-            ></VueTyper>
-          </p>
+    <!-- Background image -->
+    <div
+      id="intro-example"
+      class="p-5 text-center bg-image"
+      style="background-image: url('https://mdbootstrap.com/img/new/slides/041.webp');"
+    >
+      <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);">
+        <div class="d-flex justify-content-center align-items-center h-100">
+          <div class="text-white">
+            <h1 class="mb-4">Hello, I'm Juan Cortes.</h1>
+            <h4>
+              A
+              <VueTyper
+                :text='["Programmer","Photographer"]'
+                :repeat='Infinity'
+                :shuffle='false'
+                initial-action='erasing'
+                :pre-type-delay='70'
+                :type-delay='70'
+                :pre-erase-delay='1500'
+                :erase-delay='70'
+                erase-style='backspace'
+                :erase-on-complete='false'
+                caret-animation='blink'
+              ></VueTyper>
+            </h4>
+          </div>
         </div>
       </div>
     </div>
+    <!-- Background image -->
 </template>
 
 
 <style scoped>
-.hero-jumbotron {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+/* Default height for small devices */
+#intro-example {
+    height: 100vh;
+  }
+
+/* Height for devices larger than 992px */
+@media (min-width: 992px) {
+  #intro-example {
+    height: 100vh;
+  }
 }
 .vue-typer {
-  font-weight: bold;
+  /* font-size: 1.9rem; */
+  --char-typed-color: white;
 }
 </style>

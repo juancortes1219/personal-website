@@ -7,6 +7,8 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
+    AboutCard: typeof import('./src/components/AboutCard.vue')['default']
+    AboutSection: typeof import('./src/components/AboutSection.vue')['default']
     BNav: typeof import('bootstrap-vue-next')['BNav']
     BNavbar: typeof import('bootstrap-vue-next')['BNavbar']
     BNavbarBrand: typeof import('bootstrap-vue-next')['BNavbarBrand']
@@ -15,6 +17,7 @@ declare module 'vue' {
     HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    TempCards: typeof import('./src/components/TempCards.vue')['default']
   }
   export interface ComponentCustomProperties {
     vBColorMode: typeof import('bootstrap-vue-next')['vBColorMode']
