@@ -41,9 +41,9 @@
 
 /* Height for devices larger than 992px */
 @media (min-width: 992px) {
-  #intro-example {
+  /* #intro-example {
     height: 100vh;
-  }
+  } */
 }
 .vue-typer {
   /* font-size: 1.9rem; */

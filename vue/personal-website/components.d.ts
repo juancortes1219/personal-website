@@ -7,19 +7,11 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
-    AboutCard: typeof import('./src/components/AboutCard.vue')['default']
     AboutSection: typeof import('./src/components/AboutSection.vue')['default']
-    BNav: typeof import('bootstrap-vue-next')['BNav']
-    BNavbar: typeof import('bootstrap-vue-next')['BNavbar']
-    BNavbarBrand: typeof import('bootstrap-vue-next')['BNavbarBrand']
-    BNavItem: typeof import('bootstrap-vue-next')['BNavItem']
-    ColumnsIcons: typeof import('./src/components/ColumnsIcons.vue')['default']
     HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
-    TempCards: typeof import('./src/components/TempCards.vue')['default']
-  }
-  export interface ComponentCustomProperties {
-    vBColorMode: typeof import('bootstrap-vue-next')['vBColorMode']
+    SplidejsCarousel: typeof import('./src/components/SplidejsCarousel.vue')['default']
+    SwiperjsCarousel: typeof import('./src/components/SwiperjsCarousel.vue')['default']
   }
 }

@@ -17,7 +17,7 @@ import {
   import { ref } from 'vue';
 
   const collapse1 = ref(false);
-// 
+// Imports for MDBootstrap
 
 // Dynamic year for the 'Footer'
 const currentYear = new Date().getFullYear();
@@ -36,7 +36,7 @@ const currentYear = new Date().getFullYear();
           <MDBNavbarItem to="/" active>
             Home
           </MDBNavbarItem>
-          <MDBNavbarItem href="/about">
+          <MDBNavbarItem href="/#about">
             About
           </MDBNavbarItem>
           <MDBNavbarItem href="/contact">
@@ -96,7 +96,3 @@ const currentYear = new Date().getFullYear();
       <!-- Copyright -->
     </MDBFooter>
 </template>
-
-<style scoped>
-
-</style>
