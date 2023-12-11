@@ -36,8 +36,8 @@
 <style scoped>
 /* Default height for small devices */
 #intro-example {
-    height: 100vh;
-  }
+  height: calc(100vh - 50px);
+}
 
 /* Height for devices larger than 992px */
 @media (min-width: 992px) {

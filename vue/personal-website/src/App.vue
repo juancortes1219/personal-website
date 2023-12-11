@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
+import { RouterView } from 'vue-router'
 
 // Imports for MDBootstrap
 import {
@@ -25,7 +25,7 @@ const currentYear = new Date().getFullYear();
 
 <template>
   <header>
-    <MDBNavbar expand="lg" light bg="light" position="top" container>
+    <MDBNavbar expand="lg" position="top" container>
       <MDBNavbarBrand href="#">Brand</MDBNavbarBrand>
       <MDBNavbarToggler
         @click="collapse1 = !collapse1"
@@ -33,13 +33,19 @@ const currentYear = new Date().getFullYear();
       ></MDBNavbarToggler>
       <MDBCollapse v-model="collapse1" id="navbarSupportedContent">
         <MDBNavbarNav right class="mb-2 mb-lg-0">
-          <MDBNavbarItem to="/" active>
+          <MDBNavbarItem to="/">
             Home
           </MDBNavbarItem>
           <MDBNavbarItem href="/#about">
             About
           </MDBNavbarItem>
-          <MDBNavbarItem href="/contact">
+          <MDBNavbarItem to="projects">
+            Projects
+          </MDBNavbarItem>
+          <MDBNavbarItem to="photos">
+            Photos
+          </MDBNavbarItem>
+          <MDBNavbarItem to="contact">
             Contact Me
           </MDBNavbarItem>
         </MDBNavbarNav>
@@ -96,3 +102,13 @@ const currentYear = new Date().getFullYear();
       <!-- Copyright -->
     </MDBFooter>
 </template>
+
+<style scoped>
+.navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+/* Styling for Footer icons */
+.btn-lg, .btn-group-lg>.btn {
+  --mdb-btn-font-size: 1.5rem !important;
+}
+</style>
