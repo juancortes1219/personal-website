@@ -16,7 +16,7 @@ const currentAge = getAge("1996/12/19");
 </script>
 
 <template>
-    <div id="about-section" class="container-fluid">
+    <div class="container-fluid about-section">
         <!-- First container -->
         <div class="container pt-3">
             <!-- Section About -->
@@ -54,9 +54,12 @@ const currentAge = getAge("1996/12/19");
 </template>
 
 <style scoped>
+.about-section {
+    height: 100vh;
+}
 #about {
-    /* /* position: absolute; */
-    /* top: calc(100vh - 50px); */
+    /* position: absolute; */
+    /* top: calc(100vh + 10px); */
     /* height: 100vh; */
 }
 </style>

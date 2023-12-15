@@ -25,6 +25,22 @@ import { register } from 'swiper/element/bundle';
 // register Swiper custom elements
 register();
 
+/* Imports for fontawesome */
+// fontawesome core
+import { library } from '@fortawesome/fontawesome-svg-core';
+
+// Font Awesome icon component
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
+
+// Specific icons
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { fas } from '@fortawesome/free-solid-svg-icons';
+/* Imports for fontawesome */
+
+// Adds fontawesome icons to the library
+library.add(fab)
+library.add(fas)
+
 const app = createApp(App)
 
 app.use(createPinia())
@@ -33,5 +49,7 @@ app.use(router)
 app.use(VueTyper)   // Registering vue3-typer
 app.use(MotionPlugin)   // Registering motion
 app.use(VueSplide)  // Registering vue-splide
+
+app.component('font-awesome-icon', FontAwesomeIcon) // Needed for fontawesome
 
 app.mount('#app')

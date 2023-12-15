@@ -17,7 +17,7 @@ export default defineConfig({
         compilerOptions: {
           isCustomElement: tag => tag.startsWith('swiper-')
         }
-      }
+      },
     }),
     vueJsx(),
     // Component resolver for Bootstrap-Vue

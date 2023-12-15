@@ -6,22 +6,31 @@
             :autoplay-delay="5000"
         >
             <swiper-slide>
-                <img src="https://picsum.photos/190" alt="Sample 1">
+                <font-awesome-icon :icon="['fab', 'vuejs']" size="2xl" style="color: #ffffff;" />
+                <p>Vue.js</p>
             </swiper-slide>
             <swiper-slide>
-                <img src="https://picsum.photos/191" alt="Sample 2">
+                <font-awesome-icon :icon="['fab', 'js']" size="2xl" style="color: #ffffff;" />
+                <p>JavaScript</p>
             </swiper-slide>
             <swiper-slide>
-                <img src="https://picsum.photos/192" alt="Sample 3">
+                <font-awesome-icon :icon="['fab', 'html5']" size="2xl" style="color: #ffffff;" />
+                <p>HTML</p>
             </swiper-slide>
             <swiper-slide>
-                <img src="https://picsum.photos/193" alt="Sample 4">
+                <font-awesome-icon :icon="['fab', 'css3-alt']" size="2xl" style="color: #ffffff;" />
+                <p>CSS</p>
             </swiper-slide>
             <swiper-slide>
-                <img src="https://picsum.photos/194" alt="Sample 5">
+                <font-awesome-icon :icon="['fab', 'bootstrap']" size="2xl" style="color: #ffffff;" />
+                <p>Bootstrap</p>
             </swiper-slide>
             <swiper-slide>
-                <img src="https://picsum.photos/195" alt="Sample 6">
+                <font-awesome-icon :icon="['fab', 'mdb']" size="2xl" style="color: #ffffff;" />
+                <p>MDBootstrap</p>
+            </swiper-slide>
+            <swiper-slide>
+                <p>PNPM</p>
             </swiper-slide>
         </swiper-container>
     </div>
@@ -31,19 +40,23 @@
 swiper-container {
     padding-left: 4rem;
     padding-right: 4rem;
+    background-color: red;
 }
 
 swiper-slide {
-    text-align: center;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    height: 15rem;
 }
 
-swiper-slide img {
-    display: block;
-    width: 50%;
-    height: 50%;
-    object-fit: cover;
+.fa-2xl {
+    font-size: 6rem !important;
+}
+
+swiper-slide p {
+    margin-bottom: 0;
 }
 </style>
