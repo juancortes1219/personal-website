@@ -1,9 +1,10 @@
+<!-- Swiperjs carousel v-motion-fade-visible-once-->
 <template>
-    <div class="swiper-carousel" v-motion-fade-visible-once>
+    <div class="swiper-carousel" >
         <swiper-container
             :loop="true"
-            :slides-per-view="3"
-            :autoplay-delay="5000"
+            :slides-per-view="4"
+            :autoplay-delay="3000"
         >
             <swiper-slide>
                 <font-awesome-icon :icon="['fab', 'vuejs']" size="2xl" style="color: #ffffff;" />
@@ -30,7 +31,8 @@
                 <p>MDBootstrap</p>
             </swiper-slide>
             <swiper-slide>
-                <p>PNPM</p>
+                <img alt="PNPM logo" class="logo" src="../assets/icons/pnpm.svg" />
+                <p class="icon-text">PNPM</p>
             </swiper-slide>
         </swiper-container>
     </div>
@@ -38,9 +40,9 @@
 
 <style scoped>
 swiper-container {
-    padding-left: 4rem;
-    padding-right: 4rem;
-    background-color: red;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: gray;
 }
 
 swiper-slide {
@@ -49,14 +51,52 @@ swiper-slide {
     justify-content: center;
     align-items: center;
     text-align: center;
-    height: 15rem;
+    height: 10rem;
+}
+
+swiper-slide img {
+    height: 1.75rem;
+    margin-top: 0.1rem;
 }
 
 .fa-2xl {
-    font-size: 6rem !important;
+    font-size: 2rem !important;
 }
 
 swiper-slide p {
     margin-bottom: 0;
+    font-size: 0.8rem;
+}
+
+.icon-text {
+    margin-top: 0.1rem;
+}
+
+@media (min-width: 1024px) {
+    swiper-container {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+
+    swiper-slide {
+        height: 15rem;
+    }
+
+    swiper-slide img {
+        height: 5.25rem;
+        margin-top: 0.3rem;
+    }
+
+    .fa-2xl {
+        font-size: 6rem !important;
+    }
+
+    swiper-slide p {
+        font-size: 1.2rem;
+    }
+
+    .icon-text {
+        margin-top: 0.3rem;
+    }
 }
 </style>

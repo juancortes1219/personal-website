@@ -12,6 +12,6 @@ declare module 'vue' {
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     SplidejsCarousel: typeof import('./src/components/SplidejsCarousel.vue')['default']
-    SwiperjsCarousel: typeof import('./src/components/SwiperjsCarousel.vue')['default']
+    TechSkillsCarousel: typeof import('./src/components/TechSkillsCarousel.vue')['default']
   }
 }

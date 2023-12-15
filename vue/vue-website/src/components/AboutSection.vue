@@ -16,7 +16,7 @@ const currentAge = getAge("1996/12/19");
 </script>
 
 <template>
-    <div class="container-fluid about-section">
+    <div class="container-fluid about-section mb-5">
         <!-- First container -->
         <div class="container pt-3">
             <!-- Section About -->

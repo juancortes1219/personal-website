@@ -2,12 +2,12 @@
 import HeroJumbotron from '@/components/HeroJumbotron.vue'
 import AboutSection from '@/components/AboutSection.vue';
 // import SplidejsCarousel from '@/components/SplidejsCarousel.vue';
-import SwiperjsCarousel from '@/components/SwiperjsCarousel.vue';
+import TechSkillsCarousel from '@/components/TechSkillsCarousel.vue';
 </script>
 
 <template>
   <HeroJumbotron />
   <AboutSection />
   <!-- <SplidejsCarousel /> -->
-  <SwiperjsCarousel />
+  <TechSkillsCarousel />
 </template>
