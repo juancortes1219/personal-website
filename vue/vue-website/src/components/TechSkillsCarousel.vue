@@ -1,14 +1,19 @@
-<!-- Swiperjs carousel v-motion-fade-visible-once-->
+<!-- Swiperjs carousel -->
 <template>
     <div class="swiper-carousel" >
         <swiper-container
             :loop="true"
             :slides-per-view="4"
             :autoplay-delay="3000"
+            v-motion-fade-visible-once
         >
             <swiper-slide>
                 <font-awesome-icon :icon="['fab', 'vuejs']" size="2xl" style="color: #ffffff;" />
                 <p>Vue.js</p>
+            </swiper-slide>
+            <swiper-slide>
+                <img alt="TypeScript logo" class="logo" src="../assets/icons/typescript.svg" />
+                <p class="icon-text">TypeScript</p>
             </swiper-slide>
             <swiper-slide>
                 <font-awesome-icon :icon="['fab', 'js']" size="2xl" style="color: #ffffff;" />
@@ -34,6 +39,10 @@
                 <img alt="PNPM logo" class="logo" src="../assets/icons/pnpm.svg" />
                 <p class="icon-text">PNPM</p>
             </swiper-slide>
+            <swiper-slide>
+                <font-awesome-icon :icon="['fab', 'github']" size="2xl" style="color: #ffffff;" />
+                <p>Github</p>
+            </swiper-slide>
         </swiper-container>
     </div>
 </template>
@@ -42,7 +51,7 @@
 swiper-container {
     padding-left: 2rem;
     padding-right: 2rem;
-    background-color: gray;
+    /* background-color: gray; */
 }
 
 swiper-slide {
