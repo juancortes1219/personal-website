@@ -1,6 +1,6 @@
 <!-- Swiperjs carousel -->
 <template>
-    <div class="swiper-carousel" >
+    <div class="swiper-carousel">
         <swiper-container
             :loop="true"
             :slides-per-view="4"
@@ -68,9 +68,9 @@ swiper-slide img {
     margin-top: 0.1rem;
 }
 
-.fa-2xl {
+/* .fa-2xl {
     font-size: 2rem !important;
-}
+} */
 
 swiper-slide p {
     margin-bottom: 0;
@@ -81,7 +81,7 @@ swiper-slide p {
     margin-top: 0.1rem;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
     swiper-container {
         padding-left: 4rem;
         padding-right: 4rem;

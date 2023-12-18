@@ -16,11 +16,10 @@ const currentAge = getAge("1996/12/19");
 </script>
 
 <template>
-    <div class="container-fluid about-section mb-5">
-        <!-- First container -->
+    <div class="container-fluid">
         <div class="container pt-3">
             <!-- Section About -->
-            <section class="section pt-2 pb-5">
+            <section class="section pt-2">
                 <span id="about"></span>
                 <!--Section heading-->
                 <h1 class="text-center text-uppercase font-weight-bold mt-5 mb-3 mt-4" v-motion-slide-visible-once-bottom>About
@@ -30,8 +29,8 @@ const currentAge = getAge("1996/12/19");
                     <!--First column-->
                     <div class="col-lg-5 col-md-12 mb-5">
                         <!--Image-->
-                        <div class="portrait">
-                            <img id="portrait" src="https://lh3.googleusercontent.com/pw/ABLVV86ARW9nJPd2L2vJ2i3ZGfwyfNpQVzDKymgoXrwjgAQ2JrN4ebCddqcdSWgM37nq-RmrEA_rYWsd6_5PZWQ4vpqHuIeSkEuk7hMlEwMujEF5N4_snom6Se2nC4vXT5rYVRNg3xhPWbDnXBGJN4bhliB2a9vOAR5dm9Y0OOA89z5QpCC2CFtONQs1CrUSydcK8ceEBuLVOSeqElRokzC7n_iR-g2rT-ZFGgGmjl4Nh68m6h1hQmKlE0F0H7nZaBY8FaAI6a7-OtlCGzkqlbFOgDo-pK8eqQKiM9yfFlDqczhNJ_A3XttqXGQ9zKYl7XBE8LVhdwmzVg_EreUdWtxPWPsVEjzwgZy5AdfL2vyNyfY9ykfkEoq_rhE3PVjqcccK1wx7YGlPHXS9KZ0yagqrjCM7fh7E0z0moUs4584Ph4nEaS5lOerTwKZRtItBM2xW9rYCfcIT7XvqMpvysd1huEAcCJrSJH6lZ5B2_OmjcH746ggIBFIC-VMsUoqMMBtURPhUNWY-T3odhFZ-3ZhlcPkVhuT1uygd8ZwIbHAsxw5eaUTlm1E4Vt8OwkJ3nCeqIGWp38edSohab1chMI1V3uLIq5rZiEtEsJKVyjlYKIW8RsLV_AIGELvwMshjG033_RQSEWZJ0gDfpPQnYJIJDrDRmZpVgh59nVgpuXnlczF0W99dlT3h32NVHMt0BNDbMRZ7XNpyU_fCU0k8pr8CgWXMQXE180usNNtETZ6eWGOlqHfgZxpt0kEYav7HzF_m-DmyP1rZ_sh0tZxtDI_xwYpSvwuQJZsPCravy6HhkzuWzHX1Zmggi8AkLGfZFveg9No9AuC1r3xZGESBAYz_NtFEMsSpwZVYNRtA8XC8bBmmVuZMgLCqnRMj6hP7ehTf0w=w619-h619-s-no?authuser=0" class="img-fluid z-depth-1" alt="My photo" v-motion-slide-visible-once-left>
+                        <div class="d-flex justify-content-center align-items-center">
+                            <img src="https://lh3.googleusercontent.com/pw/ABLVV86THcuyHj40g8SuCPb6ra1_a8j9PvxB9AvmJV9d_SmPshqzw8rTFj7d3v-19zwpoj27bsgkiZuGD0bkD_oW1FZfIkhco8wAkTyy6kTi-queGZhY-ogoJQ2GXIVgPNtROIkEWuZcWIQ_heIJpT0Ich9Bs6TNMH3UW0h3xc8f6zKiuJCteSOR_kPorqcL9awRzQEKGIh8N1FP6lzRyWTNVFtD9pNB96_qGI9L4FfZhGQzhKbJtcR4_IKf5jUhX0GZk3WcD2KTAoZmpGYIAQf4JQHZWpTEQU7s-v-U_HtNqgsWc8dosPStqU_LP5BzAdaUH_SEKotIU1g1bs2xImN-WVpm1fuOw23D7gHCeObPRXANCJ4C0VRVs6m0O4Itjuc0KJPGle11F5R-Y7uQ08FZCss-4L9K2Y-bwKlLOfytbwmV91D6jkEGSoQdoOLrwEDKVPDJMfziHrzzlDndJWQ8K4gstm8S9H2DzKptPhLqvhA5BBfOgWIHi0RZXS753P7fOCYr_f-ZGN0QsM67cmeGUdAUPRwWoOOkEWiGA83csw51BQlOM77zloJ_1-pWmX2g9eXDMZKt0b-oLIqL7e4FXD8ZZ3heaRVBbpOwsbiS28plM6L0VyktERbnWq09a3vQHUK7KQV2jRba8TiopUjhg0l56zuxW3U6b0CPD6T4AiBIy-lKxNRGirpE7jmXd7EZedjiUXzQffdAP9by6inJcddyiDvtOe5d0O2L0dzSyC1GeGHLbbSbNQJD8bUjCOdCQF8YiAvgEQ_itA8GBV2dqo21HgwHMBN49ChXBw5OT48JTTIw8fRTS0kS62EH7MoIoEafAqEnlCyRhXn028f5naVWnZDkXC2yJWYV097BYGJdk11H32-rMTVYe0rECdlvQA=w1000" class="img-fluid rounded-circle w-75" alt="My photo" v-motion-slide-visible-once-left>
                         </div>
                     </div>
                     <!--/First column-->
@@ -50,25 +49,13 @@ const currentAge = getAge("1996/12/19");
                 </div>
                 <!-- /.First row -->
             </section>
-        <!-- /.Section About -->
+            <!-- /.Section About -->
         </div>
     </div>
 </template>
 
 <style scoped>
-.portrait {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-#portrait {
-    border-radius: 50%;
-    width: 75%;
-    /* height: 50%; */
-}
-
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
     .about-p {
         display: flex;
         justify-content: center;
