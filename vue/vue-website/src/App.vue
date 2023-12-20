@@ -55,60 +55,109 @@ const currentYear = new Date().getFullYear();
 
   <RouterView />
 
-  <MDBFooter text="center" style="background-color: #f1f1f1">
-      <!-- Grid container -->
-      <MDBContainer class="pt-4">
-        <!-- Section: Social media -->
-        <section class="mb-4">
-          <!-- Instagram -->
-          <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
-            href="https://www.instagram.com/its.juancortes/"
-            role="button"
-            v-mdb-ripple="{ color: 'dark' }"
-            ><MDBIcon iconStyle="fab" icon="instagram"></MDBIcon
-          ></a>
-          <!-- Linkedin -->
-          <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
-            href="https://www.linkedin.com/in/juan-cortes1219/"
-            role="button"
-            v-mdb-ripple="{ color: 'dark' }"
-            ><MDBIcon iconStyle="fab" icon="linkedin"></MDBIcon
-          ></a>
-          <!-- Github -->
-          <a
-            class="btn btn-link btn-floating btn-lg text-dark m-1"
-            href="https://github.com/juancortes1219"
-            role="button"
-            v-mdb-ripple="{ color: 'dark' }"
-            ><MDBIcon iconStyle="fab" icon="github"></MDBIcon
-          ></a>
-        </section>
-        <!-- Section: Social media -->
-      </MDBContainer>
-      <!-- Grid container -->
-      <!-- Copyright -->
-      <div
-        id="copyright"
-        class="text-center text-dark p-3"
-        style="background-color: rgba(0, 0, 0, 0.2)"
+  <MDBFooter class="footer-section bg-image" text="center" style="background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86n6hjG103QTtajZQzjrIBu_UJ_CX_1sxj4I_flxmuBjLWDdFnPUvDfeIkaDOOmjrjaYdLl_y24Ij3Z0IyFbJnchnkD6cP0Vnu0uN32Y9bi-A6Gy74=w2400');">
+    <!-- Grid container -->
+    <MDBContainer class="contact-icons">
+      <!-- Section: Social media -->
+      <section class="mb-4">
+        <!-- Instagram -->
+        <a
+          class="btn btn-link btn-floating btn-lg text-white m-1"
+          href="https://www.instagram.com/its.juancortes/"
+          role="button"
+          target="_blank"
+          v-mdb-ripple="{ color: 'dark' }"
+          ><MDBIcon iconStyle="fab" icon="instagram"></MDBIcon
+        ></a>
+        <!-- Linkedin -->
+        <a
+          class="btn btn-link btn-floating btn-lg text-white m-1"
+          href="https://www.linkedin.com/in/juan-cortes1219/"
+          role="button"
+          target="_blank"
+          v-mdb-ripple="{ color: 'dark' }"
+          ><MDBIcon iconStyle="fab" icon="linkedin"></MDBIcon
+        ></a>
+        <!-- Github -->
+        <a
+          class="btn btn-link btn-floating btn-lg text-white m-1"
+          href="https://github.com/juancortes1219"
+          role="button"
+          target="_blank"
+          v-mdb-ripple="{ color: 'dark' }"
+          ><MDBIcon iconStyle="fab" icon="github"></MDBIcon
+        ></a>
+      </section>
+      <!-- Section: Social media -->
+    </MDBContainer>
+    <!-- Grid container -->
+    <!-- Copyright -->
+    <div
+      id="copyright"
+      class="text-center text-white p-3"
+      style="font-size: 1.5rem;"
+    >
+      © {{ currentYear }} by 
+      <a class="footer-name text-white" href="/"
+        >Juan Cortes</a
       >
-        © {{ currentYear }} by 
-        <a class="text-dark" href="/"
-          >Juan Cortes</a
-        >.
-      </div>
-      <!-- Copyright -->
-    </MDBFooter>
+    </div>
+    <!-- Copyright -->
+    <div class="top-mask"></div>
+    <!-- <div class="bottom-mask"></div> -->
+  </MDBFooter>
 </template>
 
 <style scoped>
-.navbar {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+/* Styling for Footer icons */
+.contact-icons {
+  padding-bottom: 30%;
+}
+
+.btn-lg, .btn-group-lg>.btn {
+  --mdb-btn-font-size: 2rem !important;
+}
+
+a:hover.btn-lg, .btn-group-lg>.btn {
+  color: var(--accent-three) !important;
+}
+
+.btn-link {
+  --mdb-btn-hover-bg: none !important;
 }
 /* Styling for Footer icons */
-.btn-lg, .btn-group-lg>.btn {
-  --mdb-btn-font-size: 1.5rem !important;
+
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  height: 60vh !important;
+}
+
+.top-mask {
+    position: relative;
+    bottom: 60vh;
+    margin-bottom: -20vh;
+    width: 100%;
+    height: 20vh;
+    overflow: hidden;
+    background-attachment: fixed;
+    background: var(--top-fade);
+    /* background-color: rgba(0, 0, 255, 0.5); */
+}
+
+.footer-name:hover {
+  color: var(--accent-three) !important;
+}
+
+@media (min-width: 992px) {
+    .footer-section {
+      background-position-y: -450px;
+    }
+
+    .contact-icons {
+      padding-bottom: 4%;
+    }
 }
 </style>

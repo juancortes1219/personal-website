@@ -9,6 +9,7 @@ declare module 'vue' {
   export interface GlobalComponents {
     AboutSection: typeof import('./src/components/AboutSection.vue')['default']
     HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
+    ImageComponent: typeof import('./src/components/ImageComponent.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     SplidejsCarousel: typeof import('./src/components/SplidejsCarousel.vue')['default']
