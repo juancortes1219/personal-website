@@ -33,10 +33,14 @@
 </template>
 
 <style scoped>
+/* Styling for Jumbotron section */
 .jumbotron {
   height: calc(100vh - 50px);
   background-attachment: scroll;
 }
+/* Styling for Jumbotron section */
+
+/* Styling for VueTyper */
 .vue-typer {
   --char-typed-color: var(--mdb-primary);
   --caret-complete-color: white;
@@ -46,30 +50,36 @@
   --caret-erasing-color: white;
   --caret-complete-color: white;
 }
+/* Styling for VueTyper */
 
+/* Styling for headings */
 h1 {
-    font-size: 3rem;
-  }
+  font-size: 3rem;
+}
 
-  h3 {
-    font-size: 2rem;
-  }
+h3 {
+  font-size: 2rem;
+}
 
-  h4 {
-    font-size: 1.75rem;
-  }
+h4 {
+  font-size: 1.75rem;
+}
+/* Styling for headings */
 
 @media (min-width: 992px) {
-.jumbotron {
-  background-attachment: fixed;
-}
+  /* Styling for Jumbotron section */
+  .jumbotron {
+    background-attachment: fixed;
+  }
 
   .jumbotron-text {
     justify-content: left !important;
     text-align: left !important;
     padding-left: 6rem;
   }
+  /* Styling for Jumbotron section */
   
+  /* Styling for headings */
   h1 {
     font-size: 5rem;
   }
@@ -81,5 +91,6 @@ h1 {
   h4 {
     font-size: 2rem;
   }
+  /* Styling for headings */
 }
 </style>

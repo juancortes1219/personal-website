@@ -53,16 +53,18 @@
 </template>
 
 <style scoped>
+/* Styling for Stack/Skills section */
 .tech-skills {
     padding-top: 2rem;
 }
+/* Styling for Stack/Skills section */
 
+/* Styling for Swiper */
 swiper-container {
     margin-top: -1rem;
     padding-left: 2rem;
     padding-right: 2rem;
     height: 6rem;
-    /* background-color: gray; */
 }
 
 swiper-slide {
@@ -86,8 +88,10 @@ swiper-slide p {
 .icon-text {
     margin-top: 0.1rem;
 }
+/* Styling for Swiper */
 
 @media (min-width: 992px) {
+    /* Styling for Swiper */
     swiper-container {
         padding-left: 4rem;
         padding-right: 4rem;
@@ -110,5 +114,6 @@ swiper-slide p {
     .icon-text {
         margin-top: 0.3rem;
     }
+    /* Styling for Swiper */
 }
 </style>

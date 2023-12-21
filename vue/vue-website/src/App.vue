@@ -36,9 +36,9 @@ const currentYear = new Date().getFullYear();
           <MDBNavbarItem to="/">
             Home
           </MDBNavbarItem>
-          <MDBNavbarItem href="/#about">
+          <!-- <MDBNavbarItem href="/#about">
             About
-          </MDBNavbarItem>
+          </MDBNavbarItem> -->
           <MDBNavbarItem to="projects">
             Projects
           </MDBNavbarItem>
@@ -104,11 +104,24 @@ const currentYear = new Date().getFullYear();
     </div>
     <!-- Copyright -->
     <div class="top-mask"></div>
-    <!-- <div class="bottom-mask"></div> -->
   </MDBFooter>
 </template>
 
 <style scoped>
+/* Styling for Footer */
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  height: 60vh !important;
+}
+
+.footer-name:hover {
+  color: var(--accent-three) !important;
+}
+/* Styling for Footer */
+
 /* Styling for Footer icons */
 .contact-icons {
   padding-bottom: 30%;
@@ -127,14 +140,7 @@ a:hover.btn-lg, .btn-group-lg>.btn {
 }
 /* Styling for Footer icons */
 
-.footer-section {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: center;
-  height: 60vh !important;
-}
-
+/* Styling for top-fade effect/mask */
 .top-mask {
     position: relative;
     bottom: 60vh;
@@ -144,20 +150,20 @@ a:hover.btn-lg, .btn-group-lg>.btn {
     overflow: hidden;
     background-attachment: fixed;
     background: var(--top-fade);
-    /* background-color: rgba(0, 0, 255, 0.5); */
 }
-
-.footer-name:hover {
-  color: var(--accent-three) !important;
-}
+/* Styling for top-fade effect/mask */
 
 @media (min-width: 992px) {
-    .footer-section {
-      background-position-y: -450px;
-    }
+  /* Styling for Footer */
+  .footer-section {
+    background-position-y: -450px;
+  }
+  /* Styling for Footer */
 
-    .contact-icons {
-      padding-bottom: 4%;
-    }
+  /* Styling for Footer icons */
+  .contact-icons {
+    padding-bottom: 4%;
+  }
+  /* Styling for Footer icons */
 }
 </style>

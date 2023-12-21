@@ -8,6 +8,7 @@
 </template>
 
 <style scoped>
+/* Styling for Image section */
 .image-component {
     height: 100vh;
     background-attachment: scroll;
@@ -34,11 +35,13 @@
     background-attachment: fixed;
     background: var(--bottom-fade);
 }
+/* Styling for Image section */
 
 @media (min-width: 992px) {
+    /* Styling for Image section */
     .image-component {
         background-attachment: fixed;
     }
-  
+    /* Styling for Image section */
 }
 </style>

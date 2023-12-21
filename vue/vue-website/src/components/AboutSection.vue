@@ -59,6 +59,7 @@ const currentAge = getAge(dateString);
 </template>
 
 <style scoped>
+/* Styling for About section */
 .about-section {
     height: 100vh;
 }
@@ -66,12 +67,15 @@ const currentAge = getAge(dateString);
 .container-fluid {
     margin-bottom: 2rem;
 }
+/* Styling for Image section */
 
 @media (min-width: 992px) {
+    /* Styling for Image section */
     .about-p {
         display: flex;
         justify-content: center;
         align-items: center;
     }
+    /* Styling for Image section */
 }
 </style>
