@@ -1,6 +1,6 @@
 <template>
     <div
-        class="image-component bg-image bg-fixed"
+        class="image-component bg-image"
         style="background-image: url('https://lh3.googleusercontent.com/pw/ABLVV878SswofaGs2uitkTuL4ydygePx_89rubyLNm6XV6yh81wW9K-iMhSpwLEiG6FHY9hqJ2kmZOLccjYWMjGRCHBcAHgultJHm5co6vfy3Zu1_lkx3n0=w2400');"
     ></div>
     <div class="top-mask"></div>
@@ -10,6 +10,7 @@
 <style scoped>
 .image-component {
     height: 100vh;
+    background-attachment: scroll;
 }
 
 .top-mask {
@@ -32,5 +33,12 @@
     overflow: hidden;
     background-attachment: fixed;
     background: var(--bottom-fade);
+}
+
+@media (min-width: 992px) {
+    .image-component {
+        background-attachment: fixed;
+    }
+  
 }
 </style>

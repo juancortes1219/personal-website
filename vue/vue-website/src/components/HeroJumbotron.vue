@@ -1,17 +1,14 @@
 <template>
   <!-- Background image -->
   <div
-    class="jumbotron text-center bg-image bg-fixed"
+    class="jumbotron text-center bg-image"
     style="background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86ydRNTnsjo82r6l7FWvXH3nFUZerx6DouLP7dmDrkzsxy_6dQ1Ri82YvM_2HwChRh0ne9n8TUtzImxg37aBPiO97H8yUA4AuR85ycOCU2KzvuwlhE=w2400');"
   >
-  <!-- style="background-color: rgba(0, 0, 0, 0.7);" -->
     <div class="mask" style="background: var(--bottom-fade)">
       <div class="jumbotron-text d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
           <h3 class="mb-0">Hello, I'm</h3>
-          <!-- <div class="d-flex justify-content-center align-items-center h-100"> -->
-            <h1 class="mb-3" style="color: var(--accent-one);">Juan Cortes</h1>
-          <!-- </div> -->
+          <h1 class="mb-3" style="color: var(--accent-one);">Juan Cortes</h1>
           <h4>
             A
             <VueTyper
@@ -38,9 +35,9 @@
 <style scoped>
 .jumbotron {
   height: calc(100vh - 50px);
+  background-attachment: scroll;
 }
 .vue-typer {
-  /* --char-typed-color: white; */
   --char-typed-color: var(--mdb-primary);
   --caret-complete-color: white;
   --caret-idle-color: white;
@@ -50,9 +47,8 @@
   --caret-complete-color: white;
 }
 
-@media (min-width: 756px) {
-  h1 {
-    font-size: 4rem;
+h1 {
+    font-size: 3rem;
   }
 
   h3 {
@@ -60,11 +56,14 @@
   }
 
   h4 {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
-}
 
 @media (min-width: 992px) {
+.jumbotron {
+  background-attachment: fixed;
+}
+
   .jumbotron-text {
     justify-content: left !important;
     text-align: left !important;
