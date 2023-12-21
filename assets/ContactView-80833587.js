@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as o,p as s,a as _,b as a}from"./index-391f28c7.js";const n={},d=e=>(s("data-v-db573632"),e=e(),_(),e),p={class:"contact"},i=d(()=>a("h1",null,"This is the Contact page.",-1)),r=[i];function h(e,l){return c(),o("div",p,r)}const f=t(n,[["render",h],["__scopeId","data-v-db573632"]]);export{f as default};
