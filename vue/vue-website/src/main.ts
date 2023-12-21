@@ -5,7 +5,6 @@ import { createPinia } from 'pinia'
 
 import App from './App.vue'
 import router from './router'
-
 // Imports from vue3-typer
 import VueTyper from 'vue3-typer'
 import "vue3-typer/dist/vue-typer.css"
@@ -17,8 +16,8 @@ import 'mdb-vue-ui-kit/css/mdb.min.css'
 import { MotionPlugin } from '@vueuse/motion'
 
 // Imports for vue-splide
-import VueSplide from '@splidejs/vue-splide'
-import '@splidejs/vue-splide/css'
+// import VueSplide from '@splidejs/vue-splide'
+// import '@splidejs/vue-splide/css'
 
 // import function to register Swiper custom elements
 import { register } from 'swiper/element/bundle';
@@ -48,7 +47,7 @@ app.use(router)
 
 app.use(VueTyper)   // Registering vue3-typer
 app.use(MotionPlugin)   // Registering motion
-app.use(VueSplide)  // Registering vue-splide
+// app.use(VueSplide)  // Registering vue-splide
 
 app.component('font-awesome-icon', FontAwesomeIcon) // Needed for fontawesome
 

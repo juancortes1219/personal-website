@@ -12,7 +12,7 @@ declare module 'vue' {
     ImageComponent: typeof import('./src/components/ImageComponent.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
-    SplidejsCarousel: typeof import('./src/components/SplidejsCarousel.vue')['default']
+    // SplidejsCarousel: typeof import('./src/components/SplidejsCarousel.vue')['default']
     TechSkillsCarousel: typeof import('./src/components/TechSkillsCarousel.vue')['default']
   }
 }
