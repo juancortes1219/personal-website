@@ -10,6 +10,7 @@ import {BootstrapVueNextResolver} from 'unplugin-vue-components/resolvers'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/personal-website/',
   plugins: [
     vue({
       template: {
