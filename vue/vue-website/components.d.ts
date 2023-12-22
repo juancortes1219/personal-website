@@ -10,6 +10,7 @@ declare module 'vue' {
     AboutSection: typeof import('./src/components/AboutSection.vue')['default']
     HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
     ImageComponent: typeof import('./src/components/ImageComponent.vue')['default']
+    PageLoader: typeof import('./src/components/PageLoader.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     TechSkillsCarousel: typeof import('./src/components/TechSkillsCarousel.vue')['default']

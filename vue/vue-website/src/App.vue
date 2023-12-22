@@ -1,6 +1,23 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
 
+/* Needed for PageLoader */
+import { computed, onMounted } from 'vue';
+import { useStore } from 'vuex';
+import PageLoader from './components/PageLoader.vue';
+
+const store = useStore();
+const isLoading = computed(() => store.state.isLoading);
+
+// Use onMounted to run code after the component is mounted
+onMounted(() => {
+  // Simulate an asynchronous action (e.g., fetching data)
+  setTimeout(() => {
+    store.commit('setLoading', false);
+  }, 3000);
+});
+/* Needed for PageLoader */
+
 // Imports for MDBootstrap
 import {
     MDBNavbar,
@@ -24,104 +41,94 @@ const currentYear = new Date().getFullYear();
 </script>
 
 <template>
-  <header>
-    <MDBNavbar expand="lg" position="top" container>
-      <MDBNavbarBrand href="#">Brand</MDBNavbarBrand>
-      <MDBNavbarToggler
-        @click="collapse1 = !collapse1"
-        target="#navbarSupportedContent"
-      ></MDBNavbarToggler>
-      <MDBCollapse v-model="collapse1" id="navbarSupportedContent">
-        <MDBNavbarNav right class="mb-2 mb-lg-0">
-          <MDBNavbarItem to="/">
-            Home
-          </MDBNavbarItem>
-          <!-- <MDBNavbarItem href="/#about">
-            About
-          </MDBNavbarItem> -->
-          <MDBNavbarItem to="projects">
-            Projects
-          </MDBNavbarItem>
-          <MDBNavbarItem to="photos">
-            Photos
-          </MDBNavbarItem>
-          <MDBNavbarItem to="contact">
-            Contact Me
-          </MDBNavbarItem>
-        </MDBNavbarNav>
-      </MDBCollapse>
-    </MDBNavbar>
-  </header>
-
-  <RouterView />
-
-  <MDBFooter class="footer-section bg-image" text="center" style="background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86n6hjG103QTtajZQzjrIBu_UJ_CX_1sxj4I_flxmuBjLWDdFnPUvDfeIkaDOOmjrjaYdLl_y24Ij3Z0IyFbJnchnkD6cP0Vnu0uN32Y9bi-A6Gy74=w2400');">
-    <!-- Grid container -->
-    <MDBContainer class="contact-icons">
-      <!-- Section: Social media -->
-      <section class="mb-4">
-        <!-- Instagram -->
-        <a
-          class="btn btn-link btn-floating btn-lg text-white m-1"
-          href="https://www.instagram.com/its.juancortes/"
-          role="button"
-          target="_blank"
-          v-mdb-ripple="{ color: 'dark' }"
-          ><MDBIcon iconStyle="fab" icon="instagram"></MDBIcon
-        ></a>
-        <!-- Linkedin -->
-        <a
-          class="btn btn-link btn-floating btn-lg text-white m-1"
-          href="https://www.linkedin.com/in/juan-cortes1219/"
-          role="button"
-          target="_blank"
-          v-mdb-ripple="{ color: 'dark' }"
-          ><MDBIcon iconStyle="fab" icon="linkedin"></MDBIcon
-        ></a>
-        <!-- Github -->
-        <a
-          class="btn btn-link btn-floating btn-lg text-white m-1"
-          href="https://github.com/juancortes1219"
-          role="button"
-          target="_blank"
-          v-mdb-ripple="{ color: 'dark' }"
-          ><MDBIcon iconStyle="fab" icon="github"></MDBIcon
-        ></a>
-      </section>
-      <!-- Section: Social media -->
-    </MDBContainer>
-    <!-- Grid container -->
-    <!-- Copyright -->
-    <div
-      id="copyright"
-      class="text-center text-white p-3"
-      style="font-size: 1.5rem;"
-    >
-      © {{ currentYear }} by 
-      <a class="footer-name text-white" href="/"
-        >Juan Cortes</a
+  <PageLoader v-if="isLoading" />
+  <main v-else>
+    <header>
+      <MDBNavbar expand="lg" position="top" container>
+        <MDBNavbarBrand href="#">Brand</MDBNavbarBrand>
+        <MDBNavbarToggler
+          @click="collapse1 = !collapse1"
+          target="#navbarSupportedContent"
+        ></MDBNavbarToggler>
+        <MDBCollapse v-model="collapse1" id="navbarSupportedContent">
+          <MDBNavbarNav right class="mb-2 mb-lg-0">
+            <MDBNavbarItem to="/">
+              Home
+            </MDBNavbarItem>
+            <!-- <MDBNavbarItem href="/#about">
+              About
+            </MDBNavbarItem> -->
+            <MDBNavbarItem to="projects">
+              Projects
+            </MDBNavbarItem>
+            <MDBNavbarItem to="photos">
+              Photos
+            </MDBNavbarItem>
+            <MDBNavbarItem to="contact">
+              Contact Me
+            </MDBNavbarItem>
+          </MDBNavbarNav>
+        </MDBCollapse>
+      </MDBNavbar>
+    </header>
+    
+    <RouterView />
+    
+    <MDBFooter class="footer-section bg-image" text="center" style="background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86n6hjG103QTtajZQzjrIBu_UJ_CX_1sxj4I_flxmuBjLWDdFnPUvDfeIkaDOOmjrjaYdLl_y24Ij3Z0IyFbJnchnkD6cP0Vnu0uN32Y9bi-A6Gy74=w2400');">
+      <!-- Grid container -->
+      <MDBContainer class="contact-icons">
+        <!-- Section: Social media -->
+        <section class="mb-4">
+          <!-- Instagram -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-white m-1"
+            href="https://www.instagram.com/its.juancortes/"
+            role="button"
+            target="_blank"
+            v-mdb-ripple="{ color: 'dark' }"
+            ><MDBIcon iconStyle="fab" icon="instagram"></MDBIcon
+          ></a>
+          <!-- Linkedin -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-white m-1"
+            href="https://www.linkedin.com/in/juan-cortes1219/"
+            role="button"
+            target="_blank"
+            v-mdb-ripple="{ color: 'dark' }"
+            ><MDBIcon iconStyle="fab" icon="linkedin"></MDBIcon
+          ></a>
+          <!-- Github -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-white m-1"
+            href="https://github.com/juancortes1219"
+            role="button"
+            target="_blank"
+            v-mdb-ripple="{ color: 'dark' }"
+            ><MDBIcon iconStyle="fab" icon="github"></MDBIcon
+          ></a>
+        </section>
+        <!-- Section: Social media -->
+      </MDBContainer>
+      <!-- Grid container -->
+      <!-- Copyright -->
+      <div
+        id="copyright"
+        class="text-center text-white p-3"
+        style="font-size: 1.5rem;"
       >
-    </div>
-    <!-- Copyright -->
-    <div class="top-mask"></div>
-  </MDBFooter>
+        © {{ currentYear }} by 
+        <a class="footer-name text-white" href="/"
+          >Juan Cortes</a
+        >
+      </div>
+      <!-- Copyright -->
+      <div class="top-mask"></div>
+      <!-- <div class="bottom-mask"></div> -->
+    </MDBFooter>
+  </main>
 </template>
 
 <style scoped>
-/* Styling for Footer */
-.footer-section {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  align-items: center;
-  height: 60vh !important;
-}
-
-.footer-name:hover {
-  color: var(--accent-three) !important;
-}
-/* Styling for Footer */
-
 /* Styling for Footer icons */
 .contact-icons {
   padding-bottom: 30%;
@@ -140,7 +147,14 @@ a:hover.btn-lg, .btn-group-lg>.btn {
 }
 /* Styling for Footer icons */
 
-/* Styling for top-fade effect/mask */
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  height: 60vh !important;
+}
+
 .top-mask {
     position: relative;
     bottom: 60vh;
@@ -150,20 +164,20 @@ a:hover.btn-lg, .btn-group-lg>.btn {
     overflow: hidden;
     background-attachment: fixed;
     background: var(--top-fade);
+    /* background-color: rgba(0, 0, 255, 0.5); */
 }
-/* Styling for top-fade effect/mask */
+
+.footer-name:hover {
+  color: var(--accent-three) !important;
+}
 
 @media (min-width: 992px) {
-  /* Styling for Footer */
-  .footer-section {
-    background-position-y: -450px;
-  }
-  /* Styling for Footer */
+    .footer-section {
+      background-position-y: -450px;
+    }
 
-  /* Styling for Footer icons */
-  .contact-icons {
-    padding-bottom: 4%;
-  }
-  /* Styling for Footer icons */
+    .contact-icons {
+      padding-bottom: 4%;
+    }
 }
 </style>

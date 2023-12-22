@@ -37,6 +37,9 @@ import { fas } from '@fortawesome/free-solid-svg-icons';
 library.add(fab)
 library.add(fas)
 
+// import vuex from 'vuex@next';
+import { store } from './stores/preloader';
+
 const app = createApp(App)
 
 app.use(createPinia())
@@ -44,6 +47,7 @@ app.use(router)
 
 app.use(VueTyper)   // Registering vue3-typer
 app.use(MotionPlugin)   // Registering motion
+app.use(store); // Registering preloader
 
 app.component('font-awesome-icon', FontAwesomeIcon) // Needed for fontawesome
 
