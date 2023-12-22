@@ -152,3 +152,12 @@ a:hover.router-link-active.router-link-exact-active.nav-link {
 h1 {
   font-weight: 700 !important;
 }
+
+.vue-typer {
+  --char-typed-color: white !important;
+  --caret-complete-color: white !important;
+  --caret-idle-color: white !important;
+  --caret-typing-color: white !important;
+  --caret-selecting-color: white !important;
+  --caret-erasing-color: white !important;
+}

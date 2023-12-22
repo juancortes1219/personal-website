@@ -42,13 +42,7 @@
 
 /* Styling for VueTyper */
 .vue-typer {
-  --char-typed-color: var(--mdb-primary);
-  --caret-complete-color: white;
-  --caret-idle-color: white;
-  --caret-typing-color: white;
-  --caret-selecting-color: white;
-  --caret-erasing-color: white;
-  --caret-complete-color: white;
+  --char-typed-color: var(--mdb-primary) !important;
 }
 /* Styling for VueTyper */
 

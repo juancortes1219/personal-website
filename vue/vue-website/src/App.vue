@@ -44,7 +44,7 @@ const currentYear = new Date().getFullYear();
   <PageLoader v-if="isLoading" />
   <main v-else>
     <header>
-      <MDBNavbar expand="lg" position="top" container>
+      <MDBNavbar expand="lg" position="top" container class="nav-bar">
         <MDBNavbarBrand href="#">Brand</MDBNavbarBrand>
         <MDBNavbarToggler
           @click="collapse1 = !collapse1"
@@ -129,6 +129,12 @@ const currentYear = new Date().getFullYear();
 </template>
 
 <style scoped>
+/* Bottom border for Navbar */
+.nav-bar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+/* Bottom border for Navbar */
+
 /* Styling for Footer icons */
 .contact-icons {
   padding-bottom: 30%;
@@ -147,6 +153,7 @@ a:hover.btn-lg, .btn-group-lg>.btn {
 }
 /* Styling for Footer icons */
 
+/* Styling for Footer */
 .footer-section {
   display: flex;
   flex-direction: column;
@@ -164,12 +171,12 @@ a:hover.btn-lg, .btn-group-lg>.btn {
     overflow: hidden;
     background-attachment: fixed;
     background: var(--top-fade);
-    /* background-color: rgba(0, 0, 255, 0.5); */
 }
 
 .footer-name:hover {
   color: var(--accent-three) !important;
 }
+/* Styling for Footer */
 
 @media (min-width: 992px) {
     .footer-section {

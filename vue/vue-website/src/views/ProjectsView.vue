@@ -1,14 +1,34 @@
 <template>
-    <div class="projects">
-      <h1>This is the Projects page.</h1>
-    </div>
-  </template>
+  <div class="projects">
+    <h1>
+      Projects 
+      <VueTyper
+        :text='["coming soon"]'
+        :repeat='Infinity'
+        :shuffle='false'
+        initial-action='typing'
+        :pre-type-delay='1000'
+        :type-delay='70'
+        :pre-erase-delay='1500'
+        :erase-delay='70'
+        erase-style='backspace'
+        :erase-on-complete='false'
+        caret-animation='blink'
+      ></VueTyper>
+    </h1>
+  </div>
+</template>
   
   <style scoped>
   .projects {
-    min-height: 100vh;
+    height: calc(100vh - 50px);
     display: flex;
+    justify-content: center;
     align-items: center;
   }
-  </style>
+
+.vue-typer {
+  --char-typed-color: var(--mdb-primary) !important;
+}
+</style>
   
