@@ -1,1 +1,0 @@
-import{_ as o,o as s,c as t,p as _,a as c,b as a}from"./index-1ab8b6a7.js";const d={},n=e=>(_("data-v-fae484fb"),e=e(),c(),e),p={class:"photos"},h=n(()=>a("h1",null,"This is the Photos page.",-1)),i=[h];function f(e,r){return s(),t("div",p,i)}const u=o(d,[["render",f],["__scopeId","data-v-fae484fb"]]);export{u as default};
