@@ -10,29 +10,27 @@
         ></MDBNavbarToggler>
         <MDBCollapse v-model="collapse1" id="navbarSupportedContent">
           <MDBNavbarNav right class="mb-2 mb-lg-0">
-            <MDBNavbarItem to="/">
-              Home
-            </MDBNavbarItem>
+            <MDBNavbarItem to="/"> Home </MDBNavbarItem>
             <!-- <MDBNavbarItem href="/#about">
               About
             </MDBNavbarItem> -->
-            <MDBNavbarItem to="projects">
-              Projects
-            </MDBNavbarItem>
-            <MDBNavbarItem to="photos">
-              Photos
-            </MDBNavbarItem>
-            <MDBNavbarItem to="contact">
-              Contact Me
-            </MDBNavbarItem>
+            <MDBNavbarItem to="projects"> Projects </MDBNavbarItem>
+            <MDBNavbarItem to="photos"> Photos </MDBNavbarItem>
+            <MDBNavbarItem to="contact"> Contact Me </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>
       </MDBNavbar>
     </header>
-    
+
     <RouterView />
-    
-    <MDBFooter class="footer-section bg-image" text="center" style="background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86n6hjG103QTtajZQzjrIBu_UJ_CX_1sxj4I_flxmuBjLWDdFnPUvDfeIkaDOOmjrjaYdLl_y24Ij3Z0IyFbJnchnkD6cP0Vnu0uN32Y9bi-A6Gy74=w2400');">
+
+    <MDBFooter
+      class="footer-section bg-image"
+      text="center"
+      style="
+        background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86n6hjG103QTtajZQzjrIBu_UJ_CX_1sxj4I_flxmuBjLWDdFnPUvDfeIkaDOOmjrjaYdLl_y24Ij3Z0IyFbJnchnkD6cP0Vnu0uN32Y9bi-A6Gy74=w2400');
+      "
+    >
       <!-- Grid container -->
       <MDBContainer class="contact-icons">
         <!-- Section: Social media -->
@@ -69,15 +67,9 @@
       </MDBContainer>
       <!-- Grid container -->
       <!-- Copyright -->
-      <div
-        id="copyright"
-        class="text-center text-white p-3"
-        style="font-size: 1.5rem;"
-      >
-        © {{ currentYear }} by 
-        <a class="footer-name text-white" href="/"
-          >Juan Cortes</a
-        >
+      <div id="copyright" class="text-center text-white p-3" style="font-size: 1.5rem">
+        © {{ currentYear }} by
+        <a class="footer-name text-white" href="/">Juan Cortes</a>
       </div>
       <!-- Copyright -->
       <div class="top-mask"></div>
@@ -87,45 +79,45 @@
 </template>
 
 <script setup lang="ts">
-  import { RouterView } from 'vue-router'
+import { RouterView } from 'vue-router'
 
-  /* Needed for PageLoader */
-  import { computed, onMounted } from 'vue';
-  import { useStore } from 'vuex';
-  import PageLoader from './components/PageLoader.vue';
+/* Needed for PageLoader */
+import { computed, onMounted } from 'vue'
+import { useStore } from 'vuex'
+import PageLoader from './components/PageLoader.vue'
 
-  const store = useStore();
-  const isLoading = computed(() => store.state.isLoading);
+const store = useStore()
+const isLoading = computed(() => store.state.isLoading)
 
-  // Use onMounted to run code after the component is mounted
-  onMounted(() => {
-    // Simulate an asynchronous action (e.g., fetching data)
-    setTimeout(() => {
-      store.commit('setLoading', false);
-    }, 3000);
-  });
-  /* Needed for PageLoader */
+// Use onMounted to run code after the component is mounted
+onMounted(() => {
+  // Simulate an asynchronous action (e.g., fetching data)
+  setTimeout(() => {
+    store.commit('setLoading', false)
+  }, 3000)
+})
+/* Needed for PageLoader */
 
-  // Imports for MDBootstrap
-  import {
-    MDBNavbar,
-    MDBNavbarToggler,
-    MDBNavbarBrand,
-    MDBNavbarNav,
-    MDBNavbarItem,
-    MDBCollapse,
-    MDBFooter,
-    MDBContainer,
-    MDBIcon,
-    mdbRipple as vMdbRipple
-  } from 'mdb-vue-ui-kit';
-  import { ref } from 'vue';
+// Imports for MDBootstrap
+import {
+  MDBNavbar,
+  MDBNavbarToggler,
+  MDBNavbarBrand,
+  MDBNavbarNav,
+  MDBNavbarItem,
+  MDBCollapse,
+  MDBFooter,
+  MDBContainer,
+  MDBIcon,
+  mdbRipple as vMdbRipple
+} from 'mdb-vue-ui-kit'
+import { ref } from 'vue'
 
-  const collapse1 = ref(false);
-  // Imports for MDBootstrap
+const collapse1 = ref(false)
+// Imports for MDBootstrap
 
-  // Dynamic year for the 'Footer'
-  const currentYear = new Date().getFullYear();
+// Dynamic year for the 'Footer'
+const currentYear = new Date().getFullYear()
 </script>
 
 <style scoped>
@@ -140,11 +132,13 @@
   padding-bottom: 30%;
 }
 
-.btn-lg, .btn-group-lg>.btn {
+.btn-lg,
+.btn-group-lg > .btn {
   --mdb-btn-font-size: 2rem !important;
 }
 
-a:hover.btn-lg, .btn-group-lg>.btn {
+a:hover.btn-lg,
+.btn-group-lg > .btn {
   color: var(--accent-three) !important;
 }
 
@@ -163,14 +157,14 @@ a:hover.btn-lg, .btn-group-lg>.btn {
 }
 
 .top-mask {
-    position: relative;
-    bottom: 60vh;
-    margin-bottom: -20vh;
-    width: 100%;
-    height: 20vh;
-    overflow: hidden;
-    background-attachment: fixed;
-    background: var(--top-fade);
+  position: relative;
+  bottom: 60vh;
+  margin-bottom: -20vh;
+  width: 100%;
+  height: 20vh;
+  overflow: hidden;
+  background-attachment: fixed;
+  background: var(--top-fade);
 }
 
 .footer-name:hover {
@@ -179,12 +173,12 @@ a:hover.btn-lg, .btn-group-lg>.btn {
 /* Styling for Footer */
 
 @media (min-width: 992px) {
-    .footer-section {
-      background-position-y: -450px;
-    }
+  .footer-section {
+    background-position-y: -450px;
+  }
 
-    .contact-icons {
-      padding-bottom: 4%;
-    }
+  .contact-icons {
+    padding-bottom: 4%;
+  }
 }
 </style>

@@ -1,16 +1,16 @@
-import { createStore } from 'vuex';
+import { createStore } from 'vuex'
 
 interface AppState {
-  isLoading: boolean;
+  isLoading: boolean
 }
 
 export const store = createStore({
   state: {
-    isLoading: true,
+    isLoading: true
   } as AppState,
   mutations: {
     setLoading(state, isLoading: boolean) {
-      state.isLoading = isLoading;
-    },
-  },
-});
+      state.isLoading = isLoading
+    }
+  }
+})

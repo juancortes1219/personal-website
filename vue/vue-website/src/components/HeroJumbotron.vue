@@ -2,27 +2,29 @@
   <!-- Background image -->
   <div
     class="jumbotron text-center bg-image"
-    style="background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86ydRNTnsjo82r6l7FWvXH3nFUZerx6DouLP7dmDrkzsxy_6dQ1Ri82YvM_2HwChRh0ne9n8TUtzImxg37aBPiO97H8yUA4AuR85ycOCU2KzvuwlhE=w2400');"
+    style="
+      background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86ydRNTnsjo82r6l7FWvXH3nFUZerx6DouLP7dmDrkzsxy_6dQ1Ri82YvM_2HwChRh0ne9n8TUtzImxg37aBPiO97H8yUA4AuR85ycOCU2KzvuwlhE=w2400');
+    "
   >
     <div class="mask" style="background: var(--bottom-fade)">
       <div class="jumbotron-text d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
           <h3 class="mb-0">Hello, I'm</h3>
-          <h1 class="mb-3" style="color: var(--accent-one);">Juan Cortes</h1>
+          <h1 class="mb-3" style="color: var(--accent-one)">Juan Cortes</h1>
           <h4>
             A
             <VueTyper
-              :text='["Programmer","Photographer"]'
-              :repeat='Infinity'
-              :shuffle='false'
-              initial-action='erasing'
-              :pre-type-delay='70'
-              :type-delay='70'
-              :pre-erase-delay='1500'
-              :erase-delay='70'
-              erase-style='backspace'
-              :erase-on-complete='false'
-              caret-animation='blink'
+              :text="['Programmer', 'Photographer']"
+              :repeat="Infinity"
+              :shuffle="false"
+              initial-action="erasing"
+              :pre-type-delay="70"
+              :type-delay="70"
+              :pre-erase-delay="1500"
+              :erase-delay="70"
+              erase-style="backspace"
+              :erase-on-complete="false"
+              caret-animation="blink"
             ></VueTyper>
           </h4>
         </div>
@@ -72,7 +74,7 @@ h4 {
     padding-left: 6rem;
   }
   /* Styling for Jumbotron section */
-  
+
   /* Styling for headings */
   h1 {
     font-size: 5rem;

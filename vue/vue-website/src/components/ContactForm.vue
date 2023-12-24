@@ -44,47 +44,43 @@
 </template>
 
 <script setup lang="ts">
-  import {
-    MDBInput,
-    MDBBtn,
-    MDBTextarea
-  } from "mdb-vue-ui-kit";
-  import { ref } from "vue";
-  import emailjs from '@emailjs/browser';
+import { MDBInput, MDBBtn, MDBTextarea } from 'mdb-vue-ui-kit'
+import { ref } from 'vue'
+import emailjs from '@emailjs/browser'
 
-  const form4Name = ref("");
-  const form4Email = ref("");
-  const form4Subject = ref("");
-  const form4Textarea = ref("");
+const form4Name = ref('')
+const form4Email = ref('')
+const form4Subject = ref('')
+const form4Textarea = ref('')
 
-  const sendEmail = async () => {
-    try {
-      const templateParams = {
-        to_name: 'Juan',
-        from_name: form4Name.value,
-        from_email: form4Email.value,
-        subject: form4Subject.value,
-        message: form4Textarea.value,
-      };
-  
-      const response = await emailjs.send(
-        'service_gdszpy1',
-        'template_czq9b2t',
-        templateParams,
-        'HijV1CR_uVeS_0V-8'
-      );
-  
-      console.log('Email sent successfully:', response);
-      
-      // Reset form fields after successful submission
-      form4Name.value = '';
-      form4Email.value = '';
-      form4Subject.value = '';
-      form4Textarea.value = '';
-    } catch (error) {
-      console.error('Error sending email:', error);
+const sendEmail = async () => {
+  try {
+    const templateParams = {
+      to_name: 'Juan',
+      from_name: form4Name.value,
+      from_email: form4Email.value,
+      subject: form4Subject.value,
+      message: form4Textarea.value
     }
-  };
+
+    const response = await emailjs.send(
+      'service_gdszpy1',
+      'template_czq9b2t',
+      templateParams,
+      'HijV1CR_uVeS_0V-8'
+    )
+
+    console.log('Email sent successfully:', response)
+
+    // Reset form fields after successful submission
+    form4Name.value = ''
+    form4Email.value = ''
+    form4Subject.value = ''
+    form4Textarea.value = ''
+  } catch (error) {
+    console.error('Error sending email:', error)
+  }
+}
 </script>
 
 <style scoped>
@@ -92,11 +88,11 @@
   width: 70%;
 }
 .btn {
-    --mdb-btn-bg: var(--mdb-primary) !important;
-    --mdb-btn-color: white !important;
+  --mdb-btn-bg: var(--mdb-primary) !important;
+  --mdb-btn-color: white !important;
 }
 .btn:hover {
-    background-color: var(--accent-three);
+  background-color: var(--accent-three);
 }
 
 @media (min-width: 992px) {

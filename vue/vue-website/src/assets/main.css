@@ -24,8 +24,8 @@
   --mdb-gray-700: #616161 !important;
   --mdb-gray-800: #4f4f4f !important;
   --mdb-gray-900: #262626 !important;
-  --mdb-primary: #02A7D4 !important;  /* Changed */
-  --mdb-secondary: #1c6ed0 !important;  /* Changed */
+  --mdb-primary: #02a7d4 !important; /* Changed */
+  --mdb-secondary: #1c6ed0 !important; /* Changed */
   --mdb-success: #14a44d !important;
   --mdb-danger: #dc4c64 !important;
   --mdb-warning: #e4a11b !important;
@@ -44,15 +44,22 @@
   --mdb-black-rgb: 0, 0, 0 !important;
   --mdb-body-color-rgb: 79, 79, 79 !important;
   --mdb-body-bg-rgb: 255, 255, 255 !important;
-  --mdb-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
-  --mdb-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
-  --mdb-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0)) !important;
+  --mdb-font-sans-serif: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans',
+    'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+    'Noto Color Emoji' !important;
+  --mdb-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New',
+    monospace !important;
+  --mdb-gradient: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15),
+    rgba(255, 255, 255, 0)
+  ) !important;
   --mdb-body-font-family: var(--mdb-font-roboto) !important;
   --mdb-body-font-size: 1rem !important;
   --mdb-body-font-weight: 400 !important;
   --mdb-body-line-height: 1.6 !important;
   --mdb-body-color: white !important; /* Changed */
-  --mdb-body-bg: black !important;  /* Changed */
+  --mdb-body-bg: black !important; /* Changed */
   --mdb-border-width: 1px !important;
   --mdb-border-style: solid !important;
   --mdb-border-color: #e0e0e0 !important;
@@ -75,52 +82,51 @@
   --top-fade: linear-gradient(
     to bottom,
     black 0%,
-    rgba(0,0,0,0.738) 19%,
-    rgba(0,0,0,0.541) 34%,
-    rgba(0,0,0,0.382) 47%,
-    rgba(0,0,0,0.278) 56.5%,
-    rgba(0,0,0,0.194) 65%,
-    rgba(0,0,0,0.126) 73%,
-    rgba(0,0,0,0.075) 80.2%,
-    rgba(0,0,0,0.042) 86.1%,
-    rgba(0,0,0,0.021) 91%,
-    rgba(0,0,0,0.008) 95.2%,
-    rgba(0,0,0,0.002) 98.2%,
+    rgba(0, 0, 0, 0.738) 19%,
+    rgba(0, 0, 0, 0.541) 34%,
+    rgba(0, 0, 0, 0.382) 47%,
+    rgba(0, 0, 0, 0.278) 56.5%,
+    rgba(0, 0, 0, 0.194) 65%,
+    rgba(0, 0, 0, 0.126) 73%,
+    rgba(0, 0, 0, 0.075) 80.2%,
+    rgba(0, 0, 0, 0.042) 86.1%,
+    rgba(0, 0, 0, 0.021) 91%,
+    rgba(0, 0, 0, 0.008) 95.2%,
+    rgba(0, 0, 0, 0.002) 98.2%,
     transparent 100%
   );
   --bottom-fade: linear-gradient(
     to top,
     black 0%,
-    rgba(0,0,0,0.738) 19%,
-    rgba(0,0,0,0.541) 34%,
-    rgba(0,0,0,0.382) 47%,
-    rgba(0,0,0,0.278) 56.5%,
-    rgba(0,0,0,0.194) 65%,
-    rgba(0,0,0,0.126) 73%,
-    rgba(0,0,0,0.075) 80.2%,
-    rgba(0,0,0,0.042) 86.1%,
-    rgba(0,0,0,0.021) 91%,
-    rgba(0,0,0,0.008) 95.2%,
-    rgba(0,0,0,0.002) 98.2%,
+    rgba(0, 0, 0, 0.738) 19%,
+    rgba(0, 0, 0, 0.541) 34%,
+    rgba(0, 0, 0, 0.382) 47%,
+    rgba(0, 0, 0, 0.278) 56.5%,
+    rgba(0, 0, 0, 0.194) 65%,
+    rgba(0, 0, 0, 0.126) 73%,
+    rgba(0, 0, 0, 0.075) 80.2%,
+    rgba(0, 0, 0, 0.042) 86.1%,
+    rgba(0, 0, 0, 0.021) 91%,
+    rgba(0, 0, 0, 0.008) 95.2%,
+    rgba(0, 0, 0, 0.002) 98.2%,
     transparent 100%
   );
 }
 /* Originally from _root.scss */
-
 
 /* Originally from _navbar.scss */
 .navbar {
   --mdb-navbar-padding-x: 0 !important;
   --mdb-navbar-padding-y: 0.5rem !important;
   --mdb-navbar-color: white !important; /* Changed */
-  --mdb-navbar-hover-color: var(--accent-three) !important;  /* Changed */
+  --mdb-navbar-hover-color: var(--accent-three) !important; /* Changed */
   --mdb-navbar-disabled-color: rgba(0, 0, 0, 0.3) !important;
   --mdb-navbar-active-color: rgba(0, 0, 0, 0.9) !important;
   --mdb-navbar-brand-padding-y: 0.3rem !important;
   --mdb-navbar-brand-margin-end: 1rem !important;
   --mdb-navbar-brand-font-size: 1.25rem !important;
   --mdb-navbar-brand-color: white !important; /* Changed */
-  --mdb-navbar-brand-hover-color: var(--accent-color) !important;  /* Changed */
+  --mdb-navbar-brand-hover-color: var(--accent-color) !important; /* Changed */
   --mdb-navbar-nav-link-padding-x: 0.5rem !important;
   --mdb-navbar-toggler-padding-y: 0.25rem !important;
   --mdb-navbar-toggler-padding-x: 0.75rem !important;
@@ -139,7 +145,6 @@
 }
 /* Originally from _navbar.scss */
 
-
 /* Originally from _form-control.scss */
 .form-outline {
   .form-control {
@@ -147,7 +152,7 @@
     ~ .form-label {
       color: rgba(0, 0, 0, 0.5) !important; /* Changed */
       text-transform: uppercase !important; /* Added */
-      font-weight: bold;  /* Added */
+      font-weight: bold; /* Added */
     }
     ~ .form-notch {
       display: flex !important;
@@ -161,7 +166,7 @@
       pointer-events: none !important;
     }
     &:focus ~ .form-label {
-      color: var(--accent-one) !important;  /* Changed */
+      color: var(--accent-one) !important; /* Changed */
       font-weight: bold !important; /* Added */
       text-transform: uppercase !important; /* Added */
     }
@@ -172,25 +177,30 @@
     }
     &:focus ~ .form-notch .form-notch-leading {
       border-color: var(--accent-two) !important; /* Changed */
-      box-shadow: -1px 0 0 0 var(--accent-two), 0 1px 0 0 var(--accent-two),
-        0 -1px 0 0 var(--accent-two) !important;  /* Changed */
+      box-shadow:
+        -1px 0 0 0 var(--accent-two),
+        0 1px 0 0 var(--accent-two),
+        0 -1px 0 0 var(--accent-two) !important; /* Changed */
     }
     &:focus ~ .form-notch .form-notch-trailing {
       border-color: var(--accent-two) !important; /* Changed */
-      box-shadow: 1px 0 0 0 var(--accent-two), 0 -1px 0 0 var(--accent-two),
+      box-shadow:
+        1px 0 0 0 var(--accent-two),
+        0 -1px 0 0 var(--accent-two),
         0 1px 0 0 var(--accent-two) !important; /* Changed */
     }
   }
 }
 /* Originally from _form-control.scss */
 
-
 /*  */
 /* My custom styles */
 /*  */
 /* App's font-family */
 #app {
-  font-family: Josefin Sans, sans-serif !important;
+  font-family:
+    Josefin Sans,
+    sans-serif !important;
 }
 /* App's font-family */
 
