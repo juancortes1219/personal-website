@@ -1,21 +1,3 @@
-<script setup lang="ts">
-/* Calculates my current age */
-function getAge(dateString: string) {
-    var today = new Date();
-    var birthDate = new Date(dateString);
-    var age = today.getFullYear() - birthDate.getFullYear();
-    var m = today.getMonth() - birthDate.getMonth();
-    if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
-        age--;
-    }
-    return age;
-}
-
-const dateString = "1996/12/19" 
-const currentAge = getAge(dateString);
-/* Calculates my current age */
-</script>
-
 <template>
     <div ref="aboutElement" class="about-section container-fluid">
         <div class="container pt-3">
@@ -57,6 +39,24 @@ const currentAge = getAge(dateString);
         </div>
     </div>
 </template>
+
+<script setup lang="ts">
+    /* Calculates my current age */
+    function getAge(dateString: string) {
+        var today = new Date();
+        var birthDate = new Date(dateString);
+        var age = today.getFullYear() - birthDate.getFullYear();
+        var m = today.getMonth() - birthDate.getMonth();
+        if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+            age--;
+        }
+        return age;
+    }
+
+    const dateString = "1996/12/19" 
+    const currentAge = getAge(dateString);
+    /* Calculates my current age */
+</script>
 
 <style scoped>
 /* Styling for About section */

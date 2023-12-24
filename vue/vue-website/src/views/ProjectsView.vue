@@ -19,13 +19,13 @@
   </div>
 </template>
   
-  <style scoped>
-  .projects {
-    height: calc(100vh - 50px);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+<style scoped>
+.projects {
+  height: calc(100vh - 50px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .vue-typer {
   --char-typed-color: var(--mdb-primary) !important;

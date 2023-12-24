@@ -1,45 +1,3 @@
-<script setup lang="ts">
-import { RouterView } from 'vue-router'
-
-/* Needed for PageLoader */
-import { computed, onMounted } from 'vue';
-import { useStore } from 'vuex';
-import PageLoader from './components/PageLoader.vue';
-
-const store = useStore();
-const isLoading = computed(() => store.state.isLoading);
-
-// Use onMounted to run code after the component is mounted
-onMounted(() => {
-  // Simulate an asynchronous action (e.g., fetching data)
-  setTimeout(() => {
-    store.commit('setLoading', false);
-  }, 3000);
-});
-/* Needed for PageLoader */
-
-// Imports for MDBootstrap
-import {
-    MDBNavbar,
-    MDBNavbarToggler,
-    MDBNavbarBrand,
-    MDBNavbarNav,
-    MDBNavbarItem,
-    MDBCollapse,
-    MDBFooter,
-    MDBContainer,
-    MDBIcon,
-    mdbRipple as vMdbRipple
-  } from 'mdb-vue-ui-kit';
-  import { ref } from 'vue';
-
-  const collapse1 = ref(false);
-// Imports for MDBootstrap
-
-// Dynamic year for the 'Footer'
-const currentYear = new Date().getFullYear();
-</script>
-
 <template>
   <PageLoader v-if="isLoading" />
   <main v-else>
@@ -127,6 +85,48 @@ const currentYear = new Date().getFullYear();
     </MDBFooter>
   </main>
 </template>
+
+<script setup lang="ts">
+  import { RouterView } from 'vue-router'
+
+  /* Needed for PageLoader */
+  import { computed, onMounted } from 'vue';
+  import { useStore } from 'vuex';
+  import PageLoader from './components/PageLoader.vue';
+
+  const store = useStore();
+  const isLoading = computed(() => store.state.isLoading);
+
+  // Use onMounted to run code after the component is mounted
+  onMounted(() => {
+    // Simulate an asynchronous action (e.g., fetching data)
+    setTimeout(() => {
+      store.commit('setLoading', false);
+    }, 3000);
+  });
+  /* Needed for PageLoader */
+
+  // Imports for MDBootstrap
+  import {
+    MDBNavbar,
+    MDBNavbarToggler,
+    MDBNavbarBrand,
+    MDBNavbarNav,
+    MDBNavbarItem,
+    MDBCollapse,
+    MDBFooter,
+    MDBContainer,
+    MDBIcon,
+    mdbRipple as vMdbRipple
+  } from 'mdb-vue-ui-kit';
+  import { ref } from 'vue';
+
+  const collapse1 = ref(false);
+  // Imports for MDBootstrap
+
+  // Dynamic year for the 'Footer'
+  const currentYear = new Date().getFullYear();
+</script>
 
 <style scoped>
 /* Bottom border for Navbar */

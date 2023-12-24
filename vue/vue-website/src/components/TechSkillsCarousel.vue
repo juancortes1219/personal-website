@@ -1,4 +1,3 @@
-<!-- Swiperjs carousel -->
 <template>
     <div class="tech-skills">
         <div class="swiper-title mb-0" v-motion-fade-visible-once>
