@@ -1,4 +1,4 @@
-/* Originally from SCSS */
+/* Originally from _root.scss */
 :root {
   --mdb-red: #f44336 !important;
   --mdb-pink: #e91e63 !important;
@@ -68,7 +68,7 @@
   --mdb-code-color: #e91e63 !important;
   --mdb-highlight-bg: #fff9c4 !important;
 
-  /* Custom */
+  /* My custom colors */
   --accent-one: #dfb540;
   --accent-two: #bd484a;
   --accent-three: #cf001f;
@@ -105,7 +105,10 @@
     transparent 100%
   );
 }
+/* Originally from _root.scss */
 
+
+/* Originally from _navbar.scss */
 .navbar {
   --mdb-navbar-padding-x: 0 !important;
   --mdb-navbar-padding-y: 0.5rem !important;
@@ -134,25 +137,79 @@
   justify-content: space-between !important;
   padding: var(--mdb-navbar-padding-y) var(--mdb-navbar-padding-x) !important;
 }
-/* Originally from SCSS */
+/* Originally from _navbar.scss */
 
+
+/* Originally from _form-control.scss */
+.form-outline {
+  .form-control {
+    background: white !important; /* Changed */
+    ~ .form-label {
+      color: rgba(0, 0, 0, 0.5) !important; /* Changed */
+      text-transform: uppercase !important; /* Added */
+      font-weight: bold;  /* Added */
+    }
+    ~ .form-notch {
+      display: flex !important;
+      position: absolute !important;
+      left: 0 !important;
+      top: 0 !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      height: 100% !important;
+      text-align: left !important;
+      pointer-events: none !important;
+    }
+    &:focus ~ .form-label {
+      color: var(--accent-one) !important;  /* Changed */
+      font-weight: bold !important; /* Added */
+      text-transform: uppercase !important; /* Added */
+    }
+    &:focus ~ .form-notch .form-notch-middle {
+      border-color: var(--accent-two) !important; /* Changed */
+      box-shadow: 0 1px 0 0 var(--accent-two) !important; /* Changed */
+      border-top: 1px solid transparent !important;
+    }
+    &:focus ~ .form-notch .form-notch-leading {
+      border-color: var(--accent-two) !important; /* Changed */
+      box-shadow: -1px 0 0 0 var(--accent-two), 0 1px 0 0 var(--accent-two),
+        0 -1px 0 0 var(--accent-two) !important;  /* Changed */
+    }
+    &:focus ~ .form-notch .form-notch-trailing {
+      border-color: var(--accent-two) !important; /* Changed */
+      box-shadow: 1px 0 0 0 var(--accent-two), 0 -1px 0 0 var(--accent-two),
+        0 1px 0 0 var(--accent-two) !important; /* Changed */
+    }
+  }
+}
+/* Originally from _form-control.scss */
+
+
+/*  */
+/* My custom styles */
+/*  */
+/* App's font-family */
 #app {
   font-family: Josefin Sans, sans-serif !important;
-  
 }
+/* App's font-family */
 
+/* Styling for heading */
+h1 {
+  font-weight: 700 !important;
+}
+/* Styling for heading */
+
+/* Styling for links */
 .router-link-active.router-link-exact-active.nav-link {
-  /* color: rgba(255, 255, 255, 0.8); */
   color: var(--accent-two);
 }
 a:hover.router-link-active.router-link-exact-active.nav-link {
   color: var(--accent-three);
 }
+/* Styling for links */
 
-h1 {
-  font-weight: 700 !important;
-}
-
+/* Styling for VueTyper */
 .vue-typer {
   --char-typed-color: white !important;
   --caret-complete-color: white !important;
@@ -161,3 +218,4 @@ h1 {
   --caret-selecting-color: white !important;
   --caret-erasing-color: white !important;
 }
+/* Styling for VueTyper */

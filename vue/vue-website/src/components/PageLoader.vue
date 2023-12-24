@@ -1,5 +1,5 @@
 <template>
-  <div class="preloader">
+  <div class="preloader d-flex justify-content-center align-items-center">
     <!-- preloader content, e.g., loading animation or message -->
     <img src="../assets/images/polaroid-snapping-text.gif">
   </div>
@@ -7,9 +7,6 @@
 
 <style scoped>
 .preloader {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   height: 100vh;
   background-color: #d4d0be;
 }
