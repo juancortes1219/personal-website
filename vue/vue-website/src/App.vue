@@ -1,5 +1,6 @@
 <template>
   <PageLoader v-if="isLoading" />
+  <OrientationWarning v-if="isLandscape" />
   <main v-else>
     <header>
       <MDBNavbar expand="lg" position="top" container class="nav-bar">
@@ -89,18 +90,30 @@ import { RouterView } from 'vue-router'
 import { computed, onMounted } from 'vue'
 import { useStore } from 'vuex'
 import PageLoader from './components/PageLoader.vue'
+import OrientationWarning from './components/OrientationWarning.vue'
 
 const store = useStore()
 const isLoading = computed(() => store.state.isLoading)
+const isLandscape = ref(false)
 
 // Use onMounted to run code after the component is mounted
 onMounted(() => {
   // Simulate an asynchronous action (e.g., fetching data)
   setTimeout(() => {
     store.commit('setLoading', false)
-  }, 3000)
+  }, 3000),
+    // Check initial orientation
+    checkOrientation()
+
+  // Listen for orientation changes
+  window.addEventListener('orientationchange', checkOrientation)
 })
 /* Needed for PageLoader */
+
+const checkOrientation = () => {
+  // Update isLandscape based on the current orientation
+  isLandscape.value = window.orientation === 90 || window.orientation === -90
+}
 
 // Imports for MDBootstrap
 import {

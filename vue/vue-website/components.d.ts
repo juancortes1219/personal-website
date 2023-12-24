@@ -11,6 +11,7 @@ declare module 'vue' {
     ContactForm: typeof import('./src/components/ContactForm.vue')['default']
     HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
     ImageComponent: typeof import('./src/components/ImageComponent.vue')['default']
+    OrientationWarning: typeof import('./src/components/OrientationWarning.vue')['default']
     PageLoader: typeof import('./src/components/PageLoader.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
