@@ -3,7 +3,7 @@
   <main v-else>
     <header>
       <MDBNavbar expand="lg" position="top" container class="nav-bar">
-        <MDBNavbarBrand href="#">Brand</MDBNavbarBrand>
+        <MDBNavbarBrand href="/"><strong>juan cortes</strong></MDBNavbarBrand>
         <MDBNavbarToggler
           @click="collapse1 = !collapse1"
           target="#navbarSupportedContent"
@@ -32,7 +32,7 @@
       "
     >
       <!-- Grid container -->
-      <MDBContainer class="contact-icons">
+      <MDBContainer class="contact-icons" v-motion-slide-visible-bottom>
         <!-- Section: Social media -->
         <section class="mb-4">
           <!-- Instagram -->
@@ -67,13 +67,17 @@
       </MDBContainer>
       <!-- Grid container -->
       <!-- Copyright -->
-      <div id="copyright" class="text-center text-white p-3" style="font-size: 1.5rem">
+      <div
+        v-motion-roll-visible-bottom
+        id="copyright"
+        class="text-center text-white p-3"
+        style="font-size: 1.5rem"
+      >
         © {{ currentYear }} by
         <a class="footer-name text-white" href="/">Juan Cortes</a>
       </div>
       <!-- Copyright -->
       <div class="top-mask"></div>
-      <!-- <div class="bottom-mask"></div> -->
     </MDBFooter>
   </main>
 </template>

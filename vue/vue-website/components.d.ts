@@ -14,6 +14,7 @@ declare module 'vue' {
     PageLoader: typeof import('./src/components/PageLoader.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    SectionDivider: typeof import('./src/components/SectionDivider.vue')['default']
     TechSkillsCarousel: typeof import('./src/components/TechSkillsCarousel.vue')['default']
   }
 }

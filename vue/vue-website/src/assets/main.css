@@ -150,7 +150,7 @@
   .form-control {
     background: white !important; /* Changed */
     ~ .form-label {
-      color: rgba(0, 0, 0, 0.5) !important; /* Changed */
+      color: rgba(0, 0, 0, 0.7) !important; /* Changed */
       text-transform: uppercase !important; /* Added */
       font-weight: bold; /* Added */
     }
@@ -166,28 +166,28 @@
       pointer-events: none !important;
     }
     &:focus ~ .form-label {
-      color: var(--accent-one) !important; /* Changed */
+      color: var(--accent-two) !important; /* Changed */
       font-weight: bold !important; /* Added */
       text-transform: uppercase !important; /* Added */
     }
     &:focus ~ .form-notch .form-notch-middle {
-      border-color: var(--accent-two) !important; /* Changed */
-      box-shadow: 0 1px 0 0 var(--accent-two) !important; /* Changed */
+      border-color: var(--mdb-primary) !important; /* Changed */
+      box-shadow: 0 1px 0 0 var(--mdb-primary) !important; /* Changed */
       border-top: 1px solid transparent !important;
     }
     &:focus ~ .form-notch .form-notch-leading {
-      border-color: var(--accent-two) !important; /* Changed */
+      border-color: var(--mdb-primary) !important; /* Changed */
       box-shadow:
-        -1px 0 0 0 var(--accent-two),
-        0 1px 0 0 var(--accent-two),
-        0 -1px 0 0 var(--accent-two) !important; /* Changed */
+        -1px 0 0 0 var(--mdb-primary),
+        0 1px 0 0 var(--mdb-primary),
+        0 -1px 0 0 var(--mdb-primary) !important; /* Changed */
     }
     &:focus ~ .form-notch .form-notch-trailing {
-      border-color: var(--accent-two) !important; /* Changed */
+      border-color: var(--mdb-primary) !important; /* Changed */
       box-shadow:
-        1px 0 0 0 var(--accent-two),
-        0 -1px 0 0 var(--accent-two),
-        0 1px 0 0 var(--accent-two) !important; /* Changed */
+        1px 0 0 0 var(--mdb-primary),
+        0 -1px 0 0 var(--mdb-primary),
+        0 1px 0 0 var(--mdb-primary) !important; /* Changed */
     }
   }
 }
