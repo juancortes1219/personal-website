@@ -7,11 +7,8 @@
 
 <style scoped>
 .preloader {
-  position: fixed;
-  width: 100%;
-  height: 100%;
+  height: 100vh;
   background-color: #d4d0be;
   overflow: hidden;
-  z-index: 9999;
 }
 </style>

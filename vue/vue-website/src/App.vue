@@ -1,6 +1,6 @@
 <template>
   <PageLoader v-if="isLoading" />
-  <OrientationWarning v-if="isLandscape" />
+  <OrientationWarning v-else-if="isLandscape" />
   <main v-else>
     <header>
       <MDBNavbar expand="lg" position="top" container class="nav-bar">

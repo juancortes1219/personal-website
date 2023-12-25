@@ -20,15 +20,13 @@
 .warning-container {
   height: 100vh;
   background-color: black;
+  overflow: hidden;
 }
 
 @keyframes rotateIcon {
   0% {
     transform: rotate(-90deg);
   }
-  /* 50% {
-    transform: rotate(0);
-  } */
   100% {
     transform: rotate(0deg);
   }
@@ -36,6 +34,6 @@
 .fa-2xl {
   font-size: 2.5rem !important;
   transform-origin: center center; /* Set the rotation origin to the center of the element */
-  animation: rotateIcon 3s linear infinite; /* Adjust the duration as needed */
+  animation: rotateIcon 2000ms linear infinite; /* Adjust the duration as needed */
 }
 </style>
