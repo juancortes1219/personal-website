@@ -73,7 +73,7 @@ const recaptchaRef = ref()
 //   action: string
 // }
 
-const onRecaptchaVerify = async (response: unknown) => {
+const onRecaptchaVerify = async (response: any) => {
   try {
     // You can perform additional actions when reCAPTCHA is verified, if needed
     console.log('reCAPTCHA verified:', response)
@@ -85,7 +85,12 @@ const onRecaptchaVerify = async (response: unknown) => {
 const sendEmail = async () => {
   try {
     // Verify reCAPTCHA before sending the email
-    const recaptchaResponse = await recaptchaRef.value.getResponse()
+    if (!recaptchaRef.value || !recaptchaRef.value.getResponse) {
+      console.error('reCAPTCHA ref not properly initialized')
+      return
+    }
+
+    const recaptchaResponse = recaptchaRef.value.getResponse()
     if (!recaptchaResponse) {
       console.error('reCAPTCHA verification failed')
       return
