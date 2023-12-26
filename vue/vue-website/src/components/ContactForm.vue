@@ -55,8 +55,8 @@ import { MDBInput, MDBBtn, MDBTextarea } from 'mdb-vue-ui-kit'
 import { ref } from 'vue'
 import emailjs from '@emailjs/browser'
 
-// import { RecaptchaV2, useRecaptcha } from 'vue3-recaptcha-v2'
-import { RecaptchaV2 } from 'vue3-recaptcha-v2'
+import { RecaptchaV2, useRecaptcha } from 'vue3-recaptcha-v2'
+// import { RecaptchaV2 } from 'vue3-recaptcha-v2'
 // import { useRecaptcha } from 'vue3-recaptcha-v2';
 
 const form4Name = ref('')
@@ -66,14 +66,18 @@ const form4Textarea = ref('')
 const recaptchaRef = ref()
 
 const onRecaptchaVerify = async () => {
-  // You can perform additional actions when reCAPTCHA is verified, if needed
-  console.log('reCAPTCHA verified')
+  try {
+    // You can perform additional actions when reCAPTCHA is verified, if needed
+    console.log('reCAPTCHA verified')
+  } catch (error) {
+    console.error('Error verifying reCAPTCHA:', error)
+  }
 }
 
 const sendEmail = async () => {
   try {
     // Verify reCAPTCHA before sending the email
-    const recaptchaResponse = await recaptchaRef.value.execute()
+    const recaptchaResponse = await useRecaptcha()
     if (!recaptchaResponse) {
       console.error('reCAPTCHA verification failed')
       return
