@@ -65,15 +65,15 @@ const form4Subject = ref('')
 const form4Textarea = ref('')
 const recaptchaRef = ref()
 
-type ResponseData = {
-  success: boolean
-  challenge_ts: string
-  hostname: string
-  score: number
-  action: string
-}
+// type ResponseData = {
+//   success: boolean
+//   challenge_ts: string
+//   hostname: string
+//   score: number
+//   action: string
+// }
 
-const onRecaptchaVerify = async (response: ResponseData) => {
+const onRecaptchaVerify = async (response: unknown) => {
   try {
     // You can perform additional actions when reCAPTCHA is verified, if needed
     console.log('reCAPTCHA verified:', response)
