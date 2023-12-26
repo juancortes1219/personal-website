@@ -39,11 +39,12 @@
     />
 
     <!-- reCAPTCHA -->
-    <recaptcha-v2
-      ref="recaptcha"
-      @verify="onRecaptchaVerify"
-      siteKey="6LeCMDwpAAAAAF8FdDfy2TqG2FpOknFueyPp2sNd"
-    ></recaptcha-v2>
+    <RecaptchaV2
+      @widget-id="handleWidgetId"
+      @error-callback="handleErrorCalback"
+      @expired-callback="handleExpiredCallback"
+      @load-callback="handleLoadCallback"
+    />
 
     <!-- Submit button -->
     <MDBBtn block class="mt-4 mb-4" type="submit"> Send </MDBBtn>
@@ -56,52 +57,39 @@ import { ref } from 'vue'
 import emailjs from '@emailjs/browser'
 
 import { RecaptchaV2, useRecaptcha } from 'vue3-recaptcha-v2'
-// import { RecaptchaV2 } from 'vue3-recaptcha-v2'
-// import { useRecaptcha } from 'vue3-recaptcha-v2';
 
 const form4Name = ref('')
 const form4Email = ref('')
 const form4Subject = ref('')
 const form4Textarea = ref('')
-const recaptchaRef = ref()
+const recaptchaWidget = ref()
+const recaptchaResponse = ref()
 
-// type ResponseData = {
-//   success: boolean
-//   challenge_ts: string
-//   hostname: string
-//   score: number
-//   action: string
-// }
-
-const onRecaptchaVerify = async (response: any) => {
-  try {
-    // You can perform additional actions when reCAPTCHA is verified, if needed
-    console.log('reCAPTCHA verified:', response)
-  } catch (error) {
-    console.error('Error verifying reCAPTCHA:', error)
-  }
+const handleWidgetId = (widgetId: number) => {
+  recaptchaWidget.value = widgetId
+}
+const handleErrorCalback = () => {
+  console.log('Error callback')
+}
+const handleExpiredCallback = () => {
+  console.log('Expired callback')
+}
+const handleLoadCallback = (response: any) => {
+  recaptchaResponse.value = response
 }
 
 const sendEmail = async () => {
   try {
-    // Verify reCAPTCHA before sending the email
-    if (!recaptchaRef.value || !recaptchaRef.value.getResponse) {
-      console.error('reCAPTCHA ref not properly initialized')
-      return
-    }
-
-    const recaptchaResponse = recaptchaRef.value.getResponse()
-    if (!recaptchaResponse) {
-      console.error('reCAPTCHA verification failed')
-      return
-    }
+    // Handles reset of reCAPTCHA
+    const { handleReset } = useRecaptcha()
 
     const templateParams = {
       to_name: 'Juan',
       from_name: form4Name.value,
       from_email: form4Email.value,
       subject: form4Subject.value,
-      message: form4Textarea.value
+      message: form4Textarea.value,
+      'g-recaptcha-response': recaptchaResponse.value
     }
 
     const response = await emailjs.send(
@@ -118,9 +106,10 @@ const sendEmail = async () => {
     form4Email.value = ''
     form4Subject.value = ''
     form4Textarea.value = ''
-    recaptchaRef.value.reset()
+    handleReset(recaptchaWidget.value)
   } catch (error) {
     console.error('Error sending email:', error)
+    alert('Please complete the reCAPTCHA.')
   }
 }
 </script>
@@ -135,6 +124,11 @@ const sendEmail = async () => {
 }
 .btn:hover {
   background-color: var(--accent-three);
+}
+
+.btn:disabled {
+  background-color: var(--mdb-primary);
+  opacity: 0.3;
 }
 
 @media (min-width: 992px) {
