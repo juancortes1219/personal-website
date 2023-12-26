@@ -65,10 +65,18 @@ const form4Subject = ref('')
 const form4Textarea = ref('')
 const recaptchaRef = ref()
 
-const onRecaptchaVerify = async () => {
+type ResponseData = {
+  success: boolean
+  challenge_ts: string
+  hostname: string
+  score: number
+  action: string
+}
+
+const onRecaptchaVerify = async (response: ResponseData) => {
   try {
     // You can perform additional actions when reCAPTCHA is verified, if needed
-    console.log('reCAPTCHA verified')
+    console.log('reCAPTCHA verified:', response)
   } catch (error) {
     console.error('Error verifying reCAPTCHA:', error)
   }
@@ -77,7 +85,7 @@ const onRecaptchaVerify = async () => {
 const sendEmail = async () => {
   try {
     // Verify reCAPTCHA before sending the email
-    const recaptchaResponse = await useRecaptcha()
+    const recaptchaResponse = await recaptchaRef.value.getResponse()
     if (!recaptchaResponse) {
       console.error('reCAPTCHA verification failed')
       return
