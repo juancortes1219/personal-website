@@ -39,16 +39,14 @@
     />
 
     <!-- reCAPTCHA -->
-    <!-- <RecaptchaV2
-      @widget-id="handleWidgetId"
-      @error-callback="handleErrorCalback"
-      @expired-callback="handleExpiredCallback"
-      @load-callback="handleLoadCallback"
-    /> -->
-    <RecaptchaV2 @widget-id="handleWidgetId" size="invisible" />
+    <recaptcha-v2
+      ref="recaptcha"
+      @verify="onRecaptchaVerify"
+      siteKey="6LeCMDwpAAAAAF8FdDfy2TqG2FpOknFueyPp2sNd"
+    ></recaptcha-v2>
 
     <!-- Submit button -->
-    <MDBBtn block class="mb-4" type="submit"> Send </MDBBtn>
+    <MDBBtn block class="mt-4 mb-4" type="submit"> Send </MDBBtn>
   </form>
 </template>
 
@@ -57,35 +55,30 @@ import { MDBInput, MDBBtn, MDBTextarea } from 'mdb-vue-ui-kit'
 import { ref } from 'vue'
 import emailjs from '@emailjs/browser'
 
-import { RecaptchaV2, useRecaptcha } from 'vue3-recaptcha-v2'
-
-const { handleExecute } = useRecaptcha()
-const { handleReset } = useRecaptcha()
-const { handleGetResponse } = useRecaptcha()
-
-const handleWidgetId = (widgetId: number) => {
-  console.log('Widget ID: ', widgetId)
-  handleExecute(widgetId)
-  handleReset(widgetId)
-  handleGetResponse(widgetId)
-}
-// const handleErrorCalback = () => {
-//   console.log("Error callback");
-// };
-// const handleExpiredCallback = () => {
-//   console.log("Expired callback");
-// };
-// const handleLoadCallback = (response: unknown) => {
-//   console.log("Load callback", response);
-// };
+// import { RecaptchaV2, useRecaptcha } from 'vue3-recaptcha-v2'
+import { RecaptchaV2 } from 'vue3-recaptcha-v2'
+// import { useRecaptcha } from 'vue3-recaptcha-v2';
 
 const form4Name = ref('')
 const form4Email = ref('')
 const form4Subject = ref('')
 const form4Textarea = ref('')
+const recaptchaRef = ref()
+
+const onRecaptchaVerify = async () => {
+  // You can perform additional actions when reCAPTCHA is verified, if needed
+  console.log('reCAPTCHA verified')
+}
 
 const sendEmail = async () => {
   try {
+    // Verify reCAPTCHA before sending the email
+    const recaptchaResponse = await recaptchaRef.value.execute()
+    if (!recaptchaResponse) {
+      console.error('reCAPTCHA verification failed')
+      return
+    }
+
     const templateParams = {
       to_name: 'Juan',
       from_name: form4Name.value,
@@ -108,6 +101,7 @@ const sendEmail = async () => {
     form4Email.value = ''
     form4Subject.value = ''
     form4Textarea.value = ''
+    recaptchaRef.value.reset()
   } catch (error) {
     console.error('Error sending email:', error)
   }
