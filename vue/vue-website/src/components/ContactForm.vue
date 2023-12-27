@@ -120,7 +120,7 @@ const sendEmail = async () => {
     showContact = false
   } catch (error) {
     console.error('Error sending email:', error)
-    alert('Please complete the reCAPTCHA.')
+    alert('There was an error.\nPlease complete the reCAPTCHA. OR Please refresh the page.')
   }
 }
 </script>
@@ -130,9 +130,9 @@ const sendEmail = async () => {
   width: 70%;
 }
 
-.contact-form {
-  /* width: 70%; */
-}
+/* .contact-form {
+  width: 70%;
+} */
 .btn {
   --mdb-btn-bg: var(--mdb-primary) !important;
   --mdb-btn-color: white !important;
@@ -152,9 +152,9 @@ const sendEmail = async () => {
     width: 25%;
   }
 
-  .contact-form {
-    /* width: 25%; */
-  }
+  /* .contact-form {
+    width: 25%;
+  } */
   /* Styling for Image section */
 }
 </style>

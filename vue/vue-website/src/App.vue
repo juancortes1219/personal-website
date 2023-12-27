@@ -102,7 +102,7 @@ onMounted(() => {
   // Simulate an asynchronous action (e.g., fetching data)
   setTimeout(() => {
     store.commit('setLoading', false)
-  }, 3000),
+  }, 4000),
     // Check initial orientation
     checkOrientation()
 
