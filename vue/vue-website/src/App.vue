@@ -31,6 +31,7 @@
       style="
         background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86n6hjG103QTtajZQzjrIBu_UJ_CX_1sxj4I_flxmuBjLWDdFnPUvDfeIkaDOOmjrjaYdLl_y24Ij3Z0IyFbJnchnkD6cP0Vnu0uN32Y9bi-A6Gy74=w2400');
       "
+      title="Guys at the beach."
     >
       <!-- Grid container -->
       <MDBContainer class="contact-icons" v-motion-slide-visible-bottom>

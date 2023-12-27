@@ -4,6 +4,7 @@
     style="
       background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86LrHCzE-2Ez_hAd_vFqibJzUA_9sPrge0jW0fzFss5sOVlEZBchM314-9JKpMN84uy-RVJfdKCahcaSsJ-M48tdOh5qg_bT_bwP6fTgxNJL5e20i0=w2400');
     "
+    title="Beach and big hill in the background."
   >
     <div class="mask" style="background: var(--bottom-fade)">
       <div class="contact d-flex justify-content-center align-items-center flex-column">

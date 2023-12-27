@@ -21,7 +21,8 @@
               <img
                 src="https://lh3.googleusercontent.com/pw/ABLVV85ua0sFLTmqhxyhfzWFhjMaS0JKXwKihM3VTcEZRpUfJnUB980fkBJwPteDBK5OaAs79rf4yenZwp-Lg5f1wrw-uknbCjes7XqWPwAjh40UiWkopaQ=w2400"
                 class="img-fluid rounded-circle w-75"
-                alt="My photo"
+                loading="lazy"
+                alt="My portrait"
                 v-motion-slide-visible-once-left
               />
             </div>

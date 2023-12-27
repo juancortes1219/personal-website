@@ -4,6 +4,7 @@
     style="
       background-image: url('https://lh3.googleusercontent.com/pw/ABLVV878SswofaGs2uitkTuL4ydygePx_89rubyLNm6XV6yh81wW9K-iMhSpwLEiG6FHY9hqJ2kmZOLccjYWMjGRCHBcAHgultJHm5co6vfy3Zu1_lkx3n0=w2400');
     "
+    title="Palm tree in the foreground with the beach and hill in the background."
   ></div>
   <div class="top-mask"></div>
   <div class="bottom-mask"></div>
