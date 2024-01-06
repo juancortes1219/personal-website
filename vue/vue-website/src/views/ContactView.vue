@@ -56,7 +56,7 @@ onMounted(() => {
 }
 
 .image-loaded {
-  opacity: 1 !important;
+  opacity: 1;
 }
 /* Lazy loading */
 

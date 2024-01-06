@@ -36,7 +36,6 @@
   <!-- Background image -->
 </template>
 
-<!-- https://lh3.googleusercontent.com/pw/ABLVV86ydRNTnsjo82r6l7FWvXH3nFUZerx6DouLP7dmDrkzsxy_6dQ1Ri82YvM_2HwChRh0ne9n8TUtzImxg37aBPiO97H8yUA4AuR85ycOCU2KzvuwlhE=w2400 -->
 <script setup lang="ts">
 /* Lozad.js lazy loading */
 import { ref, onMounted } from 'vue'
@@ -91,7 +90,7 @@ h4 {
 }
 
 .image-loaded {
-  opacity: 1 !important;
+  opacity: 1;
 }
 /* Lazy loading */
 
