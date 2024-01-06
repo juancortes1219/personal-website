@@ -1,33 +1,9 @@
 <template>
-  <div class="projects">
-    <h1>
-      Projects
-      <VueTyper
-        :text="['coming soon']"
-        :repeat="Infinity"
-        :shuffle="false"
-        initial-action="typing"
-        :pre-type-delay="1000"
-        :type-delay="70"
-        :pre-erase-delay="1500"
-        :erase-delay="70"
-        erase-style="backspace"
-        :erase-on-complete="false"
-        caret-animation="blink"
-      ></VueTyper>
-    </h1>
-  </div>
+  <ProjectsJumbotron />
+  <ProjectCards />
 </template>
 
-<style scoped>
-.projects {
-  height: calc(100vh - 50px);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.vue-typer {
-  --char-typed-color: var(--mdb-primary) !important;
-}
-</style>
+<script setup lang="ts">
+import ProjectCards from '@/components/ProjectCards.vue'
+import ProjectsJumbotron from '@/components/ProjectsJumbotron.vue'
+</script>

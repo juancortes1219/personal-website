@@ -6,7 +6,7 @@
     style="
       background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86ydRNTnsjo82r6l7FWvXH3nFUZerx6DouLP7dmDrkzsxy_6dQ1Ri82YvM_2HwChRh0ne9n8TUtzImxg37aBPiO97H8yUA4AuR85ycOCU2KzvuwlhE=w2400');
     "
-    title="Beachside buildings."
+    title="Beachside buildings in Izmir, Türkiye."
   >
     <div class="mask" style="background: var(--bottom-fade)">
       <div class="jumbotron-text d-flex justify-content-center align-items-center h-100">

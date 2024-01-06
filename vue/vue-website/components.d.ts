@@ -13,6 +13,8 @@ declare module 'vue' {
     ImageComponent: typeof import('./src/components/ImageComponent.vue')['default']
     OrientationWarning: typeof import('./src/components/OrientationWarning.vue')['default']
     PageLoader: typeof import('./src/components/PageLoader.vue')['default']
+    ProjectCards: typeof import('./src/components/ProjectCards.vue')['default']
+    ProjectsJumbotron: typeof import('./src/components/ProjectsJumbotron.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     SectionDivider: typeof import('./src/components/SectionDivider.vue')['default']
