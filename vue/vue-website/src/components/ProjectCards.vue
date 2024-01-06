@@ -3,7 +3,7 @@
     <MDBRow :cols="['1', 'md-3']" class="g-4">
       <MDBCol>
         <MDBCard class="h-100">
-          <MDBCardImg src="/src/assets/images/homepage.jpg" top alt="Screenshot of homepage." />
+          <MDBCardImg src="/images/homepage.jpg" top alt="Screenshot of homepage." />
           <MDBCardBody>
             <MDBCardTitle>Personal Website</MDBCardTitle>
             <MDBCardText> I rewrote this current website implementing Vue3. </MDBCardText>
@@ -23,7 +23,7 @@
       <MDBCol>
         <MDBCard class="h-100">
           <MDBCardImg
-            src="/src/assets/images/iphone-calendar-icon.jpg"
+            src="/images/iphone-calendar-icon.jpg"
             top
             alt="Image of iPhone calendar icon."
           />
@@ -48,7 +48,7 @@
       <MDBCol>
         <MDBCard class="h-100">
           <MDBCardImg
-            src="/src/assets/images/coming-soon.jpg"
+            src="/images/coming-soon.jpg"
             top
             alt="Image that has the text 'Coming Soon'."
           />
