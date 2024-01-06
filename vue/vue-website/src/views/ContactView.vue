@@ -1,5 +1,6 @@
 <template>
   <div
+    ref="lazyElement"
     class="contact-container bg-image"
     style="
       background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86LrHCzE-2Ez_hAd_vFqibJzUA_9sPrge0jW0fzFss5sOVlEZBchM314-9JKpMN84uy-RVJfdKCahcaSsJ-M48tdOh5qg_bT_bwP6fTgxNJL5e20i0=w2400');
@@ -19,6 +20,23 @@
 <script setup lang="ts">
 import ContactForm from '@/components/ContactForm.vue'
 import SectionDivider from '@/components/SectionDivider.vue'
+
+/* Lozad.js lazy loading */
+import { ref, onMounted } from 'vue'
+import lozad from 'lozad'
+
+const lazyElement = ref(null)
+
+onMounted(() => {
+  const observer = lozad('.bg-image', {
+    loaded: (el: any) => {
+      el.classList.add('image-loaded')
+    }
+  })
+
+  observer.observe()
+})
+/* Lozad.js lazy loading */
 </script>
 
 <style scoped>
@@ -30,6 +48,17 @@ import SectionDivider from '@/components/SectionDivider.vue'
 .contact {
   height: calc(100vh - 50px);
 }
+
+/* Lazy loading */
+.bg-image {
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.image-loaded {
+  opacity: 1 !important;
+}
+/* Lazy loading */
 
 @media (min-width: 992px) {
   .contact-container {

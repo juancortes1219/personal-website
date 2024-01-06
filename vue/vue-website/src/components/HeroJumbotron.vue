@@ -1,6 +1,7 @@
 <template>
   <!-- Background image -->
   <div
+    ref="lazyElement"
     class="jumbotron text-center bg-image"
     style="
       background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86ydRNTnsjo82r6l7FWvXH3nFUZerx6DouLP7dmDrkzsxy_6dQ1Ri82YvM_2HwChRh0ne9n8TUtzImxg37aBPiO97H8yUA4AuR85ycOCU2KzvuwlhE=w2400');
@@ -35,6 +36,26 @@
   <!-- Background image -->
 </template>
 
+<!-- https://lh3.googleusercontent.com/pw/ABLVV86ydRNTnsjo82r6l7FWvXH3nFUZerx6DouLP7dmDrkzsxy_6dQ1Ri82YvM_2HwChRh0ne9n8TUtzImxg37aBPiO97H8yUA4AuR85ycOCU2KzvuwlhE=w2400 -->
+<script setup lang="ts">
+/* Lozad.js lazy loading */
+import { ref, onMounted } from 'vue'
+import lozad from 'lozad'
+
+const lazyElement = ref(null)
+
+onMounted(() => {
+  const observer = lozad('.bg-image', {
+    loaded: (el: any) => {
+      el.classList.add('image-loaded')
+    }
+  })
+
+  observer.observe()
+})
+/* Lozad.js lazy loading */
+</script>
+
 <style scoped>
 /* Styling for Jumbotron section */
 .jumbotron {
@@ -62,6 +83,17 @@ h4 {
   font-size: 1.75rem;
 }
 /* Styling for headings */
+
+/* Lazy loading */
+.bg-image {
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.image-loaded {
+  opacity: 1 !important;
+}
+/* Lazy loading */
 
 @media (min-width: 992px) {
   /* Styling for Jumbotron section */
