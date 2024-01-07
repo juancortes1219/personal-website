@@ -1,10 +1,8 @@
 <template>
   <div
-    ref="lazyElement"
-    class="contact-container bg-image"
-    style="
-      background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86LrHCzE-2Ez_hAd_vFqibJzUA_9sPrge0jW0fzFss5sOVlEZBchM314-9JKpMN84uy-RVJfdKCahcaSsJ-M48tdOh5qg_bT_bwP6fTgxNJL5e20i0=w2400');
-    "
+    ref="lazyContainer"
+    :style="{ backgroundImage: `url(${currentImage})` }"
+    class="contact-container bg-image bg-lazy"
     title="Beach and big hill in the background in Izmir, Türkiye."
   >
     <div class="mask" style="background: var(--bottom-fade)">
@@ -18,25 +16,37 @@
 </template>
 
 <script setup lang="ts">
-import ContactForm from '@/components/ContactForm.vue'
-import SectionDivider from '@/components/SectionDivider.vue'
-
-/* Lozad.js lazy loading */
+/* Lazy loading */
 import { ref, onMounted } from 'vue'
-import lozad from 'lozad'
 
-const lazyElement = ref(null)
+const lazyContainer = ref<HTMLElement | null>(null)
+
+const placeholderImage = '/images/beach-placeholder.jpg'
+const loadedImage =
+  'https://lh3.googleusercontent.com/pw/ABLVV86LrHCzE-2Ez_hAd_vFqibJzUA_9sPrge0jW0fzFss5sOVlEZBchM314-9JKpMN84uy-RVJfdKCahcaSsJ-M48tdOh5qg_bT_bwP6fTgxNJL5e20i0=w2400'
+
+const currentImage = ref(placeholderImage)
 
 onMounted(() => {
-  const observer = lozad('.bg-image', {
-    loaded: (el: any) => {
-      el.classList.add('image-loaded')
-    }
-  })
+  // Sets a delay for the placeholder image
+  setTimeout(() => {
+    currentImage.value = loadedImage
+  }, 1000)
 
-  observer.observe()
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          observer.disconnect() // Disconnects the observer after loading the image
+        }
+      })
+    },
+    { threshold: 0 }
+  )
+
+  observer.observe(lazyContainer.value!)
 })
-/* Lozad.js lazy loading */
+/* Lazy loading */
 </script>
 
 <style scoped>
@@ -46,16 +56,21 @@ onMounted(() => {
 }
 .contact {
   height: calc(100vh - 50px);
+  animation: fadeIn 1s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 /* Lazy loading */
-.bg-image {
-  opacity: 0;
-  transition: opacity 0.5s;
-}
-
-.image-loaded {
-  opacity: 1;
+.bg-lazy {
+  transition: background-image 500ms ease-in-out;
 }
 /* Lazy loading */
 

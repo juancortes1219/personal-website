@@ -1,11 +1,9 @@
 <template>
   <!-- Background image -->
   <div
-    ref="lazyElement"
-    class="jumbotron text-center bg-image"
-    style="
-      background-image: url('https://lh3.googleusercontent.com/pw/ABLVV86ydRNTnsjo82r6l7FWvXH3nFUZerx6DouLP7dmDrkzsxy_6dQ1Ri82YvM_2HwChRh0ne9n8TUtzImxg37aBPiO97H8yUA4AuR85ycOCU2KzvuwlhE=w2400');
-    "
+    ref="lazyContainer"
+    :style="{ backgroundImage: `url(${currentImage})` }"
+    class="jumbotron text-center bg-image bg-lazy"
     title="Beachside buildings in Izmir, Türkiye."
   >
     <div class="mask" style="background: var(--bottom-fade)">
@@ -37,22 +35,37 @@
 </template>
 
 <script setup lang="ts">
-/* Lozad.js lazy loading */
+/* Lazy loading */
 import { ref, onMounted } from 'vue'
-import lozad from 'lozad'
 
-const lazyElement = ref(null)
+const lazyContainer = ref<HTMLElement | null>(null)
+
+const placeholderImage = '/images/beachside-buildings-placeholder.jpg'
+const loadedImage =
+  'https://lh3.googleusercontent.com/pw/ABLVV86ydRNTnsjo82r6l7FWvXH3nFUZerx6DouLP7dmDrkzsxy_6dQ1Ri82YvM_2HwChRh0ne9n8TUtzImxg37aBPiO97H8yUA4AuR85ycOCU2KzvuwlhE=w2400'
+
+const currentImage = ref(placeholderImage)
 
 onMounted(() => {
-  const observer = lozad('.bg-image', {
-    loaded: (el: any) => {
-      el.classList.add('image-loaded')
-    }
-  })
+  // Sets a delay for the placeholder image
+  setTimeout(() => {
+    currentImage.value = loadedImage
+  }, 1000)
 
-  observer.observe()
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          observer.disconnect() // Disconnects the observer after loading the image
+        }
+      })
+    },
+    { threshold: 0 }
+  )
+
+  observer.observe(lazyContainer.value!)
 })
-/* Lozad.js lazy loading */
+/* Lazy loading */
 </script>
 
 <style scoped>
@@ -61,7 +74,26 @@ onMounted(() => {
   height: calc(100vh - 50px);
   background-attachment: scroll;
 }
+
+.jumbotron-text {
+  animation: fadeIn 1s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 /* Styling for Jumbotron section */
+
+/* Lazy loading */
+.bg-lazy {
+  transition: background-image 500ms ease-in-out;
+}
+/* Lazy loading */
 
 /* Styling for VueTyper */
 .vue-typer {
@@ -82,17 +114,6 @@ h4 {
   font-size: 1.75rem;
 }
 /* Styling for headings */
-
-/* Lazy loading */
-.bg-image {
-  opacity: 0;
-  transition: opacity 0.5s;
-}
-
-.image-loaded {
-  opacity: 1;
-}
-/* Lazy loading */
 
 @media (min-width: 992px) {
   /* Styling for Jumbotron section */
