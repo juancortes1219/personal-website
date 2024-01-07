@@ -50,7 +50,7 @@ onMounted(() => {
   // Sets a delay for the placeholder image
   setTimeout(() => {
     currentImage.value = loadedImage
-  }, 1000)
+  }, 2500)
 
   const observer = new IntersectionObserver(
     (entries) => {
