@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <h1>
-      Learn more <span style="color: var(--accent-one);">about</span> me
+      Learn more <span style="color: var(--accent-one)">about</span> me
       <VueTyper
         :text="['soon']"
         :repeat="Infinity"
