@@ -12,9 +12,7 @@
         <MDBCollapse v-model="collapse1" id="navbarSupportedContent">
           <MDBNavbarNav right class="mb-2 mb-lg-0">
             <MDBNavbarItem to="/"> Home </MDBNavbarItem>
-            <!-- <MDBNavbarItem href="/#about">
-              About
-            </MDBNavbarItem> -->
+            <MDBNavbarItem to="about"> About </MDBNavbarItem>
             <MDBNavbarItem to="projects"> Projects </MDBNavbarItem>
             <MDBNavbarItem to="photos"> Photos </MDBNavbarItem>
             <MDBNavbarItem to="contact"> Contact Me </MDBNavbarItem>
@@ -102,7 +100,7 @@ onMounted(() => {
   // Simulate an asynchronous action (e.g., fetching data)
   setTimeout(() => {
     store.commit('setLoading', false)
-  }, 4000),
+  }, 3000),
     // Check initial orientation
     checkOrientation()
 

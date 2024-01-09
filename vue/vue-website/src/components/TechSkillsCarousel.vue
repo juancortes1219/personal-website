@@ -1,6 +1,6 @@
 <template>
   <div class="tech-skills">
-    <div class="swiper-title mb-0" v-motion-fade-visible-once>
+    <div class="swiper-title mb-0" v-motion-slide-visible-once-bottom>
       <h3 class="text-center text-uppercase font-weight-bold" style="color: var(--accent-one)">
         Tech Stack/Skills
       </h3>
@@ -10,7 +10,7 @@
         :loop="true"
         :slides-per-view="4"
         :autoplay-delay="3000"
-        v-motion-fade-visible-once
+        v-motion-slide-visible-once-bottom
       >
         <swiper-slide>
           <font-awesome-icon :icon="['fab', 'vuejs']" size="2xl" style="color: #ffffff" />

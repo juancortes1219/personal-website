@@ -7,7 +7,7 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
-    AboutSection: typeof import('./src/components/AboutSection.vue')['default']
+    // AboutSection: typeof import('./src/components/AboutSection.vue')['default']
     ContactForm: typeof import('./src/components/ContactForm.vue')['default']
     HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
     ImageComponent: typeof import('./src/components/ImageComponent.vue')['default']
@@ -18,6 +18,7 @@ declare module 'vue' {
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     SectionDivider: typeof import('./src/components/SectionDivider.vue')['default']
+    StorySection: typeof import('./src/components/StorySection.vue')['default']
     TechSkillsCarousel: typeof import('./src/components/TechSkillsCarousel.vue')['default']
   }
 }

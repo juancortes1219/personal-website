@@ -1,16 +1,16 @@
 <template>
-  <div ref="aboutElement" class="about-section container-fluid">
+  <div class="story-section container-fluid">
     <div class="container pt-3">
-      <!-- Section About -->
+      <!-- Section story -->
       <section class="section pt-2">
-        <span id="about"></span>
+        <span id="story"></span>
         <!--Section heading-->
         <h1
           class="text-center text-uppercase font-weight-bold mt-5 mb-3 mt-4"
           style="color: var(--accent-two)"
           v-motion-slide-visible-once-bottom
         >
-          About Me
+          My Short Story
         </h1>
         <!-- First row -->
         <div class="row mt-4 pt-4">
@@ -29,17 +29,18 @@
           </div>
           <!--/First column-->
           <!--Second column-->
-          <div class="about-p col-lg-6 offset-lg-1 col-md-12">
+          <div class="story-p col-lg-6 offset-lg-1 col-md-12">
             <!--Description-->
             <p align="justify" v-motion-slide-visible-once-right>
-              I am a {{ currentAge }} year old in love with Programming, Photography, and Jesus.
-              From a taking a basic programming class and my general interest in technology, my love
-              for Programming was sparked during my sophomore year in high school. That said, I
-              decided to attend Georgia State University and major in Computer Science. I didn't get
-              interested in Photography until the summer of 2016. That summer I got the oppurtunity
-              to go on a mission trip with my church to Costa Rica where I took a lot of photos.
-              From then on, my love for Photography grew, and I decided to get a minor in Art
-              (Photography). Moving foward, I graduated from Georgia State University in May of
+              I am {{ currentAge }} years old and in love with <i>programming</i>,
+              <i>photography</i>, and <i>Jesus</i>. From taking a basic programming class and my
+              general interest in technology, my love for <i>programming</i> was sparked during my
+              sophomore year of high school. In 2015, I started attending Georgia State University
+              and majored in <i>computer science</i>. I didn't get interested in
+              <i>photography</i> until the summer of 2016. That summer, I got the opportunity to go
+              on a mission trip with my church to Costa Rica, where I took lots of photos. From then
+              on, my love for <i>photography</i> grew, and I decided to get a minor in
+              <i>art</i> (<i>photography</i>). I graduated from Georgia State University in May of
               2020.
             </p>
           </div>
@@ -47,7 +48,7 @@
         </div>
         <!-- /.First row -->
       </section>
-      <!-- /.Section About -->
+      <!-- /.Section story -->
     </div>
   </div>
 </template>
@@ -71,23 +72,24 @@ const currentAge = getAge(dateString)
 </script>
 
 <style scoped>
-/* Styling for About section */
-.about-section {
+/* Styling for Story section */
+.story-section {
   height: 100vh;
 }
 
 .container-fluid {
   margin-bottom: 2rem;
 }
-/* Styling for Image section */
+/* Styling for Story section */
 
 @media (min-width: 992px) {
-  /* Styling for Image section */
-  .about-p {
+  /* Styling for Story section */
+  .story-p {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 1.1rem;
   }
-  /* Styling for Image section */
+  /* Styling for Story section */
 }
 </style>
