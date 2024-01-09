@@ -29,22 +29,30 @@ const currentImage = ref(placeholderImage)
 
 onMounted(() => {
   // Sets a delay for the placeholder image
-  setTimeout(() => {
+  // setTimeout(() => {
+  //   currentImage.value = loadedImage
+  // }, 4000)
+  currentImage.value = placeholderImage
+
+  const image = new Image()
+  image.src = loadedImage
+
+  image.onload = () => {
     currentImage.value = loadedImage
-  }, 2500)
 
-  const observer = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          observer.disconnect() // Disconnects the observer after loading the image
-        }
-      })
-    },
-    { threshold: 0 }
-  )
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            observer.disconnect() // Disconnects the observer after loading the image
+          }
+        })
+      },
+      { threshold: 0 }
+    )
 
-  observer.observe(lazyContainer.value!)
+    observer.observe(lazyContainer.value!)
+  }
 })
 /* Lazy loading */
 </script>
