@@ -137,6 +137,10 @@ const currentYear = new Date().getFullYear()
 </script>
 
 <style scoped>
+.navbar-brand:hover {
+  color: var(--accent-three);
+}
+
 /* Bottom border for Navbar */
 .nav-bar {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);

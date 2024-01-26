@@ -1,9 +1,9 @@
 <template>
-  <div class="photos">
-    <h1>
-      Photos
+  <div class="d-flex justify-content-center align-items-center flex-column mt-5">
+    <h1>My Photos</h1>
+    <h4>
       <VueTyper
-        :text="['coming soon']"
+        :text="['more coming soon']"
         :repeat="Infinity"
         :shuffle="false"
         initial-action="typing"
@@ -15,18 +15,16 @@
         :erase-on-complete="false"
         caret-animation="blink"
       ></VueTyper>
-    </h1>
+    </h4>
   </div>
+  <PhotoGallery />
 </template>
 
-<style scoped>
-.photos {
-  height: calc(100vh - 50px);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+<script setup lang="ts">
+import PhotoGallery from '@/components/PhotoGallery.vue'
+</script>
 
+<style scoped>
 .vue-typer {
   --char-typed-color: var(--mdb-primary) !important;
 }
