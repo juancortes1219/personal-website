@@ -83,36 +83,11 @@
 </template>
 
 <script setup lang="ts">
+import { ref, computed, onMounted } from 'vue'
 import { RouterView } from 'vue-router'
-
-/* Needed for PageLoader */
-import { computed, onMounted } from 'vue'
 import { useStore } from 'vuex'
 import PageLoader from './components/PageLoader.vue'
 import OrientationWarning from './components/OrientationWarning.vue'
-
-const store = useStore()
-const isLoading = computed(() => store.state.isLoading)
-const isLandscape = ref(false)
-
-// Use onMounted to run code after the component is mounted
-onMounted(() => {
-  // Simulate an asynchronous action (e.g., fetching data)
-  setTimeout(() => {
-    store.commit('setLoading', false)
-  }, 3000),
-    // Check initial orientation
-    checkOrientation()
-
-  // Listen for orientation changes
-  window.addEventListener('orientationchange', checkOrientation)
-})
-/* Needed for PageLoader */
-
-const checkOrientation = () => {
-  // Update isLandscape based on the current orientation
-  isLandscape.value = window.orientation === 90 || window.orientation === -90
-}
 
 // Imports for MDBootstrap
 import {
@@ -127,10 +102,29 @@ import {
   MDBIcon,
   mdbRipple as vMdbRipple
 } from 'mdb-vue-ui-kit'
-import { ref } from 'vue'
 
+const globalStore = useStore()
+const isLoading = computed(() => globalStore.state.preloader.isLoading)
+const isLandscape = ref(false)
 const collapse1 = ref(false)
-// Imports for MDBootstrap
+
+onMounted(() => {
+  // Simulates an asynchronous action (e.g., fetching data)
+  setTimeout(() => {
+    globalStore.commit('preloader/setLoading', false, { root: true })
+  }, 3000),
+    // Checks initial orientation
+    checkOrientation()
+
+  // Listens for orientation changes
+  window.addEventListener('orientationchange', checkOrientation)
+})
+/* Needed for PageLoader */
+
+const checkOrientation = () => {
+  // Update isLandscape based on the current orientation
+  isLandscape.value = window.orientation === 90 || window.orientation === -90
+}
 
 // Dynamic year for the 'Footer'
 const currentYear = new Date().getFullYear()

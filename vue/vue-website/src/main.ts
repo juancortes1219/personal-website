@@ -6,6 +6,7 @@ import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
 import disableRightClickMixin from './mixins/disableRightClickMixin'
+import { globalStore } from './stores/globalStores'
 
 import VueTyper from 'vue3-typer' // Import for vue3-typer
 import 'vue3-typer/dist/vue-typer.css' // Import for vue3-typer
@@ -19,7 +20,6 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome' // Import for @fo
 import { fab } from '@fortawesome/free-brands-svg-icons' // Import for @fortawesome
 import { fas } from '@fortawesome/free-solid-svg-icons' // Import for @fortawesome
 import { far } from '@fortawesome/free-regular-svg-icons' // Import for @fortawesome
-import { store } from './stores/preloader' // Import for vuex@next
 import { install } from 'vue3-recaptcha-v2' // import for vue3-recaptcha-v2
 import Unlazy from '@unlazy/vue' // Import for @unlazy/vue
 import { register } from 'swiper/element/bundle' // Import for swiper
@@ -37,7 +37,7 @@ app.use(router)
 
 app.use(VueTyper) // Registering vue3-typer
 app.use(MotionPlugin) // Registering motion
-app.use(store) // Registering preloader
+app.use(globalStore) // Registering globalStore
 app.use(install, {
   sitekey: '6LeCMDwpAAAAAF8FdDfy2TqG2FpOknFueyPp2sNd',
   cnDomains: false

@@ -6,10 +6,10 @@ import { galleryImages2018 } from './galleryImages2018'
 // import { galleryImages2023 } from './galleryImages2023'
 
 export const galleryImages = [
-  ...galleryImages2018
-  // ...galleryImages2019,
-  // ...galleryImages2020,
-  // ...galleryImages2021,
+  // ...galleryImages2023,
   // ...galleryImages2022,
-  // ...galleryImages2023
+  // ...galleryImages2021,
+  // ...galleryImages2020,
+  // ...galleryImages2019,
+  ...galleryImages2018
 ]

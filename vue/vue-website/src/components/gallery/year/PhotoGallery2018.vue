@@ -1,7 +1,5 @@
 <template>
   <div class="container-sm mt-5 mb-10">
-    <!-- <div class="row justify-content-center"> -->
-    <!-- <div class="col col-md-10"> -->
     <lightgallery
       class="d-flex justify-content-evenly align-items-center flex-wrap"
       :settings="{ speed: 500, download: false, plugins: plugins }"
@@ -17,6 +15,7 @@
         oncontextmenu="return false;"
       >
         <UnLazyImage
+          :key="index"
           :src="item.link"
           :class="item.classes?.imageClass"
           :alt="item.alt"
@@ -32,19 +31,16 @@
       </a>
     </lightgallery>
   </div>
-  <!-- </div> -->
-  <!-- </div> -->
 </template>
 
 <script setup lang="ts">
 import { ref } from 'vue'
 import Lightgallery from 'lightgallery/vue'
-// import lgThumbnail from 'lightgallery/plugins/thumbnail'
 import lgZoom from 'lightgallery/plugins/zoom'
-import { galleryImages } from '@/assets/gallery/galleryImages'
+import { galleryImages2018 } from '@/assets/gallery/galleryImages2018'
 
 const plugins = ref([lgZoom])
-const galleryImagesRef = ref(galleryImages)
+const galleryImagesRef = ref(galleryImages2018)
 
 /* Makes landscape item sizes easier to manipulate */
 const landscapeWidth = 320
@@ -101,8 +97,6 @@ const onBeforeSlide = () => {
 /* Overlay color on hover */
 .overlay-landscape:hover::before {
   background-color: rgba(0, 0, 0, 0.5);
-  /* background-color: rgba(207, 0, 31, 0.25); */
-  /* background-color: rgba(2, 167, 212, 0.5); */
 }
 
 .overlay-landscape-image {
@@ -150,8 +144,6 @@ const onBeforeSlide = () => {
 /* Overlay color on hover */
 .overlay-portrait:hover::before {
   background-color: rgba(0, 0, 0, 0.5);
-  /* background-color: rgba(207, 0, 31, 0.25); */
-  /* background-color: rgba(2, 167, 212, 0.5); */
 }
 
 .overlay-portrait-image {
@@ -178,4 +170,3 @@ const onBeforeSlide = () => {
 }
 /* Overlay styles for portrait images */
 </style>
-@/assets/gallery/gallery-images@/assets/gallery/gallery-images-2018@/assets/gallery/galleryImages2018
