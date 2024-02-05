@@ -20,7 +20,13 @@
   <div class="container-sm mt-4 mb-4">
     <div class="mb-6">
       <div class="d-flex justify-content-center align-items-center flex-wrap mb-4">
-        <!-- <MDBBtn @click="filterImages('all')" :class="{ 'active-filter': currentFilter === 'all' }" class="mb-1"> All </MDBBtn> -->
+        <MDBBtn
+          @click="filterImages('all')"
+          :class="{ 'active-filter': currentFilter === 'all' }"
+          class="mb-1"
+        >
+          All
+        </MDBBtn>
         <MDBBtn
           @click="filterImages('2018')"
           :class="{ 'active-filter': currentFilter === '2018' }"
@@ -31,7 +37,7 @@
         <MDBBtn
           @click="filterImages('2019')"
           :class="{ 'active-filter': currentFilter === '2019' }"
-          class="disabled mb-1"
+          class="mb-1"
         >
           2019
         </MDBBtn>
@@ -119,11 +125,11 @@
   </div>
   <PhotoGalleryAll v-if="showComponent === 'all'" />
   <PhotoGallery2018 v-if="showComponent === '2018'" />
-  <!-- <PhotoGallery2019 v-if="showComponent === 2019" /> -->
-  <!-- <PhotoGallery2020 v-if="showComponent === 2020"/> -->
-  <!-- <PhotoGallery2021 v-if="showComponent === 2021"/> -->
-  <!-- <PhotoGallery2022 v-if="showComponent === 2022"/> -->
-  <!-- <PhotoGallery2023 v-if="showComponent === 2023"/> -->
+  <PhotoGallery2019 v-if="showComponent === '2019'" />
+  <!-- <PhotoGallery2020 v-if="showComponent === '2020'"/> -->
+  <!-- <PhotoGallery2021 v-if="showComponent === '2021'"/> -->
+  <!-- <PhotoGallery2022 v-if="showComponent === '2022'"/> -->
+  <!-- <PhotoGallery2023 v-if="showComponent === '2023'"/> -->
   <PhotoGalleryNature v-if="showComponent === 'nature'" />
   <PhotoGalleryPortrait v-if="showComponent === 'portrait'" />
   <PhotoGalleryStreet v-if="showComponent === 'street'" />
@@ -138,7 +144,7 @@ import { onMounted, ref } from 'vue'
 import { MDBBtn } from 'mdb-vue-ui-kit'
 import PhotoGalleryAll from '@/components/gallery/category/PhotoGalleryAll.vue'
 import PhotoGallery2018 from '@/components/gallery/year/PhotoGallery2018.vue'
-// import PhotoGallery2019 from '@/components/gallery/year/PhotoGallery2019.vue'
+import PhotoGallery2019 from '@/components/gallery/year/PhotoGallery2019.vue'
 // import PhotoGallery2020 from '@/components/gallery/year/PhotoGallery2020.vue'
 // import PhotoGallery2021 from '@/components/gallery/year/PhotoGallery2021.vue'
 // import PhotoGallery2022 from '@/components/gallery/year/PhotoGallery2022.vue'

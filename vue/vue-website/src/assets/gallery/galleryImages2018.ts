@@ -125,7 +125,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50882392943_ae5f3dd940_k.jpg',
     classes: {
@@ -141,7 +142,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50883114406_2c2d4919da_k.jpg',
     classes: {
@@ -158,7 +160,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50883117536_7332e925fb_k.jpg',
     classes: {
@@ -175,7 +178,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50882402523_e29835b51b_k.jpg',
     classes: {
@@ -192,7 +196,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50882405253_b751162fca_k.jpg',
     classes: {
@@ -513,7 +518,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50852594508_109dd11b61_k.jpg',
     classes: {
@@ -529,7 +535,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853319286_54ec5767bf_k.jpg',
     classes: {
@@ -545,7 +552,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853322036_d613fe2749_k.jpg',
     classes: {
@@ -561,7 +569,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50852603763_7a8cc2c437_k.jpg',
     classes: {
@@ -577,7 +586,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50852608188_0b70d5339f_k.jpg',
     classes: {
@@ -593,7 +603,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853335576_a9663a856d_k.jpg',
     classes: {
@@ -609,7 +620,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853339546_3c829e45f5_k.jpg',
     classes: {
@@ -625,7 +637,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853344601_bf43dbaa91_k.jpg',
     classes: {
@@ -641,7 +654,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853349306_186b8237ab_k.jpg',
     classes: {
@@ -657,7 +671,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50852629603_85f188fd5b_k.jpg',
     classes: {
@@ -673,7 +688,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853355861_e2f01ec166_k.jpg',
     classes: {
@@ -689,7 +705,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50852636633_d40e7f0fe6_k.jpg',
     classes: {
@@ -705,7 +722,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50852639373_c818845d99_k.jpg',
     classes: {
@@ -737,6 +755,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      street: 'street',
       architecture: 'architecture'
     },
     link: 'https://live.staticflickr.com/65535/50861231321_cec608b428_k.jpg',
@@ -1370,6 +1389,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      street: 'street',
       long: 'long'
     },
     link: 'https://live.staticflickr.com/65535/50853394736_b054a50c97_k.jpg',
@@ -1387,6 +1407,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      street: 'street',
       long: 'long'
     },
     link: 'https://live.staticflickr.com/65535/50853352787_b949420d08_k.jpg',
@@ -1403,6 +1424,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      street: 'street',
       other: 'other'
     },
     link: 'https://live.staticflickr.com/65535/50853487242_ebc464a305_k.jpg',
@@ -1435,6 +1457,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      street: 'street',
       long: 'long'
     },
     link: 'https://live.staticflickr.com/65535/50852554248_395cfe333f_k.jpg',
@@ -1451,6 +1474,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      street: 'street',
       long: 'long'
     },
     link: 'https://live.staticflickr.com/65535/50853483307_050dc477e5_k.jpg',
@@ -1484,6 +1508,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      street: 'street',
       other: 'other'
     },
     link: 'https://live.staticflickr.com/65535/50852549648_3af371dec0_k.jpg',
@@ -1548,6 +1573,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      street: 'street',
       architecture: 'architecture'
     },
     link: 'https://live.staticflickr.com/65535/50852543173_d1778a2779_k.jpg',
