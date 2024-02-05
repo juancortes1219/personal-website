@@ -93,9 +93,9 @@
           Street
         </MDBBtn>
         <MDBBtn
-          @click="filterImages('b&w')"
-          :class="{ 'active-filter': currentFilter === 'b&w' }"
-          class="disabled mb-1"
+          @click="filterImages('bw')"
+          :class="{ 'active-filter': currentFilter === 'bw' }"
+          class="mb-1"
         >
           B&W
         </MDBBtn>
@@ -133,7 +133,7 @@
   <PhotoGalleryNature v-if="showComponent === 'nature'" />
   <PhotoGalleryPortrait v-if="showComponent === 'portrait'" />
   <PhotoGalleryStreet v-if="showComponent === 'street'" />
-  <PhotoGalleryBW v-if="showComponent === 'b&w'" />
+  <PhotoGalleryBW v-if="showComponent === 'bw'" />
   <PhotoGalleryArchitecture v-if="showComponent === 'architecture'" />
   <PhotoGalleryOther v-if="showComponent === 'other'" />
   <PhotoGalleryLong v-if="showComponent === 'long'" />

@@ -93,7 +93,7 @@ const filterImages = (key: string, filterValue: string) => {
 }
 
 onMounted(() => {
-  filterImages('b&w', 'b&w')
+  filterImages('bw', 'bw')
 })
 </script>
 

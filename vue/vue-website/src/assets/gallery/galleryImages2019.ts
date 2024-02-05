@@ -11,6 +11,948 @@ export const galleryImages2019 = [
     filters: {
       all: 'all',
       year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50912387313_2067dfbb8a_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'New Year live performance.',
+    caption: '<h4>JamQuest New Year live performance.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: 'yfcFDYQmunh/ZXeLdpZoeiBr2zBr'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50913078141_198ab272e1_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'New Year live performance.',
+    caption: '<h4>JamQuest New Year live performance.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: 'ivcFFYIVqmdfg3l3ZyeohXB1+EKJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50913211992_3b9679c9d4_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'New Year live performance.',
+    caption: '<h4>JamQuest New Year live performance.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: 'xgcGDYIleadvhmaLaMZne+acjwUK'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50913084081_da0eda1f96_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'New Year live performance.',
+    caption: '<h4>JamQuest New Year live performance.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: 'xAcCDYBznVhchpd6WLhmXxBmiAUI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50913087056_b4599435c9_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Apples trees.',
+    caption: '<h4>Apples trees.</h4><p>Ellijay, GA, USA (2019)</p>',
+    thumbhash: 'U+kJNYZueWa8h2efh5d3aXZgZgiG'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50912402578_154f43cd7c_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Apples.',
+    caption: '<h4>Apples.</h4><p>Ellijay, GA, USA (2019)</p>',
+    thumbhash: 'oZYFPYivkllWp4h6iJl2lFCTBTVp'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50912405453_0052b68950_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Apples.',
+    caption: '<h4>Apples.</h4><p>Ellijay, GA, USA (2019)</p>',
+    thumbhash: 'WOoFDYInh4ePdYeLZ8h4eqBTAUdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50913095136_925aed499f_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'View from apple orchard.',
+    caption: '<h4>View from apple orchard.</h4><p>Ellijay, GA, USA (2019)</p>',
+    thumbhash: 'XfkRNYRHZndvd3d7d4iHhomAxjT1'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50913229447_818a51b9e5_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'People picking and tasting apples.',
+    caption: '<h4>Picking and tasting apples.</h4><p>Ellijay, GA, USA (2019)</p>',
+    thumbhash: 'VukFDYSly3C2RpWsWVbEmq2vlAho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50912415043_7c612206c4_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guy climbing an apple tree.',
+    caption: '<h4>Jared climbing an apple tree.</h4><p>Ellijay, GA, USA (2019)</p>',
+    thumbhash: '3OkNHYKJl3h/h3eMd8iGaZpQIALa'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50912075083_2438e47dc2_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Guy posing.',
+    caption: '<h4>Ralph.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'EwkGHQACyUV+eJiHZ4mGZ/dvB/8N'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50912897217_0e31426499_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Guy posing.',
+    caption: '<h4>Ralph.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'FvkFHQIfU56JdmmXZ3iYZ9efp0wH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50912771131_1b0ff15731_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guy posing.',
+    caption: '<h4>Ralph.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'kvkFFYJ7cHffdlZpi4Z2idmPeQhm'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      long: 'long'
+    },
+    link: 'https://live.staticflickr.com/65535/50912902987_4f7528e393_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cosby Creek.',
+    caption: '<h4>Cosby Creek.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'lwkGFYAbl4oHrYSmRnl5d/Fvd2/q'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50912087663_055cfcfda3_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Trees.',
+    caption: '<h4>Trees.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'U/kFFYCNc4efh4dtd2hoh3WPDBip'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50912802297_a847a05e8d_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys around the firepit.',
+    caption: '<h4>Around the firepit.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'GvkJFYSEiJiQeIeVeGd3mDifRgQI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50912805252_452b4115bc_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys around the firepit.',
+    caption: '<h4>Around the firepit.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: '2vgJHYR0iJeQeJeVeGd3mEmfRgUY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      bw: 'bw'
+    },
+    link: 'https://live.staticflickr.com/65535/50911989273_be99d551f1_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Trees.',
+    caption: '<h4>Trees.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'HPgJBYCtiKj4bHaYhJa2h02gKvtV'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50911992428_62b90620b7_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys resting during Gabes Mountain Trail hike.',
+    caption: '<h4>Resting during Gabes Mountain Trail hike.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'EPkFFYRTeXiAiXitdoiXeriJnwZ0'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50911996293_d9ab87dcde_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hen Wallow Falls.',
+    caption: '<h4>Hen Wallow Falls.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'U+kFNYIzaYivKmqotbeUeFqPiAqE'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50912688856_a7b5def744_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hen Wallow Falls.',
+    caption: '<h4>Hen Wallow Falls.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'U+kFNYI1eZefSpenh7t2aFuPiAqT'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      bw: 'bw'
+    },
+    link: 'https://live.staticflickr.com/65535/50912691026_f75d128b99_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Gabes Mountain Trail.',
+    caption: '<h4>Gabes Mountain Trail.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'E/gJBQBGpnmI+VdWiGp3mFZon3oJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50912005273_cea056b738_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Gabes Mountain Trail hike.',
+    caption: '<h4>Gabes Mountain Trail hike.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'kwkGDQRndmN3+FiIiGeYaIN/egiY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50912008098_9c3f9f95b0_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Gabes Mountain Trail hike.',
+    caption: '<h4>Gabes Mountain Trail hike.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'DAkKFQJQp6Z3mIaHh6O4ZkBtagh7'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50912828747_827608bc0d_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Gabes Mountain Trail overpass.',
+    caption: '<h4>Gabes Mountain Trail overpass.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'zvgFFQRRuqBoOJfHl3aJl+mAWgZ6'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50912703171_18e78bd093_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Guys posing.',
+    caption: '<h4>Jared and Malcolm.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'l/kFHQZRiTCax4uodph2aNVtXweG'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50912016858_6b48b7f3ea_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Guy posing.',
+    caption: '<h4>Jared.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'mOkJHQJyWX+Gl3eYd3l3d9OPuQSY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      bw: 'bw'
+    },
+    link: 'https://live.staticflickr.com/65535/50912837212_4460858c09_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Gabes Mountain Trail hike.',
+    caption: '<h4>Gabes Mountain Trail hike.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'FvgFBYAKeGqbVoqsY2mniAq6W19E'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50912712541_6137f5ccad_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Gabes Mountain Trail hike.',
+    caption: '<h4>Gabes Mountain Trail hike.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'UAkGDQIHilaWuIlnh3eYaCaPfAqX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50912843777_73e761b045_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Gabes Mountain Trail hike.',
+    caption: '<h4>Gabes Mountain Trail hike.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'UwkGFQSFeHV4+HhohoeHd6SPawiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50912847627_67ae4c613f_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Gabes Mountain Trail hike.',
+    caption: '<h4>Gabes Mountain Trail hike.</h4><p>Cosby, TN, USA (2019)</p>',
+    thumbhash: 'UwkKDQRWeISX93eGeHeHh3efbwiX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50910079257_e26103f785_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Sunset.',
+    caption: '<h4>Sunset.</h4><p>Ocoee, TN, USA (2019)</p>',
+    thumbhash: 'nEgWDYZ3d4d/iIeGiGd5iUBZRfdm'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50909262528_d152eefe9a_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys on bunks.',
+    caption: '<h4>Guys on bunks.</h4><p>Ocoee, TN, USA (2019)</p>',
+    thumbhash: 'UxgGFYRcZZaPeJRvZvV6fIqEsBsH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50910090132_7a87645eb6_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Butterfly.',
+    caption: '<h4>Butterfly.</h4><p>Ocoee, TN, USA (2019)</p>',
+    thumbhash: '1dkFFYKbZopxiHdgiIZWiamAkzYJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50909274893_009d4f3ec4_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Trees.',
+    caption: '<h4>Trees.</h4><p>Ocoee, TN, USA (2019)</p>',
+    thumbhash: 'TekFHYJ3l5iPeYh2l2hndnaflgaZ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50910118087_02e3c645d3_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Gravel road.',
+    caption: '<h4>Gravel road.</h4><p>Ocoee, TN, USA (2019)</p>',
+    thumbhash: 'UNkJHQJTWHl592c4mHxXqGZvZge2'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50910111462_47e9b8c17b_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Star trails.',
+    caption: '<h4>Star trails.</h4><p>Ocoee, TN, USA (2019)</p>',
+    thumbhash: 'hecFDYBXl5sRuVe/ZWdyxneAzii/'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50909294588_21c81701b9_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Stars.',
+    caption: '<h4>Stars.</h4><p>Ocoee, TN, USA (2019)</p>',
+    thumbhash: 'Q/cBDYKfmIl3iHd1eHh2lmB0DIa4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50909990121_0e7a9b7bb1_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'View from Kennesaw Mounatin hike.',
+    caption: '<h4>View from Kennesaw Mounatin hike.</h4><p>Kennesaw, GA, USA (2019)</p>',
+    thumbhash: 'XbcVNYZ4iIePiIeGeFiHeIeAeQho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50909297878_afdba0207d_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Me.',
+    caption: '<h4>Me.</h4><p>Kennesaw, GA, USA (2019)</p>',
+    thumbhash: 'mugJLYRPdmljh2hoh3h3mopv+JyB'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      bw: 'bw'
+    },
+    link: 'https://live.staticflickr.com/65535/50909298733_596a052c0c_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Girl posing.',
+    caption: '<h4>Sydney.</h4><p>Kennesaw, GA, USA (2019)</p>',
+    thumbhash: 'IfgNBYB/c3lrl4l0h5eHd3VvpQip'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      bw: 'bw'
+    },
+    link: 'https://live.staticflickr.com/65535/50909300263_f1b93f700d_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guy posing.',
+    caption: '<h4>Jared.</h4><p>Kennesaw, GA, USA (2019)</p>',
+    thumbhash: 'FvgJBYCPiXh+mWiIdmiZin9qCVhp'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50909997011_e556b8f4f4_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Deer on Kennesaw Mounatin hike.',
+    caption: '<h4>Deer on Kennesaw Mounatin hike.</h4><p>Kennesaw, GA, USA (2019)</p>',
+    thumbhash: 'V/kFFYL0SnfYdoi5p6iVY6iMcFb6'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50910131157_fb48ba7b40_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Path on Kennesaw Mounatin hike.',
+    caption: '<h4>Path on Kennesaw Mounatin hike.</h4><p>Kennesaw, GA, USA (2019)</p>',
+    thumbhash: 'kPkFFQZvyyBH9TlXp3tWem43nwmG'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      nature: 'nature'
+    },
+    link: 'https://live.staticflickr.com/65535/50910133987_faa4316adb_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Kennesaw Mounatin hike.',
+    caption: '<h4>Kennesaw Mounatin hike.</h4><p>Kennesaw, GA, USA (2019)</p>',
+    thumbhash: 'TvkFDQZQdoaHiIaneYWZlmN/dgh4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      street: 'street'
+    },
+    link: 'https://live.staticflickr.com/65535/50905532568_cd8ef3d9ed_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Walnut Street Bridge.',
+    caption: '<h4>Walnut Street Bridge.</h4><p>Chattanooga, TN, USA (2019)</p>',
+    thumbhash: 'CAcGHYBoeGl/l4ZkaYmIeJeAyfuK'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      street: 'street'
+    },
+    link: 'https://live.staticflickr.com/65535/50906360057_45f2c009aa_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Edgewood Ave.',
+    caption: '<h4>Edgewood Ave.</h4><p>Atlanta, GA, USA (2019)</p>',
+    thumbhash: 'HvgJFQIIqW6EuIc3iXtXp/aUwz+J'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      street: 'street'
+    },
+    link: 'https://live.staticflickr.com/65535/50906362522_42a192ec22_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Parking deck.',
+    caption: '<h4>T-Deck at GSU.</h4><p>Atlanta, GA, USA (2019)</p>',
+    thumbhash: 'DfgJDYAo5YV3hnhgm2apmPOXPG/o'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      street: 'street'
+    },
+    link: 'https://live.staticflickr.com/65535/50906243406_a756bd297a_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hurt Park.',
+    caption: '<h4>Hurt Park.</h4><p>Atlanta, GA, USA (2019)</p>',
+    thumbhash: '3ucRHQJXZV93h3hoiHh3eHeApgeG'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      street: 'street'
+    },
+    link: 'https://live.staticflickr.com/65535/50905542338_38db69f7b0_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Parking deck.',
+    caption: '<h4>T-Deck at GSU.</h4><p>Atlanta, GA, USA (2019)</p>',
+    thumbhash: '5PcJFYRMamedhIZ+ZgeYeoRQRAhF'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      street: 'street',
+      architecture: 'architecture'
+    },
+    link: 'https://live.staticflickr.com/65535/50906368952_4192adb900_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'City skyline.',
+    caption: '<h4>Skyline at GSU.</h4><p>Atlanta, GA, USA (2019)</p>',
+    thumbhash: '38YFJYhwTISdJYu0diaYSL2QxQpJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      street: 'street'
+    },
+    link: 'https://live.staticflickr.com/65535/50906249906_1fb9572cc2_k.jpg',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Parking deck door.',
+    caption: '<h4>Door at T-Deck.</h4><p>Atlanta, GA, USA (2019)</p>',
+    thumbhash: 'mOcRDQA3SHaIB5h3eHKZZ6+42736'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50905548988_a43ca6baa1_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys posing.',
+    caption: '<h4>Josh M.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: 'H8cJHYS/pJaftHeqh7eKe5GvC9Ke'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      portrait: 'portrait'
+    },
+    link: 'https://live.staticflickr.com/65535/50905550893_ac5461d279_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys posing.',
+    caption: '<h4>Josh M.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: 'HscJHYSulYevpHi7eKh5ipK/GOR/'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50906392787_d173fb641d_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys playing dodgeball.',
+    caption: '<h4>Dodgeball during CTP.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: 'HtgJLYZpqoiKl2l/h9iGi3mPssgH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50905565533_7f654c67c4_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys playing dodgeball.',
+    caption: '<h4>Dodgeball during CTP.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: 'WcgFRYYF2Taco3uHh0aXh5dvyPsG'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50906262641_ede27563d6_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys playing dodgeball.',
+    caption: '<h4>Dodgeball during CTP.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: '3KcJTYhVmIdfhnlsdrmHiXiPhfUX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
+      other: 'other'
+    },
+    link: 'https://live.staticflickr.com/65535/50906274226_1a8dc8eaf1_k.jpg',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys playing dodgeball.',
+    caption: '<h4>Dodgeball during CTP.</h4><p>Marietta, GA, USA (2019)</p>',
+    thumbhash: 'YqcRPYZ3iIh/iIh6eGeIhZeaUOgJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2019',
       portrait: 'portrait',
       street: 'street'
     },
