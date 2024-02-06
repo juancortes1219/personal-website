@@ -1466,8 +1466,8 @@ export const galleryImages2018 = [
       imageClass: landscapeImageClass,
       iconClass: landscapeIconClass
     },
-    alt: 'Long exposure of I-75.',
-    caption: '<h4>Long exposure of I-75.</h4><p>Atlanta, GA, USA (2018)</p>',
+    alt: 'Long exposure of I-75/I-85.',
+    caption: '<h4>Long exposure of I-75/I-85.</h4><p>Atlanta, GA, USA (2018)</p>',
     thumbhash: 'SxgCFYQBSZYz1Gch5Yq614SQOgma'
   },
   {

@@ -14,6 +14,7 @@ declare module 'vue' {
     PageLoader: typeof import('./src/components/PageLoader.vue')['default']
     PhotoGallery2018: typeof import('./src/components/gallery/year/PhotoGallery2018.vue')['default']
     PhotoGallery2019: typeof import('./src/components/gallery/year/PhotoGallery2019.vue')['default']
+    PhotoGallery2020: typeof import('./src/components/gallery/year/PhotoGallery2020.vue')['default']
     PhotoGalleryAll: typeof import('./src/components/gallery/category/PhotoGalleryAll.vue')['default']
     PhotoGalleryArchitecture: typeof import('./src/components/gallery/category/PhotoGalleryArchitecture.vue')['default']
     PhotoGalleryBW: typeof import('./src/components/gallery/category/PhotoGalleryBW.vue')['default']

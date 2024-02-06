@@ -532,7 +532,7 @@ export const galleryImages2019 = [
     filters: {
       all: 'all',
       year: '2019',
-      other: 'other'
+      portrait: 'portrait'
     },
     link: 'https://live.staticflickr.com/65535/50909262528_d152eefe9a_k.jpg',
     classes: {
