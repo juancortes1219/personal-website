@@ -18,6 +18,7 @@ declare module 'vue' {
     PhotoGalleryAll: typeof import('./src/components/gallery/category/PhotoGalleryAll.vue')['default']
     PhotoGalleryArchitecture: typeof import('./src/components/gallery/category/PhotoGalleryArchitecture.vue')['default']
     PhotoGalleryBW: typeof import('./src/components/gallery/category/PhotoGalleryBW.vue')['default']
+    PhotoGalleryCostaRica: typeof import('./src/components/gallery/country/PhotoGalleryCostaRica.vue')['default']
     PhotoGalleryLong: typeof import('./src/components/gallery/category/PhotoGalleryLong.vue')['default']
     PhotoGalleryNature: typeof import('./src/components/gallery/category/PhotoGalleryNature.vue')['default']
     PhotoGalleryOther: typeof import('./src/components/gallery/category/PhotoGalleryOther.vue')['default']

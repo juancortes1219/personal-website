@@ -358,6 +358,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      country: 'costa-rica',
       other: 'other'
     },
     link: 'https://live.staticflickr.com/65535/50861221786_6655a184ec_k.jpg',
@@ -374,6 +375,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      country: 'costa-rica',
       other: 'other'
     },
     link: 'https://live.staticflickr.com/65535/50860508638_a58e64779c_k.jpg',
@@ -390,6 +392,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      country: 'costa-rica',
       portrait: 'portrait'
     },
     link: 'https://live.staticflickr.com/65535/50860510633_8f0c79da4b_k.jpg',
@@ -406,6 +409,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      country: 'costa-rica',
       nature: 'nature'
     },
     link: 'https://live.staticflickr.com/65535/50853383397_5e7c5e8712_k.jpg',
@@ -422,6 +426,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      country: 'costa-rica',
       nature: 'nature'
     },
     link: 'https://live.staticflickr.com/65535/50852574218_2c60be7841_k.jpg',
@@ -438,6 +443,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      country: 'costa-rica',
       nature: 'nature'
     },
     link: 'https://live.staticflickr.com/65535/50853305206_edcdfccd1e_k.jpg',
@@ -454,6 +460,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      country: 'costa-rica',
       architecture: 'architecture'
     },
     link: 'https://live.staticflickr.com/65535/50853299416_ecb61c1edc_k.jpg',
@@ -470,6 +477,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
+      country: 'costa-rica',
       nature: 'nature'
     },
     link: 'https://live.staticflickr.com/65535/50853398897_e992824c77_k.jpg',

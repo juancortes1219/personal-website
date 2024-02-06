@@ -72,6 +72,43 @@
       </div>
       <div class="d-flex justify-content-center align-items-center flex-wrap mb-4">
         <MDBBtn
+          @click="filterImages('costa-rica')"
+          :class="{ 'active-filter': currentFilter === 'costa-rica' }"
+          class="mb-1"
+        >
+          Costa Rica
+        </MDBBtn>
+        <MDBBtn
+          @click="filterImages('mexico')"
+          :class="{ 'active-filter': currentFilter === 'mexico' }"
+          class="disabled mb-1"
+        >
+          Mexico
+        </MDBBtn>
+        <MDBBtn
+          @click="filterImages('moldova')"
+          :class="{ 'active-filter': currentFilter === 'moldova' }"
+          class="disabled mb-1"
+        >
+          Moldova
+        </MDBBtn>
+        <MDBBtn
+          @click="filterImages('romania')"
+          :class="{ 'active-filter': currentFilter === 'romania' }"
+          class="disabled mb-1"
+        >
+          Romania
+        </MDBBtn>
+        <MDBBtn
+          @click="filterImages('türkiye')"
+          :class="{ 'active-filter': currentFilter === 'türkiye' }"
+          class="disabled mb-1"
+        >
+          Türkiye
+        </MDBBtn>
+      </div>
+      <div class="d-flex justify-content-center align-items-center flex-wrap mb-4">
+        <MDBBtn
           @click="filterImages('nature')"
           :class="{ 'active-filter': currentFilter === 'nature' }"
           class="mb-1"
@@ -130,6 +167,13 @@
   <!-- <PhotoGallery2021 v-if="showComponent === '2021'"/> -->
   <!-- <PhotoGallery2022 v-if="showComponent === '2022'"/> -->
   <!-- <PhotoGallery2023 v-if="showComponent === '2023'"/> -->
+
+  <PhotoGalleryCostaRica v-if="showComponent === 'costa-rica'" />
+  <!-- <PhotoGalleryMexico v-if="showComponent === 'mexico'" /> -->
+  <!-- <PhotoGalleryMoldova v-if="showComponent === 'moldova'" /> -->
+  <!-- <PhotoGalleryRomania v-if="showComponent === 'romania'" /> -->
+  <!-- <PhotoGalleryTurkiye v-if="showComponent === 'türkiye'" /> -->
+
   <PhotoGalleryNature v-if="showComponent === 'nature'" />
   <PhotoGalleryPortrait v-if="showComponent === 'portrait'" />
   <PhotoGalleryStreet v-if="showComponent === 'street'" />
@@ -149,6 +193,13 @@ import PhotoGallery2020 from '@/components/gallery/year/PhotoGallery2020.vue'
 // import PhotoGallery2021 from '@/components/gallery/year/PhotoGallery2021.vue'
 // import PhotoGallery2022 from '@/components/gallery/year/PhotoGallery2022.vue'
 // import PhotoGallery2023 from '@/components/gallery/year/PhotoGallery2023.vue'
+
+import PhotoGalleryCostaRica from '@/components/gallery/country/PhotoGalleryCostaRica.vue'
+// import PhotoGalleryMexico from '@/components/gallery/country/PhotoGalleryMexico.vue'
+// import PhotoGalleryMoldova from '@/components/gallery/country/PhotoGalleryMoldova.vue'
+// import PhotoGalleryRomania from '@/components/gallery/country/PhotoGalleryRomania.vue'
+// import PhotoGalleryTurkiye from '@/components/gallery/country/PhotoGalleryTurkiye.vue'
+
 import PhotoGalleryNature from '@/components/gallery/category/PhotoGalleryNature.vue'
 import PhotoGalleryPortrait from '@/components/gallery/category/PhotoGalleryPortrait.vue'
 import PhotoGalleryStreet from '@/components/gallery/category/PhotoGalleryStreet.vue'

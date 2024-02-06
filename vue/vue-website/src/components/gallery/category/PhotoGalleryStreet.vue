@@ -77,12 +77,9 @@ const onBeforeSlide = () => {
 }
 
 const showLightgallery = ref(false)
-const currentFilter = ref('')
 const filteredImages = ref<GalleryImage>([])
 
 const filterImages = (key: string, filterValue: string) => {
-  currentFilter.value = filterValue
-
   filteredImages.value = galleryImagesRef.value.filter((image) => {
     const imageFilters = image.filters as Record<string, string | undefined>
 

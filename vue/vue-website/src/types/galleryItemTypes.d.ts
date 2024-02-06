@@ -2,6 +2,7 @@ interface ImageItem {
   filters?: {
     all?: string
     year?: string
+    country?: string
     nature?: string
     portrait?: string
     street?: string

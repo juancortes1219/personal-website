@@ -90,7 +90,7 @@ const filterImages = (key: string, filterValue: string) => {
 }
 
 onMounted(() => {
-  filterImages('nature', 'nature')
+  filterImages('country', 'costa-rica')
 })
 </script>
 
