@@ -51,7 +51,7 @@
         <MDBBtn
           @click="filterImages('2021')"
           :class="{ 'active-filter': currentFilter === '2021' }"
-          class="disabled mb-1"
+          class="mb-1"
         >
           2021
         </MDBBtn>
@@ -164,7 +164,7 @@
   <PhotoGallery2018 v-if="showComponent === '2018'" />
   <PhotoGallery2019 v-if="showComponent === '2019'" />
   <PhotoGallery2020 v-if="showComponent === '2020'" />
-  <!-- <PhotoGallery2021 v-if="showComponent === '2021'"/> -->
+  <PhotoGallery2021 v-if="showComponent === '2021'" />
   <!-- <PhotoGallery2022 v-if="showComponent === '2022'"/> -->
   <!-- <PhotoGallery2023 v-if="showComponent === '2023'"/> -->
 
@@ -190,7 +190,7 @@ import PhotoGalleryAll from '@/components/gallery/category/PhotoGalleryAll.vue'
 import PhotoGallery2018 from '@/components/gallery/year/PhotoGallery2018.vue'
 import PhotoGallery2019 from '@/components/gallery/year/PhotoGallery2019.vue'
 import PhotoGallery2020 from '@/components/gallery/year/PhotoGallery2020.vue'
-// import PhotoGallery2021 from '@/components/gallery/year/PhotoGallery2021.vue'
+import PhotoGallery2021 from '@/components/gallery/year/PhotoGallery2021.vue'
 // import PhotoGallery2022 from '@/components/gallery/year/PhotoGallery2022.vue'
 // import PhotoGallery2023 from '@/components/gallery/year/PhotoGallery2023.vue'
 
