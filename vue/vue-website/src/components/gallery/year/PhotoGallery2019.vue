@@ -1,5 +1,8 @@
 <template>
   <div class="container-sm mt-5 mb-10">
+    <div class="d-flex justify-content-evenly align-items-center flex-wrap mb-2">
+      <h1 style="color: var(--accent-one)">2019</h1>
+    </div>
     <lightgallery
       class="d-flex justify-content-evenly align-items-center flex-wrap"
       :settings="{ speed: 500, download: false, plugins: plugins }"

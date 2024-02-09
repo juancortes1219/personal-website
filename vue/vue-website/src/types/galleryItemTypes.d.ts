@@ -10,6 +10,7 @@ interface ImageItem {
     architecture?: string
     other?: string
     long?: string
+    wedding?: string
   }
   link: string
   classes: {

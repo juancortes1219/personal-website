@@ -17,146 +17,156 @@
       ></VueTyper>
     </h4>
   </div>
-  <div class="container-sm mt-4 mb-4">
-    <div class="mb-6">
-      <div class="d-flex justify-content-center align-items-center flex-wrap mb-4">
-        <MDBBtn
-          @click="filterImages('all')"
-          :class="{ 'active-filter': currentFilter === 'all' }"
-          class="mb-1"
-        >
-          All
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('2018')"
-          :class="{ 'active-filter': currentFilter === '2018' }"
-          class="mb-1"
-        >
-          2018
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('2019')"
-          :class="{ 'active-filter': currentFilter === '2019' }"
-          class="mb-1"
-        >
-          2019
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('2020')"
-          :class="{ 'active-filter': currentFilter === '2020' }"
-          class="mb-1"
-        >
-          2020
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('2021')"
-          :class="{ 'active-filter': currentFilter === '2021' }"
-          class="mb-1"
-        >
-          2021
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('2022')"
-          :class="{ 'active-filter': currentFilter === '2022' }"
-          class="disabled mb-1"
-        >
-          2022
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('2023')"
-          :class="{ 'active-filter': currentFilter === '2023' }"
-          class="disabled mb-1"
-        >
-          2023
-        </MDBBtn>
+  <div class="container-sm mt-4">
+    <div class="d-flex justify-content-center align-items-center flex-wrap">
+      <div>
+        <MDBDropdown v-model="dropdownYear">
+          <MDBDropdownToggle @click="dropdownYear = !dropdownYear" :style="getActiveYearStyle()">
+            Year
+          </MDBDropdownToggle>
+          <MDBDropdownMenu aria-labelledby="dropdownMenuButton">
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('2018')"
+              :style="getActiveStyle('2018')"
+              >2018</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('2019')"
+              :style="getActiveStyle('2019')"
+              >2019</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('2020')"
+              :style="getActiveStyle('2020')"
+              >2020</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('2021')"
+              :style="getActiveStyle('2021')"
+              >2021</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('2022')"
+              :style="getActiveStyle('2022')"
+              disabled
+              >2022</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('2023')"
+              :style="getActiveStyle('2023')"
+              disabled
+              >2023</MDBDropdownItem
+            >
+          </MDBDropdownMenu>
+        </MDBDropdown>
       </div>
-      <div class="d-flex justify-content-center align-items-center flex-wrap mb-4">
-        <MDBBtn
-          @click="filterImages('costa-rica')"
-          :class="{ 'active-filter': currentFilter === 'costa-rica' }"
-          class="mb-1"
-        >
-          Costa Rica
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('mexico')"
-          :class="{ 'active-filter': currentFilter === 'mexico' }"
-          class="disabled mb-1"
-        >
-          Mexico
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('moldova')"
-          :class="{ 'active-filter': currentFilter === 'moldova' }"
-          class="disabled mb-1"
-        >
-          Moldova
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('romania')"
-          :class="{ 'active-filter': currentFilter === 'romania' }"
-          class="disabled mb-1"
-        >
-          Romania
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('türkiye')"
-          :class="{ 'active-filter': currentFilter === 'türkiye' }"
-          class="disabled mb-1"
-        >
-          Türkiye
-        </MDBBtn>
+      <div>
+        <MDBDropdown v-model="dropdownCountry">
+          <MDBDropdownToggle
+            @click="dropdownCountry = !dropdownCountry"
+            :style="getActiveCountryStyle()"
+          >
+            Country
+          </MDBDropdownToggle>
+          <MDBDropdownMenu aria-labelledby="dropdownMenuButton">
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('costa-rica')"
+              :style="getActiveStyle('costa-rica')"
+              >Costa Rica</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('mexico')"
+              :style="getActiveStyle('mexico')"
+              >Mexico</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('moldova')"
+              :style="getActiveStyle('moldova')"
+              disabled
+              >Moldova</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('romania')"
+              :style="getActiveStyle('romania')"
+              disabled
+              >Romania</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('türkiye')"
+              :style="getActiveStyle('türkiye')"
+              disabled
+              >Türkiye</MDBDropdownItem
+            >
+          </MDBDropdownMenu>
+        </MDBDropdown>
       </div>
-      <div class="d-flex justify-content-center align-items-center flex-wrap mb-4">
-        <MDBBtn
-          @click="filterImages('nature')"
-          :class="{ 'active-filter': currentFilter === 'nature' }"
-          class="mb-1"
-        >
-          Nature
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('portrait')"
-          :class="{ 'active-filter': currentFilter === 'portrait' }"
-          class="mb-1"
-        >
-          Portrait
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('street')"
-          :class="{ 'active-filter': currentFilter === 'street' }"
-          class="mb-1"
-        >
-          Street
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('bw')"
-          :class="{ 'active-filter': currentFilter === 'bw' }"
-          class="mb-1"
-        >
-          B&W
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('architecture')"
-          :class="{ 'active-filter': currentFilter === 'architecture' }"
-          class="mb-1"
-        >
-          Architecture
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('other')"
-          :class="{ 'active-filter': currentFilter === 'other' }"
-          class="mb-1"
-        >
-          Other
-        </MDBBtn>
-        <MDBBtn
-          @click="filterImages('long')"
-          :class="{ 'active-filter': currentFilter === 'long' }"
-          class="mb-1"
-        >
-          Long Exposure
-        </MDBBtn>
+      <div>
+        <MDBDropdown v-model="dropdownCategory">
+          <MDBDropdownToggle
+            @click="dropdownCategory = !dropdownCategory"
+            :style="getActiveCategoryStyle()"
+          >
+            Category
+          </MDBDropdownToggle>
+          <MDBDropdownMenu aria-labelledby="dropdownMenuButton">
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('architecture')"
+              :style="getActiveStyle('architecture')"
+              >Architecture</MDBDropdownItem
+            >
+            <MDBDropdownItem tag="button" @click="filterImages('bw')" :style="getActiveStyle('bw')"
+              >Black and White</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('long')"
+              :style="getActiveStyle('long')"
+              >Long Exposure</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('nature')"
+              :style="getActiveStyle('nature')"
+              >Nature</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('other')"
+              :style="getActiveStyle('other')"
+              >Other</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('portrait')"
+              :style="getActiveStyle('portrait')"
+              >Portrait</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('street')"
+              :style="getActiveStyle('street')"
+              >Street</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('wedding')"
+              :style="getActiveStyle('wedding')"
+              >Wedding</MDBDropdownItem
+            >
+          </MDBDropdownMenu>
+        </MDBDropdown>
       </div>
     </div>
   </div>
@@ -169,7 +179,7 @@
   <!-- <PhotoGallery2023 v-if="showComponent === '2023'"/> -->
 
   <PhotoGalleryCostaRica v-if="showComponent === 'costa-rica'" />
-  <!-- <PhotoGalleryMexico v-if="showComponent === 'mexico'" /> -->
+  <PhotoGalleryMexico v-if="showComponent === 'mexico'" />
   <!-- <PhotoGalleryMoldova v-if="showComponent === 'moldova'" /> -->
   <!-- <PhotoGalleryRomania v-if="showComponent === 'romania'" /> -->
   <!-- <PhotoGalleryTurkiye v-if="showComponent === 'türkiye'" /> -->
@@ -181,11 +191,13 @@
   <PhotoGalleryArchitecture v-if="showComponent === 'architecture'" />
   <PhotoGalleryOther v-if="showComponent === 'other'" />
   <PhotoGalleryLong v-if="showComponent === 'long'" />
+  <PhotoGalleryWedding v-if="showComponent === 'wedding'" />
 </template>
 
 <script setup lang="ts">
 import { onMounted, ref } from 'vue'
-import { MDBBtn } from 'mdb-vue-ui-kit'
+import { MDBDropdown, MDBDropdownToggle, MDBDropdownMenu, MDBDropdownItem } from 'mdb-vue-ui-kit'
+
 import PhotoGalleryAll from '@/components/gallery/category/PhotoGalleryAll.vue'
 import PhotoGallery2018 from '@/components/gallery/year/PhotoGallery2018.vue'
 import PhotoGallery2019 from '@/components/gallery/year/PhotoGallery2019.vue'
@@ -195,7 +207,7 @@ import PhotoGallery2021 from '@/components/gallery/year/PhotoGallery2021.vue'
 // import PhotoGallery2023 from '@/components/gallery/year/PhotoGallery2023.vue'
 
 import PhotoGalleryCostaRica from '@/components/gallery/country/PhotoGalleryCostaRica.vue'
-// import PhotoGalleryMexico from '@/components/gallery/country/PhotoGalleryMexico.vue'
+import PhotoGalleryMexico from '@/components/gallery/country/PhotoGalleryMexico.vue'
 // import PhotoGalleryMoldova from '@/components/gallery/country/PhotoGalleryMoldova.vue'
 // import PhotoGalleryRomania from '@/components/gallery/country/PhotoGalleryRomania.vue'
 // import PhotoGalleryTurkiye from '@/components/gallery/country/PhotoGalleryTurkiye.vue'
@@ -207,9 +219,37 @@ import PhotoGalleryBW from '@/components/gallery/category/PhotoGalleryBW.vue'
 import PhotoGalleryArchitecture from '@/components/gallery/category/PhotoGalleryArchitecture.vue'
 import PhotoGalleryOther from '@/components/gallery/category/PhotoGalleryOther.vue'
 import PhotoGalleryLong from '@/components/gallery/category/PhotoGalleryLong.vue'
+import PhotoGalleryWedding from '@/components/gallery/category/PhotoGalleryWedding.vue'
 
+const dropdownYear = ref(false)
+const dropdownCountry = ref(false)
+const dropdownCategory = ref(false)
 const currentFilter = ref('')
 const showComponent = ref('')
+
+const getActiveYearStyle = (): object => {
+  return {
+    backgroundColor: dropdownYear.value ? 'var(--accent-two)' : ''
+  }
+}
+const getActiveCountryStyle = (): object => {
+  return {
+    backgroundColor: dropdownCountry.value ? 'var(--accent-two)' : ''
+  }
+}
+
+const getActiveCategoryStyle = (): object => {
+  return {
+    backgroundColor: dropdownCategory.value ? 'var(--accent-two)' : ''
+  }
+}
+
+const getActiveStyle = (filterValue: string): object => {
+  return {
+    backgroundColor: currentFilter.value === filterValue ? 'var(--accent-two)' : '',
+    color: currentFilter.value === filterValue ? 'white' : ''
+  }
+}
 
 const filterImages = (filterValue: string) => {
   currentFilter.value = filterValue
@@ -235,19 +275,14 @@ onMounted(() => {
   background-color: var(--accent-three);
 }
 
-.active-filter {
-  background-color: var(--accent-two);
-}
-
 .btn.disabled {
   background-color: var(--mdb-primary);
   opacity: 0.3;
 }
 
 @media (min-width: 768px) {
-  .btn {
-    margin-right: 0.5rem;
-    font-size: 1rem;
-  }
+  /* .filter-menu {
+    margin-bottom: 0 !important;
+  } */
 }
 </style>

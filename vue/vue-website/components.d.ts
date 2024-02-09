@@ -8,7 +8,6 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     ContactForm: typeof import('./src/components/ContactForm.vue')['default']
-    copy: typeof import('./src/components/gallery/year/PhotoGallery2020 copy.vue')['default']
     HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
     ImageComponent: typeof import('./src/components/ImageComponent.vue')['default']
     OrientationWarning: typeof import('./src/components/OrientationWarning.vue')['default']
@@ -22,10 +21,12 @@ declare module 'vue' {
     PhotoGalleryBW: typeof import('./src/components/gallery/category/PhotoGalleryBW.vue')['default']
     PhotoGalleryCostaRica: typeof import('./src/components/gallery/country/PhotoGalleryCostaRica.vue')['default']
     PhotoGalleryLong: typeof import('./src/components/gallery/category/PhotoGalleryLong.vue')['default']
+    PhotoGalleryMexico: typeof import('./src/components/gallery/country/PhotoGalleryMexico.vue')['default']
     PhotoGalleryNature: typeof import('./src/components/gallery/category/PhotoGalleryNature.vue')['default']
     PhotoGalleryOther: typeof import('./src/components/gallery/category/PhotoGalleryOther.vue')['default']
     PhotoGalleryPortrait: typeof import('./src/components/gallery/category/PhotoGalleryPortrait.vue')['default']
     PhotoGalleryStreet: typeof import('./src/components/gallery/category/PhotoGalleryStreet.vue')['default']
+    PhotoGalleryWedding: typeof import('./src/components/gallery/category/PhotoGalleryWedding.vue')['default']
     ProjectCards: typeof import('./src/components/ProjectCards.vue')['default']
     ProjectsJumbotron: typeof import('./src/components/ProjectsJumbotron.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']

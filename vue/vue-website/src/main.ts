@@ -5,7 +5,7 @@ import { createPinia } from 'pinia'
 
 import App from './App.vue'
 import router from './router'
-import disableRightClickMixin from './mixins/disableRightClickMixin'
+import disableClickPressMixin from './mixins/disableClickPressMixin'
 import { globalStore } from './stores/globalStores'
 
 import VueTyper from 'vue3-typer' // Import for vue3-typer
@@ -45,6 +45,6 @@ app.use(install, {
 app.use(Unlazy) //Registering @unlazy/vue
 
 app.component('font-awesome-icon', FontAwesomeIcon) // Needed for @fortawesome
-app.mixin(disableRightClickMixin) // Give access to disableRightClickMixin globally
+app.mixin(disableClickPressMixin) // Gives access to disableRightClickMixin globally
 
 app.mount('#app')

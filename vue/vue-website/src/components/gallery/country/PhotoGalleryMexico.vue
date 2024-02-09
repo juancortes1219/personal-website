@@ -1,16 +1,17 @@
 <template>
   <div class="container-sm mt-5 mb-10">
     <div class="d-flex justify-content-evenly align-items-center flex-wrap mb-2">
-      <h1 style="color: var(--accent-one)">2021</h1>
+      <h1 style="color: var(--accent-one)">Mexico</h1>
     </div>
     <lightgallery
+      v-if="showLightgallery"
       class="d-flex justify-content-evenly align-items-center flex-wrap"
       :settings="{ speed: 500, download: false, plugins: plugins }"
       :onInit="onInit"
       :onBeforeSlide="onBeforeSlide"
     >
       <a
-        v-for="(item, index) in galleryImagesRef"
+        v-for="(item, index) in filteredImages"
         :key="index"
         :href="item.link"
         :class="item.classes?.linkClass"
@@ -37,13 +38,14 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import Lightgallery from 'lightgallery/vue'
 import lgZoom from 'lightgallery/plugins/zoom'
-import { galleryImages2021 } from '@/assets/gallery/galleryImages2021'
+import { galleryImages } from '@/assets/gallery/galleryImages'
+import type { GalleryImage } from '@/types/galleryItemTypes'
 
 const plugins = ref([lgZoom])
-const galleryImagesRef = ref(galleryImages2021)
+const galleryImagesRef = ref<GalleryImage>(galleryImages)
 
 /* Makes landscape item sizes easier to manipulate */
 const landscapeWidth = 320
@@ -76,6 +78,23 @@ const onInit = () => {
 const onBeforeSlide = () => {
   console.log('calling before slide')
 }
+
+const showLightgallery = ref(false)
+const filteredImages = ref<GalleryImage>([])
+
+const filterImages = (key: string, filterValue: string) => {
+  filteredImages.value = galleryImagesRef.value.filter((image) => {
+    const imageFilters = image.filters as Record<string, string | undefined>
+
+    return imageFilters && imageFilters[key] === filterValue
+  })
+
+  showLightgallery.value = !showLightgallery.value
+}
+
+onMounted(() => {
+  filterImages('country', 'mexico')
+})
 </script>
 
 <style scoped>

@@ -1,5 +1,8 @@
 <template>
   <div class="container-sm mt-5 mb-10">
+    <div class="d-flex justify-content-evenly align-items-center flex-wrap mb-2">
+      <h1 style="color: var(--accent-one)">Architecture</h1>
+    </div>
     <lightgallery
       v-if="showLightgallery"
       class="d-flex justify-content-evenly align-items-center flex-wrap"

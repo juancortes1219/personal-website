@@ -11,6 +11,4 @@
       "path": "./tsconfig.vitest.json"
     }
   ]
-  // Needed for BootstrapVue
-  // "include": ["components.d.ts"]
 }
