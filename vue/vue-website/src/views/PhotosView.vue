@@ -131,6 +131,12 @@
             >
             <MDBDropdownItem
               tag="button"
+              @click="filterImages('graduation')"
+              :style="getActiveStyle('graduation')"
+              >Graduation</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
               @click="filterImages('long')"
               :style="getActiveStyle('long')"
               >Long Exposure</MDBDropdownItem
@@ -184,13 +190,14 @@
   <!-- <PhotoGalleryRomania v-if="showComponent === 'romania'" /> -->
   <!-- <PhotoGalleryTurkiye v-if="showComponent === 'türkiye'" /> -->
 
+  <PhotoGalleryArchitecture v-if="showComponent === 'architecture'" />
+  <PhotoGalleryBW v-if="showComponent === 'bw'" />
+  <PhotoGalleryGraduation v-if="showComponent === 'graduation'" />
+  <PhotoGalleryLong v-if="showComponent === 'long'" />
   <PhotoGalleryNature v-if="showComponent === 'nature'" />
+  <PhotoGalleryOther v-if="showComponent === 'other'" />
   <PhotoGalleryPortrait v-if="showComponent === 'portrait'" />
   <PhotoGalleryStreet v-if="showComponent === 'street'" />
-  <PhotoGalleryBW v-if="showComponent === 'bw'" />
-  <PhotoGalleryArchitecture v-if="showComponent === 'architecture'" />
-  <PhotoGalleryOther v-if="showComponent === 'other'" />
-  <PhotoGalleryLong v-if="showComponent === 'long'" />
   <PhotoGalleryWedding v-if="showComponent === 'wedding'" />
 </template>
 
@@ -212,13 +219,14 @@ import PhotoGalleryMexico from '@/components/gallery/country/PhotoGalleryMexico.
 // import PhotoGalleryRomania from '@/components/gallery/country/PhotoGalleryRomania.vue'
 // import PhotoGalleryTurkiye from '@/components/gallery/country/PhotoGalleryTurkiye.vue'
 
+import PhotoGalleryArchitecture from '@/components/gallery/category/PhotoGalleryArchitecture.vue'
+import PhotoGalleryBW from '@/components/gallery/category/PhotoGalleryBW.vue'
+import PhotoGalleryGraduation from '@/components/gallery/category/PhotoGalleryGraduation.vue'
+import PhotoGalleryLong from '@/components/gallery/category/PhotoGalleryLong.vue'
 import PhotoGalleryNature from '@/components/gallery/category/PhotoGalleryNature.vue'
+import PhotoGalleryOther from '@/components/gallery/category/PhotoGalleryOther.vue'
 import PhotoGalleryPortrait from '@/components/gallery/category/PhotoGalleryPortrait.vue'
 import PhotoGalleryStreet from '@/components/gallery/category/PhotoGalleryStreet.vue'
-import PhotoGalleryBW from '@/components/gallery/category/PhotoGalleryBW.vue'
-import PhotoGalleryArchitecture from '@/components/gallery/category/PhotoGalleryArchitecture.vue'
-import PhotoGalleryOther from '@/components/gallery/category/PhotoGalleryOther.vue'
-import PhotoGalleryLong from '@/components/gallery/category/PhotoGalleryLong.vue'
 import PhotoGalleryWedding from '@/components/gallery/category/PhotoGalleryWedding.vue'
 
 const dropdownYear = ref(false)

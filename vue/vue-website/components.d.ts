@@ -20,6 +20,7 @@ declare module 'vue' {
     PhotoGalleryArchitecture: typeof import('./src/components/gallery/category/PhotoGalleryArchitecture.vue')['default']
     PhotoGalleryBW: typeof import('./src/components/gallery/category/PhotoGalleryBW.vue')['default']
     PhotoGalleryCostaRica: typeof import('./src/components/gallery/country/PhotoGalleryCostaRica.vue')['default']
+    PhotoGalleryGraduation: typeof import('./src/components/gallery/category/PhotoGalleryGraduation.vue')['default']
     PhotoGalleryLong: typeof import('./src/components/gallery/category/PhotoGalleryLong.vue')['default']
     PhotoGalleryMexico: typeof import('./src/components/gallery/country/PhotoGalleryMexico.vue')['default']
     PhotoGalleryNature: typeof import('./src/components/gallery/category/PhotoGalleryNature.vue')['default']

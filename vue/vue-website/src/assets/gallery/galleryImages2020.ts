@@ -171,7 +171,7 @@ export const galleryImages2020 = [
     filters: {
       all: 'all',
       year: '2020',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50926698247_4bce2474dd_k.jpg',
     classes: {
@@ -187,7 +187,7 @@ export const galleryImages2020 = [
     filters: {
       all: 'all',
       year: '2020',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50925887623_339f55d2df_k.jpg',
     classes: {
@@ -203,7 +203,7 @@ export const galleryImages2020 = [
     filters: {
       all: 'all',
       year: '2020',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50925889773_6d568a0ab7_k.jpg',
     classes: {
@@ -219,7 +219,7 @@ export const galleryImages2020 = [
     filters: {
       all: 'all',
       year: '2020',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50926704957_d0a759e0df_k.jpg',
     classes: {
@@ -235,7 +235,7 @@ export const galleryImages2020 = [
     filters: {
       all: 'all',
       year: '2020',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50926707817_cac69e0adb_k.jpg',
     classes: {
@@ -251,7 +251,7 @@ export const galleryImages2020 = [
     filters: {
       all: 'all',
       year: '2020',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50925897293_7e6304d718_k.jpg',
     classes: {

@@ -3,13 +3,14 @@ interface ImageItem {
     all?: string
     year?: string
     country?: string
+    architecture?: string
+    bw?: string
+    graduation?: string
+    long?: string
     nature?: string
+    other?: string
     portrait?: string
     street?: string
-    black?: string
-    architecture?: string
-    other?: string
-    long?: string
     wedding?: string
   }
   link: string

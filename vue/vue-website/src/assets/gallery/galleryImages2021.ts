@@ -12,6 +12,1160 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84TUWLCSEP4FOklkfAK5gYfgbHFeHbJ0-wLqALA-R4bc-zPD_2ZtvkEdAx-EVDFYon70OhzvZPIYUIt3VdTHYufUjQol7AJW50Gwk2bKTiNqwXbjpk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Río Lerma.',
+    caption: '<h4>Río Lerma.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: '2fgJFYBfdYhGdneZZ5dna2qvy6/u'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87BayZBy1R7_C5qXFJLsgYj3CyjaImX6l-rXoFyrF0IgWNM7zxxKTI7xdcCMGj5ldVBbENgBS-HgxpxBVkE1XU_6Gl2TDbBfwwXkfeE3JCgtnsJGIk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Río Lerma.',
+    caption: '<h4>Río Lerma.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: '1PgJFYJfaZd2eoeIiMloeMlfeM+j'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85R_wtxu7Z_ZCzNiq8_3vlnHukOZnK6cMOsu4UYfyg5eidcvjUTVxx7GtDY1ZT3nsOVFEA7DKwRafxkXvVRgnBIRyjVnA1dNWlSMs31as5XQuNlboY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Graves/tombs.',
+    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'GtgJJYqQxHdyiImZqYaIhrZwcwpH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84imNRGwIOw4yzRhg1p1HNtC_rGD7l4n9II--oReRArMDCDztnocuS8sdKq-7wL3OMMTc33ivwIzR4IoldI9X806TAZfoY7fr5vhAU40vpIdJhLX4o=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Cemetery path.',
+    caption: '<h4>Cemetery path.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'lugJLQjVeNB6iHiGdmp2eARBVxBT'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84zYwgON_6KKUdpl83JQdSN_iUvsY4veuez5EEMi9LPcVpLy4yJRRAN5xqMJAi7IIXcAf4jXbR7Stj-IxjpW8Zq_FSAZ3yzqND5MCddmeHe3P_O7Kk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Graves/tombs.',
+    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: '0/gNDYKZiIlweHh4h4iIiNrfKQp4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85FsGPzCdRNMywgJwFzFqmFvjnO8hGkJadQETVFqK1Uu1tFnrwG82mG_06HYSC-tlFaFGvXWVhbtrknaiOfDvaGkgn4AJqwrk6Atm3nmRyJ_kn1dUk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Graves/tombs.',
+    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'lqcFPYwrm2haZ3dtaXWJoM2ysAs6'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV8680ahXtxUmrwatNe8433JqukGlVxM4Ddqi-Z928pdbbXq8FsjNpWgGDHp80aSHRyBZcWNKimRl4IQFqIisR8LDagI05y8edHd4O2dzdkjANRDY4Ig=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Graves/tombs.',
+    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'lLcFNY4bZob5hXktq3daN5BQQwlX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86bWTMte_4ny7gdPl1O59KfYm77fOI3uL_keTeHPTHiKf_QrmQCEI5D42GhoWv95UTTgxiijyij17Sef-ZHvKeB01sEyb6IA3WhnVzNnHKAzL5i0eo=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Main cemetery path.',
+    caption: '<h4>Main cemetery path.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: '0QgKFQKEh5B4qIR4h5hoh6CfGWhv'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Yc6SNSkE73ZZOFifTZqtSW_W0bWZoFKOiaijGmVn6ni-fwZ8qsFSwf5-wV7kNYpQbK9mEMxccpGJrRqQewFA5mWYs6-m_9Dib8ONssleW8kbxCGA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Panteón Municipal.',
+    caption: '<h4>Panteón Municipal.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'W+gNFYSgaXlIeoieh0eKecVwSAl1'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86lzR5KBmO3vK4hwhFiGe6WXwC_N44Ljvk-EeV2trMKKFJ4dOMiCq92aB2LmIRVj02iVAMbwHonIbskgCxKr4HZ7jCM10_3qC1mwYZNlhpDjxM434w=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Bear decoration.',
+    caption: '<h4>Bear decoration.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'VwgGFQIgZsZmaYUWqGqIaEWgavea'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85R8SWlqbdpTEwwzRyxb3KAheGirElFt7xgS6hXdvG1PPTUg8ickN028K0iEfrOAn6GtxrIWWIdoX9ePfOKuKfGbsxRAYZmmGD2BGrR6tRdJQaNKWs=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'n9cJPQ4nZqqJuKgIdoGYp3eAdAhI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV872KciYE29hoFD9pumB2STRr8bGhzPvIFjnuTrwIBUlRzmctWcyUY7uOh944mGFwwlK13fv7lWuzGn-Ke_eKa30zJsEhMQlZPV1QUhrMQoyEbiRF0Q=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Puente de Batanes.',
+    caption: '<h4>Puente de Batanes.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: '19cJNQo8l3+Ud5S4uHU4pqd0UAkn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV8580fpYI6yPicB-QQL2DMKAxWEm-k0bsHfLL4lDcIlRuMU0mIE0pn2gJU-y-F99MkxUTSqcbL3SYltpJag7StRQA8TlUG0a-L7YpRM_QSgaRD_GL2M=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Río Lerma.',
+    caption: '<h4>Río Lerma.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'lvgNFYQDmXmHZ4d8hpd3htChMS8Z'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86yh9gdNuYdVQerax9HyjkbesFsDBJ0WbFH8vcPBIyBiPttOWsuyMmDsmYvfmVBT0XRL6FBrfX9D49BUiWcahDfyE8vsckvI87iDEjOPYfCfq-q1ds=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Alley.',
+    caption: '<h4>Alley.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'ligKDQIoNXGJCJineHqnV/GzFl9q'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV866weIkoIh3Bs_UfFCpeIUx5biGBTH3Q-MfQqChuoYUh7pv-VVUo1x75JX2WEdYe0p-dzDnDw1kT_dDg0q6L-RVuA64Q26bRHuPR-3M2Eji4dnnEIs=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Flowers.',
+    caption: '<h4>Flowers.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'X3gOJYqPiYiZaIdndnd4d4BmBpdV'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84Y1XUPKVBaWqNgAEBSDqiw7i5X6YteWClVaeOCkWYE8tN_jyL_rkV2eFDb9cad3bhHnaGmK6Hpbj2_MJ_CVIGDt9EBTp_-XnA0gp6ly7K987HSx1w=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Templo de San Francisco.',
+    caption: '<h4>Templo de San Francisco.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'IAcGJQjferxm11dXhYmIVwtDcmAE'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV867hbls76PPfvQe9bjgJucx5wpbYyjCXGi2l7OYXSg1SJYkporhXwoVY6kehoLundsC1N54ERFpNGJWMy0dp4EO974QBy2vw4yPvfmUGuXnHQEpmew=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Templo de San Francisco.',
+    caption: '<h4>Templo de San Francisco.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: '3qUJHYafmXd5mIeFd3h3eTDQBQRd'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84fMMWugBMcSm5VMwnxXHLsI353OckVmfOgWRNTocpPeqJr1LS0-1GBMLXweZsXfEbHxzXDHQ9jAY8GsunvtTfp1n4S5UP6-mc54wHqK0jDUOH4EEI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Distant hill.',
+    caption: '<h4>Distant hill.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'HtcBTY5Vmpd0WXZzpQh5bIdweQiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86u1s84iJr0dQSqwxIRVTsFR8B3iMD5fJZ8H7ZDoMhBlKgIeeKw_GpRRlsLAq3znH9003WpCrKrgE_Q0jXaz7FEXCdgjhvkD5JSzlVi8lYxkO3lpqY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Field.',
+    caption: '<h4>Field.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: '3PcFXZB7eHiveXiVhwh1dYeAdwhn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85kDKwCZFq_1a5KYtO7y2YjwrzRbItw6mg0l1snc591rM2poTz9SDe4urLW83U5FoZCaeXi33XFvpLs82p-xbfInwPshSNzSVzbABJY6rWHe_c-eN8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Salvatierra sign.',
+    caption: '<h4>Salvatierra sign.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'UBgGHYKmiXiDmolgaHhYi/R+OM9m'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87__Ycm9hVh8GZoutCcJmDpUMB3Q-7lc1nD8oF8UMqOvQVmciaUpCAXVdKUFto9Es5UjIN-DS6qfC1Lyke6yo2iQyZ9Q3UHqNndqxmuQGoBtLDJIfU=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Deer light fixture.',
+    caption: '<h4>Deer light fixture.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'xwcGDQAKUpZZN7eoRndWSPVsas/H'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87KxLdCosCsy31Wimm6XOggyq82NIQb8XZwfwp9twpAHYPd7qSys64hmifUJLUImgy-AvuNRR-zM4PciOVSLRRVZ4nHwGlIzne4Iq-OsG709vYFaVI=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Benches.',
+    caption: '<h4>Benches.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'B/gFHQSceDCWF4bHiWiGeICqBrd5'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86EAJbIGsgVbBb00KNsydHIjmVL2jpbSq4OCz2d2i63Qp4UZma1nd10b7rDInaj4hQG_7cbZ48OH5lRCaZOnV6-fH-bXP8nk7J_nzr3YkZTySEGU9o=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Nativity scene.',
+    caption: '<h4>Nativity scene.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'iggGFYI1ZXZgs5iEilhqdAV4Q/A3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85WkVt78MfsUTnZEpbThnV_3q-lL26uhuzK6aqEfqOuI677IW6s8wBHg2e1MhCDi15-rBr0hvfBxS3sJCcWSyR0yM_BUv8O-13p7pc2pHbp3ZduJMk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Parroquia Nuestra Señora de Guadalupe.',
+    caption:
+      '<h4>Parroquia Nuestra Señora de Guadalupe.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'jBgKFYKnJ2hwh4aHh1uHh6eAdgtn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV856wpJAiGKZdzQmht538Bg_DU4Y2rFHXEi5ZwrmqSAWrIsTQrQFY14r3C7vy-leyGva7ilNRHDMTUzADa3BEEU3UOPI7JYGJWge9TAQk3rr78yB9gM=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Park.',
+    caption: '<h4>Park.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'B/gFBQJHqXB4h4d3eHhoiPdKV/qH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86hcmRKvZL9HPSpDce4L0qxDmOwnxnb-O2vmRo_nwkwEjHITt_BmpggMpaXHNMzqmbmGnf4VzaMvdvLawKNwcV5EGMRGJVSv1m8uKY0kyObGVaQoOs=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Christmas tree.',
+    caption: '<h4>Christmas tree.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    thumbhash: 'iAcKFQAIl4J5ioeId4d4h/eMWEz6'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86FRIMeEnvt5yG7gudXMYdtNcLFJZUjhYq45v5OBr2aLP2knBlAu5ylc1Z_gl50CZhOxpmVr7vr87DD_WNIeUjWRR7tplo24gIDpmpeg6Jb0Zj4sP4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Textiles and loom.',
+    caption: '<h4>Textiles and loom.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'kDgGHYT16XahjGZ5vcmp12+I9WZq'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87me13PjTZaOCb4O-9UEyn0pEYTIzxtBTuLc2ttNesERyprYuqjwdsFIdwIycjQpKHe8K4zCmQaOu_8id5AuuA3rmccDkmpODLlZMUYuSr1xr8sYcg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Textiles and loom.',
+    caption: '<h4>Textiles and looms.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'VGkGJYTSoZbsZ4dKlKpKj5+vuP6K'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85oDAVLURcyJt9qpxuAIcJFilcjKc92bUTRrDASiyn5XfIIhMmGvqDpSTN9v8qei704vCu49gi1dW_rcTB4WGbQ6ejXKp7ZTO5eK3nc_PHIWW1pWbQ=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Loom.',
+    caption: '<h4>Loom.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'GCgOFQQ8eY+Gd3d4d3ZodvFTGU+l'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86qh7RhBZlJ60sLP77Z2oK7_fkTor-n2JgTYc1xgbaZeZUGYLO21Elp4AVRjFXuE8XFGDi20NtsgfFlLBrdIHi3fpyjkWaUFI-ghIchQNvI7uFAUuM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Textiles and loom.',
+    caption: '<h4>Textiles and loom.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'zUgGFYLjhnSAl4l3Z1hnmp941X+p'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84DavEMtqI_HoN9PEEABO-Mw7nEDba_97-s6ICuzivIqG5d2_GW_0g5nsVuazs0b6J1Oq8qC1jtZhC_BvBiXBDdvKPSM3XS9ZAfBI0HNq_-6dFmfKU=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Bags.',
+    caption: '<h4>Bags.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'UygGDYJqSFdvZYp6eHl4qVKgXQip'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84_KrGMd4QD8xEem9FOLkbXUOaJvDev5Kg-NtFWrkVEvOvWWlnTDJNbiFxY-RoUyANtB55WyJs8-kWRcUtIGj7o-99EWUzPuvTqosGAy9EBpRRTCEk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Textiles.',
+    caption: '<h4>Textiles.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'kDgGFYKIerc/dHU8pqdoeJ+Wtiw/'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86UF9cOCJpVDf6K6Pptq7De2HyIwiAKrMiL25bFFhvCn0xbCpRvcDfgfSvgMpeO0620I-XvUkdhdNSwgizE8QpNfB41xwsk9ES89FOyhqJFKuUisBk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Textiles.',
+    caption: '<h4>Textiles.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'kzgGHYSZlphQdImZeYeHe3NvFPdW'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV879OLd1KyjgQ4NDeKutpwhjgcfEKwTT4HkM8qX2uOj0c-4TZ6IeQlvcIRX0LSVG4PkcHRK8s_XsRuVvpPBcwXE_Bf-dJwPVmMNHb2EYqsCeugoiGZE=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '4ccJnZZ3eHeAeIiGiFh3dnhwdgho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85CmTX13xoOr65MCBICvQ34FmOJDZLtWn_yChHwjFeGDP092IQB4TwXg1htm__swNWRWbnJP80pAHVgnl7DMYjS4Nlaf72y0bXSoSyuqsCfrHVfnwo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'mLcJdZSIeHiJh4dvdhiHi4VwZgdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87F_uKhlD1nzVatCeXgrPg_HQZMDn3RoJI0Jv22pNfrn2fVXVB2lOOabLNeKR_fg3HijWz-s-rBUXzJLM3BO2safiGh1TS4UCVirZcZvoWjD5Be_Yc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'lccFfZIoiXhZmXifaCaYhnhwlgho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87EHZf2xHUHXPkJ2BIf1_ciutx0L9TcXhsH3XrxoHEgnZ9FWYZb-7Eq8Oca923rLETyVAkeud1S_Bo_wV0igleVJiquQ-qLhQiYRK53h84b9Sx8zDM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'V7cFfZRYdXeaqYdpdweIdneAdwh4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV876d2fb6_bPi_Z_NgIk3x7toHewhOdT9Pabhyt8JPNFdRaSV3BPFm3EsxK7j1BFO92L1w-yBAWOY18y7QnO4WFWftHThiooPRjMS3AezorXhcXuD5s=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '2bYFhZSJeIdzd4hoeAd6bHhwiAeX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84qvWBkIyujaKdWD9pC5wn8oFVQt9Rmqhs4gITBfajdSM-Ck4XVxjGqwCOg2noiItVvPtP5oCvPi8ls0s212x_43RckO2qLOuk8Li2OJN28t-Y7-jY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'm8cJjZZ6l2h5iHd6hweIZnhwdwdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85qZvh_H-aYzCCoGdGxqfMidIB6bVjLwnEd3rzf-sbVWS1KPZEue7TGuicF6xRn5r0DFmJcsStsnj6bW4RfsFvVphYyG7qW5jhewoQffk2uU6boMyc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'mrcFjZjHR4ipdnhphCqHcIeAdgho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87Fi-71YvUNv9DhZnCzhkV3Qzy33LG5oxrqUiNJgCwulfj8yrxBTY41znfv2OqviyRLHGdj-R73bLBGOYuqIDg9IfYxFXDSkn82XikuEHKNqpDoXIw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '2rYFhZR+mZY2aIiDhwSJbXhwiAeH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84L-UHFWaBMp0hGdFHFzOYhGGlewLpTJ6IAlJ3FD2T9MtalDKEGPvhZ-5djosImADoj4LVab9E_kiqzsr384E_YUMSUUpF7eGhvl8Wq8vVkS_8xI_Q=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'm5YFfZadmYZudpdxeQhon4hweAiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV875DyxYQHXgRgyKkac_6ETQwTCSjqym9zSZExFLk4qedttgiaLraMxct8H2KQfW1kXNuyKZ1JvgWtOGtz_k31JvbcSU-lP8J9MCGiKq40LP3lXme2s=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'm5YFjZKHiIiAh3eGd1eHe4hwiwjI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      portrait: 'portrait',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85y4MKJKgnNeJwd8x5XmXnEeBdRJrcKJCdCmcCg8xlI75th2jY627otZOAojyInfB4ZlfifuaNF8HQTwZI8HGtFqcHb8N_b_b61ebiutPIA9QMo2HQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Omar.',
+    caption: '<h4>Omar.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '26YFlZKHd3iAh4iHd1eHe3hwige4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      portrait: 'portrait',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV840BzszK9gM65quvmDrknK59_le2dFtbqgKQhiYlCKFcQGF4EqMRWnGkQHPywbl3xADLXCUawE2PFCcorlL1STrcMvhQaw4he76Y9v8XiL7-uEwvy0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Omar.',
+    caption: '<h4>Omar.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '26YFjZKHd3eAh4iGd1eHe3hwige4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84PCHZg2EBMGJJxB6CebxanbCKkaaQdpg2shagC8ihXcsp4WPX79Ckjqm4kOfz4v59fbQiQypVzwu4-q_gYq7oZLeV3ZNNFr1wUCYh7vp21vlN7iI0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'HbcJjZR4d3dwiIh2iGh3iIdweQiY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84wx_X-b9mHaqKNmvnVVBUBb-3_euzoSHyL38onT00fN6qhzU87zvMKU1zrMmce4Wghz8rL1WkCNCUcFlbk02JsvZgvKnUmOn5CwPWQ2q8_wTstX8Q=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'VrcFVY4TVodGZoiXiAl4bqqQvQrZ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86jJ89AsWh0_-_ForXY5g8ZiER2-8Qv34721PJIMx0S4_I0OVwcDaQUJi1uoXTk2YDcAMNkPK9r4vNzraAuKG-ZCqDRuURMSBaCHYVGGbXE1DfH9B0=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Path.',
+    caption: '<h4>Path.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'negJRQpZeIB5yIh2WHWImIRARQdV'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87zauxEzH8YB_ZbZxNDpDHxs1RYOINY2xZzV895BBpYMLjJFpw_DClfVOmKBKZXC_E5BsV8vD6r8PeG2s95tx9dbWeNWh-Nb_Ss_BIRmYp9Z3YLHUM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Zona Arqueológica de Monte Albán.',
+    caption: '<h4>Zona Arqueológica de Monte Albán.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '3KYFhZQ+iHg4iHeHewiIaIhwdwh3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Eh8JvJgnyoL_phzh94k9WXyN3P70PTqlp_YHmIBvqkB2QEXgRO6VXrAzOV6iU-SkVlHi7vzdVPdFtctsLn4GskZEis4hRtf074MJae1xu7zgbMSA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Distant hills.',
+    caption: '<h4>Distant hills.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'W5YJZZR3d4dtiIiAeGd4eodwhwh4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84KOKA9Vq7OsU8-38p5inAIdg-n65iZ_0_mPj73f6OA4ioTGXnssgTwe0c79-5hOLw9SSqEEVdUwpte_2KZbJlh20-X24jZckEljGrCkh3kdVESwJA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ruins.',
+    caption: '<h4>Ruins.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'XKcJjZqmiHeIeHd/hgdoh3eAdwdo'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84L19UZFZOZX3tQftu-TkwgGeWcfhDOHyFCrjYSknH-7sPQ-GqUOIZuPrd86ii4_QJsowkZTh-dxrriHJOFgrAQx0YN3D6QBRGreXfiqOdzAvHKwBg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Snake.',
+    caption: '<h4>Snake.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '2vcFDYBgeId1mniLd1eHmP24e1/8'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV852ULW_L-PvJWeUTV6IP3ji2ehk9Z8yyviOoExsouViKGxHfH7qE8Ot6x8dzJ7cB_ptNpsBQaxrt_3s5xAMVF5Hui6guWD8DqBNfYsQrhiLI_4msVE=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hike trail.',
+    caption: '<h4>Hike trail.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '0egFHQYjic+IZ5UHa2s3qJWgdAiJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84d8DtYdEP-KbPHVtCpgCKpK7dflw_1MYw2R7ZMGVYACAa0En6UlvXOexy4NzYRGbuJ8fHyJEqB_8Gkx9RNeNdv8jVZ3hn9iuYMih9Hq03wcdxPZzY=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Guy posing.',
+    caption: '<h4>Omar.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'mdcJXRDKR2yGp2aIiJBnl5hwgwc3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86dnXWpqYrlJsW3GD1LW11w0l8SVd9gLhpwp2O2pAdrzsoNNRK7rnE5CUvd0KaKA4lHC08365SlfF-kh6cYPEx4w8pYoTLOWhWr-NCdmKjtNWjv7cs=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Distant hills.',
+    caption: '<h4>Distant hills.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'V8cJPYojRWZ7hnaQiWeHeaiQqguJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85DB1-m_ofow81Zy_lXLzhpvw3DXEDqWJDMMHf_4FG4w4yW-mUDpxQzOoAy7AnHb09b_CoGsXpn1sD9EmaexTfmKqJe8Jphpgc3NdvLoUHF50PxEbc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Distant hills.',
+    caption: '<h4>Distant hills.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'nKYNRY5oeHiKh3iQh4h4eZRQSgmV'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85rxpYLypuOjvV0cPJr-mpcefDSjCvoV56tJ9UHswbgm1mSpH-EAuLxI6GqkE9YZWE3ND0qmERdAsK7Bw7LDL01muWF8QvFpJtNce3f4iw1Ut92Qwk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Distant hills.',
+    caption: '<h4>Distant hills.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'mZYJdZJJeXhviYeRaml2eZdweAl3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85rmsMVkRTSD5RF8IEBhoiLIxT0dkoRhUT-NBRQCtHRVTwwEnEF2BRV5z2Jv_MkcYJLewTDPqCAVn8BTkk5ZGkpz8Sj5CDHecvzOJmGNyYf45NKMXA=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hike trail.',
+    caption: '<h4>Hike trail.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'lccFdRR5mZ95p2cod5Z5mIeAdQho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86nLsWb_87rg_xwhAn3KlAmZVST9mCL44vTPIxI3dVuKYh_7b4vV3z2Sz2e_NH4VivnYMK-XxbLDL79-H2DM0ZoDI7Ffdl0JJI5dQE2sRZDITAdMrE=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hike trail.',
+    caption: '<h4>Hike trail.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'F9gFXRApiHh99mgoZ3J2mHdwdAdX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85HRNhvf0P8V90t-igNjrvN-zjxwX78mtgLeI0I-PAZzK2nG9WLMbUE8jfULy18R1QzMA-kmcViue7fSNYU-6ghY66zjVYpHsqTGHO4VVhQvkKKYHE=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hike trail.',
+    caption: '<h4>Hike trail.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '08cJTRBGeI95Z4dXdpWZmIiQgwhp'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85AKLvVQQmsBB5fPIobqF3-slFlT-HynmB7-9RcM9UPJ8A8vEYw61um8AuOLSdJrzLd1A7tVepAVUKamQG08q-2Y0eW6bAII3nijCRjNKJZZBitUJA=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hike trail.',
+    caption: '<h4>Hike trail.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'z/gFJQYNmT+GZqcaqYxYps+Tkgpo'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV863Cl78P2aDw6rGJihugWcxtw39XAvvkp0wJGN1jUVUOxFwk2vRF98z0lVS1C2gCPMvS4lsxtyHoHA8gdANjI-mLOwK_EQqs3yEV30GoEyKqwKmXoQ=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hike.',
+    caption: '<h4>Hike with my Aunt and Omar.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'GcgJZRJZeax66GkGp4eHl5iQlQl5'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85C3WmhY_8Wo88Fe8m7tm0m7mJbD20heYQlL3KNb79K5aSY6kHIkmvYxip2owLdHDGqZV8jxMclVjCOefQKxn1oK7Nk98fN6DSzg5dMdUDEYwFxbgM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Distant hill.',
+    caption: '<h4>Distant hill.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'FscNVY5md3ePeHiDh1iHh3dwdwhn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86KGYKIj1NnmY5IHBPjvyk51nEgRakCyUB50AT2DSBSWg9gCjxUu64dnypgEdEwhrSyLTKUzhZppWsjtuc1cKToq5nVYtJa4EEsy7cpvmYOr9qmsZ4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Distant hill.',
+    caption: '<h4>Distant hill.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'WscJRYo6aHhviHdzZ2iHiKiAiAl4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84l1fHhwpfYMZTtg9LzwpjD5Q9lQn9f7pgbCQ1COhtRDnQB2C9NbiImXYAD8YOJC-wvKvMF5soihezH0_0N4e1FWKf83KR89n35TN42xjgj7RRy8nM=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Downtown.',
+    caption: '<h4>Downtown.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'iQcGDQKVlXCJGHWYaalIh0+U9Kkm'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85EhPzIjo5D7HEQ_47oVdnUl1KqjSanAzpFzG7dcKsQoZRVnDqtZpE-yxbFjzSCzdIZpz_7Fi2qr2EaMWM4W57TAdIJLfzHjeuNlogJLwo_8HSzFgA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Downtown.',
+    caption: '<h4>Downtown.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: 'yQcGDYJ4dXZ6i3eCdwiGebFwA09G'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84BQp_CzFfM17yjX2sD6geF12LyRHgtkAvfOH5Z_O9dyYcs664i0yVLXTxkN7x6mlhJR8faHxoTyuFGjMGd6peUvdGMeBcLpdB-7PkbtksmcJ1mwFI=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Alebrijes.',
+    caption: '<h4>Alebrijes.</h4><p>Oaxaca, Mexico (2021)</p>',
+    thumbhash: '2SgGDQJ/l+yJ55x4eZx5mgNxKgWZ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
       other: 'other'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87kahYPN9jy46qN0S_tVcUsSS_UmpX-ftDKahAhlTkUgT5qjPmWiJ4W9o1SSx5d2nCAb7-b61XuSpzdsOJU0IYWTJAFd2rxmSIuFtor4gwLkmj5ruE=w2400',
@@ -1462,8 +2616,8 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      street: 'street',
-      architecture: 'architecture'
+      architecture: 'architecture',
+      street: 'street'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84G4a-UigD6IPq1tg0ngcKguihGAAZ-Tj2lTfsYrIm0g1hsuUzkrHEnoateksAOYHmo8KaPJZ3Lnx0iwbJ_GZgLnvWJUS4wDjFS5gYj6pvDpXOGm9Q=w2400',
     classes: {
@@ -1673,7 +2827,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85x9s4AJs1MSp87Kc8sx1zpuYR9g_Ty5nyIKjFIC3prl4iQwn3Y6sWF6thAfqS0zQhkAcxpbkhRliyq_y4TSA_Q4ruuLJHbBb7y2oRzBd8J5X2t1Pc=w2400',
     classes: {
@@ -1689,7 +2843,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87-azGliZk541LFin8hg3NXrUM9VDfiGi1iIItgEdAcL9ew9-TNsLxXLTYKjAuG36m5lwv6SAHcGrc9JEA5gO4qGGKZ8eAcvJ2PRqbqSG61DzYdSzA=w2400',
     classes: {
@@ -1705,7 +2859,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV86n8MWDKvvarGK4luNZpy9b6rUTctWCw3w531Ea_VCNmA0ZrbJ6vTlXl9EQqdx_qY_6FVbmn_q7SQCSUo1_oEEiMDchSaX5BFkxmB2-Je91GI3UHio=w2400',
     classes: {
@@ -1721,7 +2875,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV8662vUF0rjbQ67U-ly8NxDe9TWiC1QYIwWf0jLEtPc3bc1IIfVh2dGrc2rrUAbZBCuA_NyiDrbqyjt4g49zbkzH_S8h7jqlqX478k8DbZ86l5QpWhY=w2400',
     classes: {
@@ -1737,7 +2891,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV874W7iJ6NOutbMRI4MIi0a_Bc8pS8qynGcAYJ1g7LdIBk7M8iZNbxxUYf5kx8vMBew7VatS2uGPrFzKdQ0CNuOiHlFecF-24Fk6c_tPqleIFlfxRVg=w2400',
     classes: {
@@ -1753,7 +2907,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV841sR3NnHJhPb1KgxZn_4-1W65qc59EA9n5Dotvf7dmltLW3BfGG7AHU8TNQHB42yUvcI2ivXCWp3N-gUF7j8rYensRKeooji55kHpZIRf-Zxva5CM=w2400',
     classes: {
@@ -1769,7 +2923,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87lqx93WmFTjg485_wTcuZCiZ4rxlC-upIhK34DM6KNQibBDAlwGY-Ljmxb91rJrb05WQgOL1zzSfzAca_u34_p86ZXsPiPFd05SSu0kQ7ok6DsF1c=w2400',
     classes: {
@@ -1785,7 +2939,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV862R43M37GbKqohBT8cXc_234gNCO4bdrv2Weho6rFuxrRqJmwCykTKEeUhSe9LTqFSz8020RLtAxKNd30X-fXbZFZvBPI7pl7hgDMbFQxF2WzNmzY=w2400',
     classes: {
@@ -1801,7 +2955,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87Y9XWfeTEKSo4PIEizjhI_tidsI1cS8vSHAHBLA6YNVkd6-vqr9p7OOdpJG87WgFsijn_p0lMuoO3VECPRW3hvpGSnfhgqNp9g37j8ajYQpiy1hh4=w2400',
     classes: {
@@ -1817,7 +2971,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85Vo36Osc0TJaWAzUHIXm4Tsb5jvbmpwd-sO-vhmKxqg74hFSjFTh0-zBPYRHle1ZGFBX7RwgxVFXZQhAMrjnl4639TAXquGq8LZKYCbe66mk6X1tQ=w2400',
     classes: {
@@ -1833,7 +2987,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87Y6A3NuZ4WAHF_bJJWjCE7NeIiqKs9-4opbTKZhoKkBFkt_c2QIv2RiyvRO5696b6frAELjCoe0NXL6EAYaXOEhN3ZjDKj-Bsx3bXBp4xDv4MSLSg=w2400',
     classes: {
@@ -1850,7 +3004,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84hCnJzwz6UvyB4Nj9LKbA2xLqoKYRYPeNqfrl6wmbl_IdFizXYspVVto4-QxkkVM7_k3yANNBtIcmgF2zkdoumuFLUhknf6pdt5RGe9Ok-CUNuSYc=w2400',
     classes: {
@@ -1867,7 +3021,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85dYZ4NriPsIYE8ouo-toiMkJCbRdrYyp8QkytSadM2zgiP28Bx4mciGIPyCJ_e6EwuBNMe1Ew_ffe7iGz6DIimzzo3tCJTwbsOln18X9Uu-eqnzpc=w2400',
     classes: {
@@ -1884,7 +3038,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87kU6KQufPgr2CE2FDnBhIwqNp89PBJG5qbze8qIa5JFwCxvVfn8RvUQ1NFI86Iipy6OAySt0wqwqSVtvK2whG6RkBtJKXi1wXUBPpEDTN_F5pnWkc=w2400',
     classes: {
@@ -1901,7 +3055,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV86xacJh3uB0w3yRz7Cm0G-t4Vf60XHckoDIg4xGjMr5JEJtLQvCivm_05qzWwjE7s__l9-NnaLoZxswG9x3D0ronfOaHtOfuLZ9VZIpIP03g7jQZi8=w2400',
     classes: {
@@ -1918,7 +3072,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87eKmGypBXIHStvwztufXi6ZVTngQ1UpseSjTvPr5q01z24rr1cjSSIaYzlvu76fX1uxFhmY_ogarzTtJSwTKfegFTELwKD0pgTo5gJviyT0Lu2wvk=w2400',
     classes: {
@@ -1935,7 +3089,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV86i3wepsxSGnNQIoYoj94MjYyNhnIFaPeIg6cDMd4WOuyRFXuyBrOiJlgMvofyVPCUk1wkhyNjITx4DNHSp4q0eqopvuAWiAzUgyZDS6lga3xyYw0A=w2400',
     classes: {
@@ -1951,7 +3105,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84Y5OlVwGghaHZ5FY9Ez3ky3ZlAt4B1UYYlXRfo6KYrMUcTM_7t1DFyeYmkRqr90HJR_gKwY2RbsmeeNwDTfpiOIm_e2Q65unwGsr35eU5-MZDXuo4=w2400',
     classes: {
@@ -1967,7 +3121,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85P3p1WFhwNJqPvkYh9ic06CFpDQ6jPtJC5Ddwlfgxeu2vbjlTDabteWMtrvf4ZeCm6xziANt_ceUl30JCOpgySSfOyDU8koxoQ0Bo4wGSx3-PwgOE=w2400',
     classes: {
@@ -1983,7 +3137,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85GQIlfpvTGidJzQDQgUE6OtB9aAgQqQQZAxrFNwsBtdvqwR3TZy7gIecmxBK9MLv5cgd2tPxftrRFMl3WPXpvFPBORpQ7eaSe09vejnFPeUrWDK_0=w2400',
     classes: {
@@ -1999,7 +3153,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84des4cmcrkiB5eNLXsUTR6HkYiC9M0C5-n1ALujXX0xOYn9nxliwQIwunUIpJC883GnyYU80wmvGwY6ZBkuW5kpam2Qt9mHGthogi975ClPqOlNZM=w2400',
     classes: {
@@ -2015,7 +3169,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85TuLhw0hpgITWlgyZaewsb63p3riXa7Yip0BPGoRMW5Crw4X7iJHiAx8VyL3Zz1IfhzBL0qeomIeAxTTfVoI97s5xzh0vYvXRgsNVeqAOWKSs4N_M=w2400',
     classes: {
@@ -2031,7 +3185,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV878d4Vfo9uEydomHqC03RjeQ_VGxQGNpK9J5JI9U6019DneqLaaPA6pZQrS0R_PERUeNRxtQU3DNU1XdFoqo0YpMAAbBtRIZ7a1ng459Au0Hsn4XQc=w2400',
     classes: {
@@ -2047,7 +3201,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV850C57r7D68uvUVeMUEiuxPIrnLTF7BmnoHJduW36uq3U5s6zwvMGKRPFJUBPBqZWDBsoc9AQbKCTwQBxHJqv1d1VG924OHUngSSJAB2KU8Ry87BLY=w2400',
     classes: {
@@ -2063,7 +3217,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87k7MLlvfczBgCG-pN5_-_PopvZ-Yd28PPMbg_c_ZzLI9IF-RWcp0tkYjvsGoLFNNjBmou1hJjUK0naZbuP6nXEy6GfCrAYUXyMAHT2_2L2b9BMSKk=w2400',
     classes: {
@@ -2079,7 +3233,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84BbRUCmfRrFEPQR3SezDppoaSMkVjLzUVXAPN72YCaqQq6pVB0BWjbW-jfNpuH1MIs71XeWfDEU3-_K49IQKyBMMW27taZic6gcp--gWkIplr5Tdw=w2400',
     classes: {
@@ -2095,7 +3249,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85ZuCTvuMhLx_y0vJ9htTey2e7dBbvwPYRjcqkpCbNWmfOZI1wrkG26yUxr1ktOuJpbauJEpikojYYod8ucVni_OB9NZV9pNrMQi7ePJ5dndspg908=w2400',
     classes: {
@@ -2111,7 +3265,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87OPyVG-BXZsiGsN4dR9jQB4Y72vmm1_cahJ6zc2yjPegQqVPbEgN2NtAimTI3V6i-z8rSV4PaOhFZKccu50uQBHwAN5_cw8-0SiU7f7QXJM2_hLi0=w2400',
     classes: {
@@ -2127,7 +3281,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87EXfYKDJ5aj9FKni0L5xULKaq9ZoOuDyJdt0caYX5eRQpgCIXQXVBh5yfWk5fXL5-L84nXhAH1HB_-mJZFRnljECXha4vB-UbRnmUC6TvtAPOrPq0=w2400',
     classes: {
@@ -2143,7 +3297,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87qxAss7--4OjQCOQMP1U7gzWfDpwrctjn0QQs7EjktJwsMks42tcxpyk7pKgEN8vttJ64YEploTrJaBo8z9_Us6tB-i7m_BMHoTUDvJPbIVaI8qG8=w2400',
     classes: {
@@ -2159,7 +3313,7 @@ export const galleryImages2021 = [
     filters: {
       all: 'all',
       year: '2021',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87WNMz8_WgjAGxBgXMrzWrQ5EWjdGwI0dREC1srWC7hEMLhA4GdJ7FtPlp0qTJk9p83j0g7RrnE1326BWvqWsZsPKrdQVfOjSUPyCJF2gKBqZpPxsE=w2400',
     classes: {

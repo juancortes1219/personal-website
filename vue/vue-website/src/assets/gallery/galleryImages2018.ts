@@ -763,8 +763,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      street: 'street',
-      architecture: 'architecture'
+      architecture: 'architecture',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50861231321_cec608b428_k.jpg',
     classes: {
@@ -814,7 +814,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861236911_3816cffebd_k.jpg',
     classes: {
@@ -830,7 +830,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861238391_709ad885cd_k.jpg',
     classes: {
@@ -846,7 +846,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861240306_e396a3ace4_k.jpg',
     classes: {
@@ -862,7 +862,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50860526363_7a73ea495f_k.jpg',
     classes: {
@@ -878,7 +878,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861245281_9da24abe51_k.jpg',
     classes: {
@@ -894,7 +894,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861247791_64e703aced_k.jpg',
     classes: {
@@ -910,7 +910,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861250251_5ea1a9fdff_k.jpg',
     classes: {
@@ -926,7 +926,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50860535553_1501c2c8c2_k.jpg',
     classes: {
@@ -942,7 +942,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861254631_7317e06878_k.jpg',
     classes: {
@@ -958,7 +958,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50860540633_cf0e42a359_k.jpg',
     classes: {
@@ -974,7 +974,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861359432_8734829582_k.jpg',
     classes: {
@@ -990,7 +990,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861362772_60ed999497_k.jpg',
     classes: {
@@ -1006,7 +1006,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50860547878_402f11f60b_k.jpg',
     classes: {
@@ -1022,7 +1022,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861265766_dcf54cb115_k.jpg',
     classes: {
@@ -1038,7 +1038,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861267141_3bfd1b8860_k.jpg',
     classes: {
@@ -1054,7 +1054,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50860552323_2ae93f96c4_k.jpg',
     classes: {
@@ -1070,7 +1070,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861370632_ea174b9e9f_k.jpg',
     classes: {
@@ -1086,7 +1086,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50860555703_8b86acb6b8_k.jpg',
     classes: {
@@ -1102,7 +1102,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861374532_2223ccb7f8_k.jpg',
     classes: {
@@ -1118,7 +1118,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50861375817_8fc6a29432_k.jpg',
     classes: {
@@ -1134,7 +1134,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50860560703_089dd2112c_k.jpg',
     classes: {
@@ -1150,7 +1150,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      graduation: 'graduation'
     },
     link: 'https://live.staticflickr.com/65535/50860561943_e1a37ce1fa_k.jpg',
     classes: {
@@ -1397,8 +1397,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      street: 'street',
-      long: 'long'
+      long: 'long',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853394736_b054a50c97_k.jpg',
     classes: {
@@ -1415,8 +1415,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      street: 'street',
-      long: 'long'
+      long: 'long',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853352787_b949420d08_k.jpg',
     classes: {
@@ -1432,8 +1432,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      street: 'street',
-      other: 'other'
+      other: 'other',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853487242_ebc464a305_k.jpg',
     classes: {
@@ -1465,8 +1465,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      street: 'street',
-      long: 'long'
+      long: 'long',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50852554248_395cfe333f_k.jpg',
     classes: {
@@ -1482,8 +1482,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      street: 'street',
-      long: 'long'
+      long: 'long',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50853483307_050dc477e5_k.jpg',
     classes: {
@@ -1516,8 +1516,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      street: 'street',
-      other: 'other'
+      other: 'other',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50852549648_3af371dec0_k.jpg',
     classes: {
@@ -1581,8 +1581,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      street: 'street',
-      architecture: 'architecture'
+      architecture: 'architecture',
+      street: 'street'
     },
     link: 'https://live.staticflickr.com/65535/50852543173_d1778a2779_k.jpg',
     classes: {
