@@ -122,6 +122,12 @@
           <MDBDropdownMenu aria-labelledby="dropdownMenuButton">
             <MDBDropdownItem
               tag="button"
+              @click="filterImages('animal')"
+              :style="getActiveStyle('animal')"
+              >Animal</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
               @click="filterImages('architecture')"
               :style="getActiveStyle('architecture')"
               >Architecture</MDBDropdownItem
@@ -190,6 +196,7 @@
   <!-- <PhotoGalleryRomania v-if="showComponent === 'romania'" /> -->
   <!-- <PhotoGalleryTurkiye v-if="showComponent === 'türkiye'" /> -->
 
+  <PhotoGalleryAnimal v-if="showComponent === 'animal'" />
   <PhotoGalleryArchitecture v-if="showComponent === 'architecture'" />
   <PhotoGalleryBW v-if="showComponent === 'bw'" />
   <PhotoGalleryGraduation v-if="showComponent === 'graduation'" />
@@ -219,6 +226,7 @@ import PhotoGalleryMexico from '@/components/gallery/country/PhotoGalleryMexico.
 // import PhotoGalleryRomania from '@/components/gallery/country/PhotoGalleryRomania.vue'
 // import PhotoGalleryTurkiye from '@/components/gallery/country/PhotoGalleryTurkiye.vue'
 
+import PhotoGalleryAnimal from '@/components/gallery/category/PhotoGalleryAnimal.vue'
 import PhotoGalleryArchitecture from '@/components/gallery/category/PhotoGalleryArchitecture.vue'
 import PhotoGalleryBW from '@/components/gallery/category/PhotoGalleryBW.vue'
 import PhotoGalleryGraduation from '@/components/gallery/category/PhotoGalleryGraduation.vue'
@@ -274,23 +282,12 @@ onMounted(() => {
   --char-typed-color: var(--accent-one) !important;
 }
 
-.btn {
-  width: fit-content;
-  --mdb-btn-bg: var(--mdb-primary) !important;
-  --mdb-btn-color: white !important;
-}
-.btn:hover {
-  background-color: var(--accent-three);
-}
-
-.btn.disabled {
-  background-color: var(--mdb-primary);
-  opacity: 0.3;
-}
-
-@media (min-width: 768px) {
-  /* .filter-menu {
-    margin-bottom: 0 !important;
-  } */
+.btn-primary {
+  --mdb-btn-bg: var(--mdb-primary);
+  --mdb-btn-box-shadow: none;
+  --mdb-btn-hover-bg: var(--accent-three);
+  --mdb-btn-focus-bg: var(--accent-two);
+  --mdb-btn-active-bg: var(--accent-two);
+  --mdb-btn-box-shadow-state: none;
 }
 </style>

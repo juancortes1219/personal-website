@@ -1183,8 +1183,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      nature: 'nature',
-      other: 'other'
+      animal: 'animal'
     },
     link: 'https://live.staticflickr.com/65535/50853367206_e7e8b324e7_k.jpg',
     classes: {
@@ -1200,8 +1199,7 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      nature: 'nature',
-      other: 'other'
+      animal: 'animal'
     },
     link: 'https://live.staticflickr.com/65535/50853369711_0cc1fec9cb_k.jpg',
     classes: {
@@ -1359,7 +1357,7 @@ export const galleryImages2018 = [
     },
     alt: 'Beach sunset in Charleston.',
     caption: '<h4>Beach sunset in Charleston.</h4><p>Charleston, SC, USA (2018)</p>',
-    thumbhash: 'h3iolwhQhX'
+    thumbhash: 'FpYFHYYsd3d5iYdwiHh3iolwhQhX'
   },
   {
     filters: {

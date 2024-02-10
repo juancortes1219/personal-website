@@ -17,6 +17,7 @@ declare module 'vue' {
     PhotoGallery2020: typeof import('./src/components/gallery/year/PhotoGallery2020.vue')['default']
     PhotoGallery2021: typeof import('./src/components/gallery/year/PhotoGallery2021.vue')['default']
     PhotoGalleryAll: typeof import('./src/components/gallery/category/PhotoGalleryAll.vue')['default']
+    PhotoGalleryAnimal: typeof import('./src/components/gallery/category/PhotoGalleryAnimal.vue')['default']
     PhotoGalleryArchitecture: typeof import('./src/components/gallery/category/PhotoGalleryArchitecture.vue')['default']
     PhotoGalleryBW: typeof import('./src/components/gallery/category/PhotoGalleryBW.vue')['default']
     PhotoGalleryCostaRica: typeof import('./src/components/gallery/country/PhotoGalleryCostaRica.vue')['default']

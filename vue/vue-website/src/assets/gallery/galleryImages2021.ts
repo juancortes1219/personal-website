@@ -12,6 +12,1170 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86O2jJ6xJcHOW8YhYy2aHJAEMMh5BK180_njcyYzfaLWMISoL-a5VHJOqZd7y_w-oLOfSKLbM-6vrQA7OtINwuiuXLQReHMoSsC3AmnNNZbcIu1_AQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Catedral Metropolitana de la Asunción de la Santísima Virgen María a los cielos.',
+    caption:
+      '<h4>Catedral Metropolitana de la Asunción de la Santísima Virgen María a los cielos.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'GqcFTZLOmqyPZ3dDd3eKZXeAdQdY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84Z4Y1pSNRvSnUeExRljkEeEH_4AAJWGsPjrOrPgxvIKs0LzrNYApyJuH-_GHH4e_s863Li_8DPtx85-yJwM007YAYfkaVXFiJklEuj4w4_8kyE3Hw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Catedral Metropolitana de la Asunción de la Santísima Virgen María a los cielos.',
+    caption:
+      '<h4>Catedral Metropolitana de la Asunción de la Santísima Virgen María a los cielos.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'mMcJRZADRHKdeGiFiWiJaYiApQpI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87aEzY3AjA-O0S2D35fQl494wCdTY_1axMzluM68eM95-DH9DuWhjDSmnAShoC0EkuOScTp-tWiLBoipygh0DV4b8thDzJ7VAQzeyDmoWnWp_FlfLc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Edificio De Gobierno.',
+    caption: '<h4>Edificio De Gobierno.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'HPgJJYQ/qIi/dWhoh2eXh4dZQJoD'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87sxK4k6f2u-0H_77_zIL9YNb3rK2AaBi9eeZJWmsYUESnEkwCBoVkWDhQqUaYsusJWahh3I2CFkpGCGdkIrdBRWkkO9N8Z9daFqUhu7mw-lq1_Ds0=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Avenida Madero.',
+    caption: '<h4>Avenida Madero.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: '2gcKHQQ8uZ+FxYc4loaJd/hlci8G'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87NRpDjbG9plZwEzc69V6BTMJYBCA1kzC9AHoLmzZFr7F8SQN0_uCVXnVLwpYeZlw6kRFGAhi6SnV7jHGAVMEbED6cR9nAfWwMU9LVVd57ouNI2v7E=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Palacio de Bellas Artes.',
+    caption: '<h4>Palacio de Bellas Artes.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'XdcJTQ53aHd3CIiHl4iWl2eAcgY3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84TDoJ4figWuQCwSvLDW1hIDK3LjphbEpEU5PxZrN0pae8mv3qDLX3eFyvOw4WIZarbv3Y2Zc7_7TBKiq0kWAjJE9ESILGeVHv8E_WFZwacWBad0W4=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Torre Latinoamericana.',
+    caption: '<h4>Torre Latinoamericana.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'nHUJJQrAeZZmaHeXh4eHh1OQRgVZ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86i80_Xnp69jhP0lxzt2t3mA2Ja1xlGWxDFM5LIdyx_3SCpqjDyz2pg34_fCNBFlqhFKbuh83EHkVH8fkg6tOc9nKg7YjWxd29Vlur7HTdzg8Hd9Yg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Palacio de Bellas Artes.',
+    caption: '<h4>Palacio de Bellas Artes.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'XOcJRYxIiIeQeXd3iEh2aGqQpAZZ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85jxcjBKAfDS6uEa3S4R-yT0VuWgc_EuA7G_qcktGAQAnNbVcJUefqxlZNefxqAVEyb2GNxRHIJWSyeCRjkW3K69F_XgD6ctbQb3--P2HdQEJ293aQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hemiciclo a Benito Juárez.',
+    caption: '<h4>Hemiciclo a Benito Juárez.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: '2LYFTZAjylaqe4V2WHZngHeAdQdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87cMXhH5qdshPj3GokwRlBjsYkvJUUJtpcuxWPWeCqbWr4KQoiYZftktladeuXT9N8xEx-yhlBJqHI9kfLRoioHbU8Wb1u61UZq_bqPlbbgJBQCvVo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Bosque de Chapultepec.',
+    caption: '<h4>Bosque de Chapultepec.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'l/gJDYImeoZqlmdvmDeIev6q1QaK'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86Ld385-A8hGiMKDQ3e3yrewdHOTEJcJuP09VzJ-VJkQVKk8gOSIcs9WUF27MdeMzsiOTNOkdznUnFH1tF9tk3krIOXcT0PNIcBnVqZ2nh6_cjIcGk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Lago de Chapultepec.',
+    caption: '<h4>Lago de Chapultepec.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'WscJJYQjh4h/d3d7dzeJh6eQkgo5'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86V7i0ll9V8nbQn0v4WZOFgVNWlEftBd2OecSVmx_1fs3LdCW3_pUhGdI8OnAJmU7bdlGX2-lFbwbVqwJd0Nco27FT6IzQTy4DZrEyUMyIb19THfkc=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Walkway.',
+    caption: '<h4>Walkway.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'W+gJFQQMhZ11x4c4iHqHePUwYQtl'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85af1ocMsI8I2qVX6boJDg8OhGZPirg93lh6K4-9axDsDm6NnpZFxWo5mQBKKjo-W6D00xnIqzn6foYv55KCOlyErF8Xg5MyvzdYNlKxhErY6WZGNc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Monumento a los Niños Héroes.',
+    caption: '<h4>Monumento a los Niños Héroes.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'H/gRDYJZaXifh4hpeIh2d/OFMQqJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87YxXx4q4kT6c5lQJqGAy9lf_xsoGHTD-FXX1CztKdq_T870nSfDVIDNyVhnizZQXcGqBzqA0C9-1DevwGjYnl_J0czojJ9DuFBTVnlTqjs_TuYrwU=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Monumento a los Niños Héroes.',
+    caption: '<h4>Monumento a los Niños Héroes.</h4><p>Mexico City, Mexico (2021)</p>',
+    thumbhash: 'V/gNDYImh3d5hnh/iGd3idCFWwvJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84YpKmLTHKaKQOQ2SrAXqRvBvB_-1kBpwnOIFUnjIkcx6GuLIphzAggKj_hMbzXD2wn8qXLND7vlYHIVUqZYlbqwPhMlYjNvsw6vNDZu3x-zsy83KM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Parroquia de San Sebastián Bernal.',
+    caption: '<h4>Parroquia de San Sebastián Bernal.</h4><p>Bernal, Qro., Mexico (2021)</p>',
+    thumbhash: '3OcJJYR3aoiPdnd3d6h3hidgWQF3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV875lzgm2uAEcn_UMmX2TZGBERLl_4M-fiqMQU6Lnfr78BcWR81pE9I5J6Bo6piJ1I0i1F8U1VKKlEY94woAEgBlKMA7XdG3BLv5ewwl9Y2m107bPlU=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Peña de Bernal.',
+    caption: '<h4>Peña de Bernal.</h4><p>Bernal, Qro., Mexico (2021)</p>',
+    thumbhash: 'YecRRYaXeId/h3eGdoiId2iAhwZo'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86rIC_7Ke9NYzOki85q7PU4HvyOsEkW1hY4qkUGRzVLrVFVGrilPNwISD0-U3q-HDTZTZGUIqdpSWLqGNwD2XIAU1xb_rcMAz9hxG6zIsm9FQ3OYgc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Peña de Bernal.',
+    caption: '<h4>Peña de Bernal.</h4><p>Bernal, Qro., Mexico (2021)</p>',
+    thumbhash: '5NYRRYand4d/h4eEdoiYh1dweQR3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87sJBRwm-4_jCEkBgsi7a1461CagpAxGVOcp-mMMUorhmCFAj1cQrM8caECz3kB_T4GGgYLPFWvCphZjDauoT8GHA4ogOE8H1wJ5kuVlLVJG4YCZ4E=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Peña de Bernal.',
+    caption: '<h4>Peña de Bernal.</h4><p>Bernal, Qro., Mexico (2021)</p>',
+    thumbhash: 'IOcVPQaYh393Z2h4h4h4h1hwiAaG'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86Fiww_49YlDYFfYyW_yRkXaBtCLrTS2A-9iA-5x5shfSZyADsP3cwsjf8v1E4uDQa2yYHmYh44dvzXSfuede70DLvgeD_5Qm09Nk3E70HAnIZ2Vrs=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Peña de Bernal.',
+    caption: '<h4>Peña de Bernal.</h4><p>Bernal, Qro., Mexico (2021)</p>',
+    thumbhash: 'nvcRPYZ5WWmPh4d4d3l3iIVwRwt3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87zH3z36S0YdPdkZC6FCHyBi8f70cgGeRi_QTwXx63ZhUMIXtS23HQ9ydCZ9sbfcprddZj392VBC8gnh3SuqjiEr4fUR8EdlZjq11xiKVZpVeJPcbw=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Bernal, Qro., Mexico (2021)</p>',
+    thumbhash: 'ngcOHQRqiI+GqGdnmId4d9AwEgwU'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85bv58VK0CYUUnv5SRwvJyh7FWBo39LalpdfPOSKDK1Ruq0hgFvFW29pOzP0oI44nBR14cRcWZ8_ve3P9Npor-Wwgq1I-OVpEfvPYeMvJKFU-dyN6o=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laguna de Yuriria.',
+    caption: '<h4>Laguna de Yuriria.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
+    thumbhash: 'GfgJBYBjinhvhohmh2d3dYI/3Ac8'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85XES-lHV0Z9JegRIMr-pqkAljCPPSOLv4SijlHkv-Bmf6zdoCaQJOVK0aiwLK6Ae-aNf0MxQbs5zuGTKYKAwEXVc8vQpuyh-eO4GmWQxosqHtzUGI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laguna de Yuriria.',
+    caption: '<h4>Laguna de Yuriria.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
+    thumbhash: 'IPgJBYB6dYh/iHh2d1h3h5h/dgaY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87H_hxAuP-ilJ482HO5d13RjLqKwNXS5FQW7ZAAuF0Um_2aouHpU9nD4quj9D5jAV_TaEQWvwNPjX8N-kVIkMWR2_duuh1zSHdi563PU8O8jgStQLY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laguna de Yuriria.',
+    caption: '<h4>Laguna de Yuriria.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
+    thumbhash: 'G/gJBYCDh4ePd4iGeHiIh4Ff5weK'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84rkNLIb0_mfrVTSb6rJ2142MauoDvwR3zVDCXTeT3FfvRbqui-tzUoOLuhpUWJrIAjGsp15qQdTmQ6lhtlsP9VZBcQRNgc528tuCgSAgIJWsrk7tE=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Dog in the street.',
+    caption: '<h4>Dog in the street.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
+    thumbhash: 'V+gFRQxAmYiJaUcGe2inpGqgqAd6'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV864d-tAb6LFJOD9PV6As3pJOBV6Jni4eSWk4i_um_74iHcxGlr8KO7MtCoj46tOsAhjLQE91Oyh7h_tRO7VTaPKfoO8xjMwLzgQFC75Oy60P5af4OU=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hospital General de Salvatierra.',
+    caption: '<h4>Hospital General de Salvatierra.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
+    thumbhash: 'XscJTY6DZohsiHi2lgiIZ4eAdQhY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV853nZ8GADd8inR6-7s02GGk4qoe5ppn7_GHkFywgL8vEP7112-RH-qGf8y0wbgwWUBkAMLlrGUJQosciDZuLz0ZVtk-AUVuTYxFQPSKTpELtRs97cQ=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
+    thumbhash: 'GMcFTQ6Vh1h3B3gXeYv3hodwhQho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV850tWRQBbDOeYcBUZsE8oyXYJNVo7goUlPbIgODwYJ3aup04Djw57XREcIdg_F0hADpkFIhggE-fAi1zyPDM1jLDdLS8wIl_V0A4W-9gIRYCwYqqpM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
+    thumbhash: 'mNcFRYyFd3dbeHdjeAiIlpZwdQhX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87wVTKrkrs9ZvsVIZ7xGK1M5iQij9q8vbxTGu8G9o0yrKhwi15LV2PASYIwO5H8k8I2ulkwEtBlTjoByCXEzD3I65FtZGXybBEyHFdGta2HX_WLE_4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'City view.',
+    caption: '<h4>City view.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'GscFVY5OaodfaYipeCiIiImAlwd4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV860_6BNKSNVs-TJl0Z_Hg5_TMQGwCkAvJUv5w-0yPOycUZtTP9s-ACtt-pLCyIbYIXixAyXBU4iyfUzMAz7hrAJUZo9mP_pwSBvxLsdiQ3nTV5DBZs=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'City view.',
+    caption: '<h4>City view.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: '2TgOHYKIl3dvd3d0d2d4eGlfksYE'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85pzUx9Zjh6rH8DF0-T7owVaK3WngJ9NCMbqat4fWAnfc9g3Ij4MWL0pybFXUmB0gavG4XJlXAnQTlivTpii7hdkICNl6npX28VZ-SQPRsY4y1_CkQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'City view.',
+    caption: '<h4>City view.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'GggGRYxseHdAiHiJd5aHh3hwggco'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84YJTYtu8R5e9U2yw7Oz0MRtYlcHMuGZ3LyPxZUpUyabJviGwCCYUMJcxqaL2TVY54JiMJe8Sse_Us8cvQDwcGdFxKz9iwAsaHdks1o2A2aQnEZTfY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'City view.',
+    caption: '<h4>City view.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'WBgGPYqFWXdjd4igh/iIh4ZgYgg3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84vf8LXQux6-ZYS_QXmo94Fyux2fH_ZzI07-pkaZxvPqCW6myz1jnUZnXvyvObp3K-5M-CWnw6cbghy_F5HMyzBhJYTFkN5auS3XwYego_Fl_J3uYM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'City view.',
+    caption: '<h4>City view.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'GOcJTY6Eh3ifiIdUeDeHdYaAVQhX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86pt9xY3h9xXV3-XcP2ccZUz4MU5WEJaX2Ox3PXVpj2dh3qru87y6T9gjjFt-SDMqkeJCjK3Y7g2yS8WBXmPYbm_RqPwpOd-mr7eD9vb3lFZ2jNXo8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Stone alligator.',
+    caption: '<h4>Stone alligator.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: '2ggKHYKfeIeUiHdoh3eHh76Ptui/'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85UYNu02379Qx_SQHHjVJpWSDRMPP3ih9QX5wgk06oXyy1YCpy392wscteRM36gZkxTd53VIwuGUFuHnhGZBnEcf3RUYEWPhee3GbTrHcx7VUPSxpI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Stone alligator.',
+    caption: '<h4>Stone alligator.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'WPgJFYKKh5iAeHeYd2eHiX5/3wqI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85u3q-3zulTVrtfCk83sDv2Frt_hwRL-vU_Z-V-dK3EpWGIzdEiRD5ALlHxTnP5yMY9vLZygrURtZewF3N_GG3KojAZbu7hZv_pjjN2Bb1VeK3zEJM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hill.',
+    caption: '<h4>Hill.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'G+gFdY5UlnhNqGawdziJhnhwhQdH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86B5yeYZ3Lhh481Qf5l0bhLMts5L6606vSHWl7XISyHE0u63np53DR6aAfvldS_7XKa_ntBRHBM8FR0s7O-muB2ru8aU9UbKE6_HGBws6yAULVrz3A=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hill.',
+    caption: '<h4>Hill.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: '18YFdYhvmFiPlIZymWd4l5VwaAqG'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85qRC15d8NjMy_1HkDZNQqSy1FvSM_jpjxsXy--oLK2EvYJ3SYBGLSL2_g-el6hooesOgmOQHag_HvBvSYzA5JqqiS4OU4Ca8PTJaIls4qvUdB2tx8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'El Cerro de La Bufa.',
+    caption: '<h4>El Cerro de La Bufa.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'F6YJVY5BZYevZXaUeIiWh42A2QeJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87KXK_znHL7aZmsAc1UN3pNNjTsq-ZxPXBeVYlnxZpYj5P9EJU2xMwVKwMLSZoX6iUBuLVXRkxh_jMbBHSF5vDsMyZFHVVoH9fFSK8LkTTtJYQhEZc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Presa de la olla.',
+    caption: '<h4>Presa de la olla.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'lccJTY5YiYePiIeHeViHdIhwdAg3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV841SaThhY2n_ZO_kt-5MfEcK8bQtMFqHwwewGN9bL2MFnUWbj82PRV-_P5wI67NBgfACIrABBsqavlmuW5d_b1b6rZoPZILbPKE_-z0WfcmIyvM9ls=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Guanajuato sign.',
+    caption: '<h4>Guanajuato sign.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'G8YJZQ56imx4B4aFeItoeKZgZAlX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86RAzRmjk5MmtcNU_Fy3f2-gQCnMmjEeMHeUnbdbeuBNl4jZ5FYjBQ06v-ImIRxBdL2_CtYEr1rEuVSaszJGJCRTwAJaB5VKjraOPCEp80v_gQxZzk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Basílica Colegiata de Nuestra Señora de Guanajuato.',
+    caption:
+      '<h4>Basílica Colegiata de Nuestra Señora de Guanajuato.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'VtcFbY6Se3eaaHhwdcemljZwdgNn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Woku7s10DGo1DB8j1XgiA8LLseRw5ZJnZtUFmUiz1wtkmX3qHOsmJ2hR4vO5yy7CvfkSmdTXask5SWNv0s8_kJy09-yo6XnB4Tg_o5JiX4umHnXY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Teatro Juárez.',
+    caption: '<h4>Teatro Juárez.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: '1sYJTY63h4dfZ3doeHiHd3VwVgdW'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84gkroQ1-1M36u_PueDRq-tWotuqReSk01sytgxOXqes8z0CHd4HDoDrOXv_9M_Q4KFqiSGuEjDO1xupEHt708ykMZPzWeRE3Q6RefPGuU-O4qCubU=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'El Pípila.',
+    caption: '<h4>El Pípila.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'lpUJTQqJeJ93KIeXh4hoh3mAmwfI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV869gOH7BE8wXepzR1jby2x42TJex2ySLbzN82Zl7auYd2IFC9HWwGNq4FfmIcCRcjzjaVch3fvFdRbj7OE9aSTXKUGztCblIrqJBK6jzAJejqMi5eQ=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'lecFPQyQq86Wt4YWmnXHN8eQgApJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87ndiPXS77ewNDI64nyrQwpy6cKmEXie8KENE2ou-EH8QpQsVqLF4eQ7FdwQxj_TRRfvm-iARiB8caX_IHfcGHzhSZSV7n0YrfywrFt0NPVHrg4Ym0=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: '3vcNLQZ3iG+Jd5ZXmYdnd9iHsF8n'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85HRcR6ohUa9xpYIvYvg2gwLz73mMB82qICBdjGHNYG0sW2JOWgT4yfLH9BunThHs4pIb3KqNoy8EFWaag0wfGkoGjcoJDSsPCZzHhNiYMg4K6-aTg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'mQgKRYh1SJVviGhmiVh6h5ViYAkV'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86-60Mr_1Uo439oyJY40qg64BIelLTANIYMdSkSJfy7dptj5WTib8lGUuUiwoBHHi_HfIu3WUHA6wC29OQXxlQPGC5To1c9UN6Ivdzw2TxaviDZqys=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'mRgGLQYHiIZpxbd2aYKpp/RjQx8X'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86qEaxR0pTkl88NPPNf6bse8CuWixd-4XHqj0ZmPVuW3QPT6j2cd_9FNszxMPhBqTzG3cx3CStRa9lq0X6eMc9ebLlOm3SV59C4y8pXlFivzuhEiVU=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'nRgOHQR/d614R4d4h4l4d/R0MA8n'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84JpQ0DrKBZwgw7Dwfw7c5q2oNFA3lUu_TITm85BzcKHIE15fkbN9BqrV4LEXq83j5tq3AtbMmjjKhyDkofNkv-8Ezr009LC_ifvAA1LLEqvECOpJc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Universidad de Guanajuato.',
+    caption: '<h4>Universidad de Guanajuato.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: '3ecFLYgvZ0dEeHY0qUiGh0VQRAVV'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV870PYdeTqub2ECuqpg2P6xNMd1pf9rXPTRCUiE5oH3dERAClU7NNCYly7AS41GXwGAvFyNhSWAWwj4J22pBz1EbKRrFLJycAQ7k-A4-aW2rRE5rLRw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Basílica Colegiata de Nuestra Señora de Guanajuato.',
+    caption:
+      '<h4>Basílica Colegiata de Nuestra Señora de Guanajuato.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'GikGTYr62Nl+iHh2hFiGmKFTECkE'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85nwKAVuU3r-uS4c7WNI4FloTwhS0RN1ROiAh1vF9SquEoxDci-hf56gbeauyKi4i8a15Su-sapAYvJ5JyKFTPJ2_F5W36c8QShzoZ5XdrrvMsLXMs=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Callejón del Beso.',
+    caption: '<h4>Callejón del Beso.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'm7oKNQjjWWmX9VhXl4l3h8l/5d8I'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84nVmct_SAzvw-Q2GHgscs1EYqrWXXmc6fmAmsdVqI2zsnJVjMHZP-3MIfOx3tF7leEIO5vX0iJlefDd4sbzaiw6Ttbo7GbdA0kv1rem7guvih7_hw=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Callejón del Beso.',
+    caption: '<h4>Callejón del Beso.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'G9sKJQiclp+IaWdoh5qHeNBaNB9m'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87z31uenx9E2OCY8mWUFVQ5DvUUruYrVXsKkjfIsEq-n0Zu0fhAZl8IFHM8xOx2iKsN3XuRhh0QS1k5oHX-XiDW19SayssQvoIcsFjx6UsOkWoxZAI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'FNcFNYhNhpd/eHecl2d0e4FAMgkl'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87K4xeYLr2eNf7N2vjTZe84-w01Scb28Kp90fDrE96gzRjYZrJ8qzwsXtABlsIFWNDS0m1cZiXG48zK6KftPTu6Kcn5aupKFAJm2ucwQQrUI6umceE=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'FwgGLYYupXifq2V+llqYhMeAgw4n'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87XKPIpiV4GPgIWDvWO_JakkdoJRwiYKQ5jeoQx8tQkybwSmbGP0296wC720AVq5968j6w-ahoC6GSKJaS0_JtTl2Q2QkzXvY1aZntQIXhSNBOZUc0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Colorful houses.',
+    caption: '<h4>Colorful houses.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'G8cFXY6Jl4ifh3eFd1eXcXiAhQdY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86eoWxK-ONuU7zxueHxnAU3p-hUQ2lYEwU5_ZtEPZCPKl4tDP4dTybOlCAsgu4yl2pFcuSeaa9WBtDREJbZkb1YKmD5oQwdhDgwU5ilDdBtxIaB_FQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Alhóndiga de Granaditas.',
+    caption: '<h4>Alhóndiga de Granaditas.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: '3igKLYaAh3iad3iGeHd4eMWDYDwI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84X6PPTMlBRUQ5OQiDROh5KMLSJY1j1xbYnsBjg0wnQ-SOvF4tqopCry23ksweaQ0vJDXst7rGRRV-EtXBF-zHM8CUFv8bHIqB-iyqHw622kNYQRpk=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Museum mural.',
+    caption: '<h4>Museum mural.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: '1QcKLQpGZ3CLiZinZ4lnl5l/l/qI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86ipRoT9QKMQLcUiGfs9w7OBoP7FUZVa8jdASnEK0ag1Z_reHNccTO7hP4eVOVfCgME_XXIGX61Fe4kw2shSR4P8egFtglk91SDSUjUR1WPoFWNON4=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Museum mural.',
+    caption: '<h4>Museum mural.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'XzkKLQbDg4B1WYiId4uHp2d/hfZX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85XClwrUbTJaKAD7l9IysMh8tqg-yirATvj4O-mKL3K9jCrx8judE2pAW8ST0V0GVrUO58DD_RZvwt6q18AS_sQrnPVzgZ12sbJROOGlJo1J05p5e4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Museum mural.',
+    caption: '<h4>Museum mural.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: '4RgGHYJthICXh4saWlmZaLaPV/93'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84JsxHJJqkSzymqL3wqLBsWfy3n0Rw7SPekp2ht_z7akqRj3JSKoE2fuwsRIphsnELkVJT40mji25XiqfgzMJUjunxx_o4q7BzT-XCLRPETO8B3kM8=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'mgcKTQ5wdZt4N3qYeJdohteAkg43'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV876HQjkMJzDd4S-Zy1mgV26Q_bSgn-8_aTO6vPh_6V7aBCbdHJ_XnMQiFKiyWNwDZe17aTXpM0fN9CWYHc3mKUXYU54M_Qu5p2sFZTHu-nHKt9OavI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Colorful houses.',
+    caption: '<h4>Colorful houses.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'XtcBTYqXY7K7cqq+/plPYXiQkggJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85CK9V5mek6YIrv_Y7oB1cW-_ZdlUHs8R8rg9DMB1arvlEd2SfMk_BpZYEmGnOJn-iKwt1k6KIFUHOVD60DXHIodEUAf44HBVjYmkoDSVjjXE1TFUI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Street.',
+    caption: '<h4>Street.</h4><p>Guanajuato, Gto., Mexico (2021)</p>',
+    thumbhash: 'mBgKLYZRmYd/aZmkiYeImNBnEG8G'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV8749coEUYddpbiWCw3beQv_iBYqXsJIlJoRMKITrAViydZi7InBTwbbUj4fNTwZFNTEc22zQe7xAhY2i7goBmaSx7PM3qACGQtgj8JgnWRQQKDnpI0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Front lawn.',
+    caption: '<h4>Front lawn.</h4><p>Santo Tomás Huatzindeo, Gto., Mexico (2021)</p>',
+    thumbhash: '1QgGLYSiZ1QBl2VUiEmIeUmQ2xC+'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86xSk_FIEwuvn3iJeKSp9J0jk_Obnchv0r9nfgV8JZigDnZ8I38HKS7QZo1mKy3DpBKLKph8Cldwf8729M3q0BtN_SWKJjY6j9os8foo1kp6BGsTV4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Flowers.',
+    caption: '<h4>Flowers.</h4><p>Santo Tomás Huatzindeo, Gto., Mexico (2021)</p>',
+    thumbhash: 'HCgGZZp0aJhfmHdYh2eJeHVgZQdW'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87ipjRotEPIoriVc1rkjlupKwI-hYM_ffs0j47rUQPq2TtUiZTogf5Kwh_itL7y-46s_O9xwh2RSLBYu86g7cCcqazby-FW9itg2V9NssYtHy9GcZg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Back alley.',
+    caption: '<h4>Back alley.</h4><p>Santo Tomás Huatzindeo, Gto., Mexico (2021)</p>',
+    thumbhash: '0dcFLYYChmk3uGmbZzWXar+TpQtZ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85vd1yjICQxA9xsVSVdVTTiNoZMRN3b_0TR9UWwkzdel8HXJnr1q-UR8j7FAfgr7SG9j9-B3TqB06gLDxglTzXBzBlRwI2iWcwXj0MfYiHZ69RDwvk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Patio.',
+    caption: '<h4>Patio.</h4><p>Santo Tomás Huatzindeo, Gto., Mexico (2021)</p>',
+    thumbhash: '2TgOHYQGblqNhnd5iGeHdmeHUDYJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85nDJ7qyIzh4KPKIXjyAqjrLNkTNuYIA1a8ijKroY18btzYHvT7VmOfSpeYV24Q-QTgyCU3Y9Uj0lhQxPFZvN8gAoM5qBVso-AQwXLbQ4kIb82R3_g=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Sculptures.',
+    caption: '<h4>Sculptures.</h4><p>Santo Tomás Huatzindeo, Gto., Mexico (2021)</p>',
+    thumbhash: 'WzkKHYSAp3q6ZWmViUenhvN+WK+X'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      architecture: 'architecture',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84rSAC4D4tDPZ8XrJG2beSAB51pCcNUzGOoHZN0VbCatc5AIPpKHc96a5x-kSn8b-yN_3F9bYNtd2IFutGzAr5dUwsuc5XGWL1PLJY1lcCB7nMjxaY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Iglesia De La Purisima Concepcion Huatzindeo.',
+    caption:
+      '<h4>Iglesia De La Purisima Concepcion Huatzindeo.</h4><p>Santo Tomás Huatzindeo, Gto., Mexico (2021)</p>',
+    thumbhash: '23UFXZRWWGmth4hgeHiGnndweAeH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84o_ibSv80Q-ayjSXI-eDp9p_0tGRHumOPFVRuY2rjemFUkfEJyYEzBljNz-U2WZ6zxA2BgDo-YpN70b4_AWSlfIAaQ0V1hWjIFQrvdt02FyvG1SVs=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ponies.',
+    caption: '<h4>Ponies.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
+    thumbhash: 'mAkGHYLMdLnad2dvlSmVdls/2RAY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2021',
+      country: 'mexico',
       nature: 'nature'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84TUWLCSEP4FOklkfAK5gYfgbHFeHbJ0-wLqALA-R4bc-zPD_2ZtvkEdAx-EVDFYon70OhzvZPIYUIt3VdTHYufUjQol7AJW50Gwk2bKTiNqwXbjpk=w2400',
@@ -21,7 +1185,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Río Lerma.',
-    caption: '<h4>Río Lerma.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Río Lerma.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: '2fgJFYBfdYhGdneZZ5dna2qvy6/u'
   },
   {
@@ -38,7 +1202,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Río Lerma.',
-    caption: '<h4>Río Lerma.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Río Lerma.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: '1PgJFYJfaZd2eoeIiMloeMlfeM+j'
   },
   {
@@ -55,7 +1219,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Graves/tombs.',
-    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'GtgJJYqQxHdyiImZqYaIhrZwcwpH'
   },
   {
@@ -72,7 +1236,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Cemetery path.',
-    caption: '<h4>Cemetery path.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Cemetery path.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'lugJLQjVeNB6iHiGdmp2eARBVxBT'
   },
   {
@@ -89,7 +1253,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Graves/tombs.',
-    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: '0/gNDYKZiIlweHh4h4iIiNrfKQp4'
   },
   {
@@ -106,7 +1270,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Graves/tombs.',
-    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'lqcFPYwrm2haZ3dtaXWJoM2ysAs6'
   },
   {
@@ -123,7 +1287,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Graves/tombs.',
-    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Graves/tombs.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'lLcFNY4bZob5hXktq3daN5BQQwlX'
   },
   {
@@ -140,7 +1304,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Main cemetery path.',
-    caption: '<h4>Main cemetery path.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Main cemetery path.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: '0QgKFQKEh5B4qIR4h5hoh6CfGWhv'
   },
   {
@@ -158,7 +1322,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Panteón Municipal.',
-    caption: '<h4>Panteón Municipal.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Panteón Municipal.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'W+gNFYSgaXlIeoieh0eKecVwSAl1'
   },
   {
@@ -176,7 +1340,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Bear decoration.',
-    caption: '<h4>Bear decoration.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Bear decoration.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'VwgGFQIgZsZmaYUWqGqIaEWgavea'
   },
   {
@@ -193,7 +1357,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Street.',
-    caption: '<h4>Street.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Street.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'n9cJPQ4nZqqJuKgIdoGYp3eAdAhI'
   },
   {
@@ -210,7 +1374,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Puente de Batanes.',
-    caption: '<h4>Puente de Batanes.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Puente de Batanes.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: '19cJNQo8l3+Ud5S4uHU4pqd0UAkn'
   },
   {
@@ -227,7 +1391,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Río Lerma.',
-    caption: '<h4>Río Lerma.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Río Lerma.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'lvgNFYQDmXmHZ4d8hpd3htChMS8Z'
   },
   {
@@ -244,7 +1408,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Alley.',
-    caption: '<h4>Alley.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Alley.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'ligKDQIoNXGJCJineHqnV/GzFl9q'
   },
   {
@@ -262,7 +1426,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Flowers.',
-    caption: '<h4>Flowers.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Flowers.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'X3gOJYqPiYiZaIdndnd4d4BmBpdV'
   },
   {
@@ -280,7 +1444,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Templo de San Francisco.',
-    caption: '<h4>Templo de San Francisco.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Templo de San Francisco.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'IAcGJQjferxm11dXhYmIVwtDcmAE'
   },
   {
@@ -298,7 +1462,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Templo de San Francisco.',
-    caption: '<h4>Templo de San Francisco.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Templo de San Francisco.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: '3qUJHYafmXd5mIeFd3h3eTDQBQRd'
   },
   {
@@ -315,7 +1479,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Distant hill.',
-    caption: '<h4>Distant hill.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Distant hill.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'HtcBTY5Vmpd0WXZzpQh5bIdweQiH'
   },
   {
@@ -332,7 +1496,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Field.',
-    caption: '<h4>Field.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Field.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: '3PcFXZB7eHiveXiVhwh1dYeAdwhn'
   },
   {
@@ -350,7 +1514,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Salvatierra sign.',
-    caption: '<h4>Salvatierra sign.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Salvatierra sign.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'UBgGHYKmiXiDmolgaHhYi/R+OM9m'
   },
   {
@@ -368,7 +1532,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Deer light fixture.',
-    caption: '<h4>Deer light fixture.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Deer light fixture.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'xwcGDQAKUpZZN7eoRndWSPVsas/H'
   },
   {
@@ -385,7 +1549,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Benches.',
-    caption: '<h4>Benches.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Benches.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'B/gFHQSceDCWF4bHiWiGeICqBrd5'
   },
   {
@@ -403,7 +1567,7 @@ export const galleryImages2021 = [
       iconClass: landscapeIconClass
     },
     alt: 'Nativity scene.',
-    caption: '<h4>Nativity scene.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Nativity scene.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'iggGFYI1ZXZgs5iEilhqdAV4Q/A3'
   },
   {
@@ -422,7 +1586,7 @@ export const galleryImages2021 = [
     },
     alt: 'Parroquia Nuestra Señora de Guadalupe.',
     caption:
-      '<h4>Parroquia Nuestra Señora de Guadalupe.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+      '<h4>Parroquia Nuestra Señora de Guadalupe.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'jBgKFYKnJ2hwh4aHh1uHh6eAdgtn'
   },
   {
@@ -439,7 +1603,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Park.',
-    caption: '<h4>Park.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Park.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'B/gFBQJHqXB4h4d3eHhoiPdKV/qH'
   },
   {
@@ -457,7 +1621,7 @@ export const galleryImages2021 = [
       iconClass: portraitIconClass
     },
     alt: 'Christmas tree.',
-    caption: '<h4>Christmas tree.</h4><p>Salvatierra, Guanajuato, Mexico (2021)</p>',
+    caption: '<h4>Christmas tree.</h4><p>Salvatierra, Gto., Mexico (2021)</p>',
     thumbhash: 'iAcKFQAIl4J5ioeId4d4h/eMWEz6'
   },
   {
@@ -892,8 +2056,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      nature: 'nature',
-      other: 'other'
+      animal: 'animal'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84L19UZFZOZX3tQftu-TkwgGeWcfhDOHyFCrjYSknH-7sPQ-GqUOIZuPrd86ii4_QJsowkZTh-dxrriHJOFgrAQx0YN3D6QBRGreXfiqOdzAvHKwBg=w2400',
     classes: {

@@ -548,8 +548,7 @@ export const galleryImages2019 = [
     filters: {
       all: 'all',
       year: '2019',
-      nature: 'nature',
-      other: 'other'
+      animal: 'animal'
     },
     link: 'https://live.staticflickr.com/65535/50910090132_7a87645eb6_k.jpg',
     classes: {
@@ -695,8 +694,7 @@ export const galleryImages2019 = [
     filters: {
       all: 'all',
       year: '2019',
-      nature: 'nature',
-      other: 'other'
+      animal: 'animal'
     },
     link: 'https://live.staticflickr.com/65535/50909997011_e556b8f4f4_k.jpg',
     classes: {
@@ -1552,8 +1550,7 @@ export const galleryImages2019 = [
     filters: {
       all: 'all',
       year: '2019',
-      nature: 'nature',
-      other: 'other'
+      animal: 'animal'
     },
     link: 'https://live.staticflickr.com/65535/50900071256_ae3496fa3e_k.jpg',
     classes: {
