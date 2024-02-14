@@ -53,7 +53,6 @@
               tag="button"
               @click="filterImages('2022')"
               :style="getActiveStyle('2022')"
-              disabled
               >2022</MDBDropdownItem
             >
             <MDBDropdownItem
@@ -91,7 +90,6 @@
               tag="button"
               @click="filterImages('moldova')"
               :style="getActiveStyle('moldova')"
-              disabled
               >Moldova</MDBDropdownItem
             >
             <MDBDropdownItem
@@ -187,12 +185,12 @@
   <PhotoGallery2019 v-if="showComponent === '2019'" />
   <PhotoGallery2020 v-if="showComponent === '2020'" />
   <PhotoGallery2021 v-if="showComponent === '2021'" />
-  <!-- <PhotoGallery2022 v-if="showComponent === '2022'"/> -->
+  <PhotoGallery2022 v-if="showComponent === '2022'" />
   <!-- <PhotoGallery2023 v-if="showComponent === '2023'"/> -->
 
   <PhotoGalleryCostaRica v-if="showComponent === 'costa-rica'" />
   <PhotoGalleryMexico v-if="showComponent === 'mexico'" />
-  <!-- <PhotoGalleryMoldova v-if="showComponent === 'moldova'" /> -->
+  <PhotoGalleryMoldova v-if="showComponent === 'moldova'" />
   <!-- <PhotoGalleryRomania v-if="showComponent === 'romania'" /> -->
   <!-- <PhotoGalleryTurkiye v-if="showComponent === 'türkiye'" /> -->
 
@@ -217,12 +215,12 @@ import PhotoGallery2018 from '@/components/gallery/year/PhotoGallery2018.vue'
 import PhotoGallery2019 from '@/components/gallery/year/PhotoGallery2019.vue'
 import PhotoGallery2020 from '@/components/gallery/year/PhotoGallery2020.vue'
 import PhotoGallery2021 from '@/components/gallery/year/PhotoGallery2021.vue'
-// import PhotoGallery2022 from '@/components/gallery/year/PhotoGallery2022.vue'
+import PhotoGallery2022 from '@/components/gallery/year/PhotoGallery2022.vue'
 // import PhotoGallery2023 from '@/components/gallery/year/PhotoGallery2023.vue'
 
 import PhotoGalleryCostaRica from '@/components/gallery/country/PhotoGalleryCostaRica.vue'
 import PhotoGalleryMexico from '@/components/gallery/country/PhotoGalleryMexico.vue'
-// import PhotoGalleryMoldova from '@/components/gallery/country/PhotoGalleryMoldova.vue'
+import PhotoGalleryMoldova from '@/components/gallery/country/PhotoGalleryMoldova.vue'
 // import PhotoGalleryRomania from '@/components/gallery/country/PhotoGalleryRomania.vue'
 // import PhotoGalleryTurkiye from '@/components/gallery/country/PhotoGalleryTurkiye.vue'
 

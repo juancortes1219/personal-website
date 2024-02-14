@@ -1918,7 +1918,6 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      portrait: 'portrait',
       other: 'other'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85y4MKJKgnNeJwd8x5XmXnEeBdRJrcKJCdCmcCg8xlI75th2jY627otZOAojyInfB4ZlfifuaNF8HQTwZI8HGtFqcHb8N_b_b61ebiutPIA9QMo2HQ=w2400',
@@ -1927,7 +1926,7 @@ export const galleryImages2021 = [
       imageClass: landscapeImageClass,
       iconClass: landscapeIconClass
     },
-    alt: 'Omar.',
+    alt: 'Guy.',
     caption: '<h4>Omar.</h4><p>Oaxaca, Mexico (2021)</p>',
     thumbhash: '26YFlZKHd3iAh4iHd1eHe3hwige4'
   },
@@ -1936,7 +1935,6 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      portrait: 'portrait',
       other: 'other'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV840BzszK9gM65quvmDrknK59_le2dFtbqgKQhiYlCKFcQGF4EqMRWnGkQHPywbl3xADLXCUawE2PFCcorlL1STrcMvhQaw4he76Y9v8XiL7-uEwvy0=w2400',
@@ -1945,7 +1943,7 @@ export const galleryImages2021 = [
       imageClass: landscapeImageClass,
       iconClass: landscapeIconClass
     },
-    alt: 'Omar.',
+    alt: 'Guy.',
     caption: '<h4>Omar.</h4><p>Oaxaca, Mexico (2021)</p>',
     thumbhash: '26YFjZKHd3eAh4iGd1eHe3hwige4'
   },

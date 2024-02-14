@@ -1249,7 +1249,7 @@ export const galleryImages2018 = [
       all: 'all',
       year: '2018',
       nature: 'nature',
-      portrait: 'portrait'
+      other: 'other'
     },
     link: 'https://live.staticflickr.com/65535/50852653248_2e1ee41b0f_k.jpg',
     classes: {
@@ -1267,7 +1267,7 @@ export const galleryImages2018 = [
       all: 'all',
       year: '2018',
       nature: 'nature',
-      portrait: 'portrait'
+      other: 'other'
     },
     link: 'https://live.staticflickr.com/65535/50852654673_d41bd98c18_k.jpg',
     classes: {
