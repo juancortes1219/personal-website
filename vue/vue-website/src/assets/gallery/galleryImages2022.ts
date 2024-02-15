@@ -403,7 +403,7 @@ export const galleryImages2022 = [
       iconClass: landscapeIconClass
     },
     alt: 'Goats.',
-    caption: '<h4>Goats in Old Orhei.</h4><p>Butuceni, Orhei, Moldova (2022)</p>',
+    caption: '<h4>Goats.</h4><p>Butuceni, Orhei, Moldova (2022)</p>',
     thumbhash: 'V/gJRYaLiIeGiIefd6iJinhweQeY'
   },
   {
@@ -817,9 +817,9 @@ export const galleryImages2022 = [
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84o7ZfsIdj_Krrpc_TV3MKcZbSBkmBxhmGR79RUlcqV8viXWqO9M_8uJ_mDx4kngV_BHctZHNIeLZ_yWUOLow2alrBlQ4h4gJpR6k1k7gCu9H-QL1U=w2400',
     classes: {
-      linkClass: landscapeLinkClass,
-      imageClass: landscapeImageClass,
-      iconClass: landscapeIconClass
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
     },
     alt: 'Mănăstirea Rupestră.',
     caption: '<h4>Mănăstirea Rupestră.</h4><p>Butuceni, Orhei, Moldova (2022)</p>',
@@ -959,7 +959,7 @@ export const galleryImages2022 = [
       iconClass: landscapeIconClass
     },
     alt: 'Orange stand.',
-    caption: '<h4>orange stand.</h4><p>Butuceni, Orhei, Moldova (2022)</p>',
+    caption: '<h4>Orange stand.</h4><p>Butuceni, Orhei, Moldova (2022)</p>',
     thumbhash: 'm/gFLYSMlnhDl3efiDeHfoeAdwhX'
   },
   {
