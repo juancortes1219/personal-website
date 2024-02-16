@@ -1748,7 +1748,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV879OLd1KyjgQ4NDeKutpwhjgcfEKwTT4HkM8qX2uOj0c-4TZ6IeQlvcIRX0LSVG4PkcHRK8s_XsRuVvpPBcwXE_Bf-dJwPVmMNHb2EYqsCeugoiGZE=w2400',
     classes: {
@@ -1765,7 +1765,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85CmTX13xoOr65MCBICvQ34FmOJDZLtWn_yChHwjFeGDP092IQB4TwXg1htm__swNWRWbnJP80pAHVgnl7DMYjS4Nlaf72y0bXSoSyuqsCfrHVfnwo=w2400',
     classes: {
@@ -1782,7 +1782,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87F_uKhlD1nzVatCeXgrPg_HQZMDn3RoJI0Jv22pNfrn2fVXVB2lOOabLNeKR_fg3HijWz-s-rBUXzJLM3BO2safiGh1TS4UCVirZcZvoWjD5Be_Yc=w2400',
     classes: {
@@ -1799,7 +1799,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87EHZf2xHUHXPkJ2BIf1_ciutx0L9TcXhsH3XrxoHEgnZ9FWYZb-7Eq8Oca923rLETyVAkeud1S_Bo_wV0igleVJiquQ-qLhQiYRK53h84b9Sx8zDM=w2400',
     classes: {
@@ -1816,7 +1816,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV876d2fb6_bPi_Z_NgIk3x7toHewhOdT9Pabhyt8JPNFdRaSV3BPFm3EsxK7j1BFO92L1w-yBAWOY18y7QnO4WFWftHThiooPRjMS3AezorXhcXuD5s=w2400',
     classes: {
@@ -1833,7 +1833,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84qvWBkIyujaKdWD9pC5wn8oFVQt9Rmqhs4gITBfajdSM-Ck4XVxjGqwCOg2noiItVvPtP5oCvPi8ls0s212x_43RckO2qLOuk8Li2OJN28t-Y7-jY=w2400',
     classes: {
@@ -1850,7 +1850,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85qZvh_H-aYzCCoGdGxqfMidIB6bVjLwnEd3rzf-sbVWS1KPZEue7TGuicF6xRn5r0DFmJcsStsnj6bW4RfsFvVphYyG7qW5jhewoQffk2uU6boMyc=w2400',
     classes: {
@@ -1867,7 +1867,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87Fi-71YvUNv9DhZnCzhkV3Qzy33LG5oxrqUiNJgCwulfj8yrxBTY41znfv2OqviyRLHGdj-R73bLBGOYuqIDg9IfYxFXDSkn82XikuEHKNqpDoXIw=w2400',
     classes: {
@@ -1884,7 +1884,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84L-UHFWaBMp0hGdFHFzOYhGGlewLpTJ6IAlJ3FD2T9MtalDKEGPvhZ-5djosImADoj4LVab9E_kiqzsr384E_YUMSUUpF7eGhvl8Wq8vVkS_8xI_Q=w2400',
     classes: {
@@ -1901,7 +1901,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV875DyxYQHXgRgyKkac_6ETQwTCSjqym9zSZExFLk4qedttgiaLraMxct8H2KQfW1kXNuyKZ1JvgWtOGtz_k31JvbcSU-lP8J9MCGiKq40LP3lXme2s=w2400',
     classes: {
@@ -1918,7 +1918,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85y4MKJKgnNeJwd8x5XmXnEeBdRJrcKJCdCmcCg8xlI75th2jY627otZOAojyInfB4ZlfifuaNF8HQTwZI8HGtFqcHb8N_b_b61ebiutPIA9QMo2HQ=w2400',
     classes: {
@@ -1935,7 +1935,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV840BzszK9gM65quvmDrknK59_le2dFtbqgKQhiYlCKFcQGF4EqMRWnGkQHPywbl3xADLXCUawE2PFCcorlL1STrcMvhQaw4he76Y9v8XiL7-uEwvy0=w2400',
     classes: {
@@ -1952,7 +1952,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84PCHZg2EBMGJJxB6CebxanbCKkaaQdpg2shagC8ihXcsp4WPX79Ckjqm4kOfz4v59fbQiQypVzwu4-q_gYq7oZLeV3ZNNFr1wUCYh7vp21vlN7iI0=w2400',
     classes: {
@@ -1969,7 +1969,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84wx_X-b9mHaqKNmvnVVBUBb-3_euzoSHyL38onT00fN6qhzU87zvMKU1zrMmce4Wghz8rL1WkCNCUcFlbk02JsvZgvKnUmOn5CwPWQ2q8_wTstX8Q=w2400',
     classes: {
@@ -1986,7 +1986,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      nature: 'nature'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV86jJ89AsWh0_-_ForXY5g8ZiER2-8Qv34721PJIMx0S4_I0OVwcDaQUJi1uoXTk2YDcAMNkPK9r4vNzraAuKG-ZCqDRuURMSBaCHYVGGbXE1DfH9B0=w2400',
     classes: {
@@ -2003,7 +2003,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87zauxEzH8YB_ZbZxNDpDHxs1RYOINY2xZzV895BBpYMLjJFpw_DClfVOmKBKZXC_E5BsV8vD6r8PeG2s95tx9dbWeNWh-Nb_Ss_BIRmYp9Z3YLHUM=w2400',
     classes: {
@@ -2037,7 +2037,7 @@ export const galleryImages2021 = [
       all: 'all',
       year: '2021',
       country: 'mexico',
-      other: 'other'
+      ancient: 'ancient'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84KOKA9Vq7OsU8-38p5inAIdg-n65iZ_0_mPj73f6OA4ioTGXnssgTwe0c79-5hOLw9SSqEEVdUwpte_2KZbJlh20-X24jZckEljGrCkh3kdVESwJA=w2400',
     classes: {

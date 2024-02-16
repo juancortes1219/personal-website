@@ -59,7 +59,6 @@
               tag="button"
               @click="filterImages('2023')"
               :style="getActiveStyle('2023')"
-              disabled
               >2023</MDBDropdownItem
             >
           </MDBDropdownMenu>
@@ -96,14 +95,12 @@
               tag="button"
               @click="filterImages('romania')"
               :style="getActiveStyle('romania')"
-              disabled
               >Romania</MDBDropdownItem
             >
             <MDBDropdownItem
               tag="button"
               @click="filterImages('türkiye')"
               :style="getActiveStyle('türkiye')"
-              disabled
               >Türkiye</MDBDropdownItem
             >
           </MDBDropdownMenu>
@@ -118,6 +115,12 @@
             Category
           </MDBDropdownToggle>
           <MDBDropdownMenu aria-labelledby="dropdownMenuButton">
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('ancient')"
+              :style="getActiveStyle('ancient')"
+              >Ancient Ruins</MDBDropdownItem
+            >
             <MDBDropdownItem
               tag="button"
               @click="filterImages('animal')"
@@ -180,20 +183,21 @@
       </div>
     </div>
   </div>
-  <PhotoGalleryAll v-if="showComponent === 'all'" />
+  <!-- <PhotoGalleryAll v-if="showComponent === 'all'" /> -->
   <PhotoGallery2018 v-if="showComponent === '2018'" />
   <PhotoGallery2019 v-if="showComponent === '2019'" />
   <PhotoGallery2020 v-if="showComponent === '2020'" />
   <PhotoGallery2021 v-if="showComponent === '2021'" />
   <PhotoGallery2022 v-if="showComponent === '2022'" />
-  <!-- <PhotoGallery2023 v-if="showComponent === '2023'"/> -->
+  <PhotoGallery2023 v-if="showComponent === '2023'" />
 
   <PhotoGalleryCostaRica v-if="showComponent === 'costa-rica'" />
   <PhotoGalleryMexico v-if="showComponent === 'mexico'" />
   <PhotoGalleryMoldova v-if="showComponent === 'moldova'" />
-  <!-- <PhotoGalleryRomania v-if="showComponent === 'romania'" /> -->
-  <!-- <PhotoGalleryTurkiye v-if="showComponent === 'türkiye'" /> -->
+  <PhotoGalleryRomania v-if="showComponent === 'romania'" />
+  <PhotoGalleryTurkiye v-if="showComponent === 'türkiye'" />
 
+  <PhotoGalleryAncient v-if="showComponent === 'ancient'" />
   <PhotoGalleryAnimal v-if="showComponent === 'animal'" />
   <PhotoGalleryArchitecture v-if="showComponent === 'architecture'" />
   <PhotoGalleryBW v-if="showComponent === 'bw'" />
@@ -210,20 +214,21 @@
 import { onMounted, ref } from 'vue'
 import { MDBDropdown, MDBDropdownToggle, MDBDropdownMenu, MDBDropdownItem } from 'mdb-vue-ui-kit'
 
-import PhotoGalleryAll from '@/components/gallery/category/PhotoGalleryAll.vue'
+// import PhotoGalleryAll from '@/components/gallery/category/PhotoGalleryAll.vue'
 import PhotoGallery2018 from '@/components/gallery/year/PhotoGallery2018.vue'
 import PhotoGallery2019 from '@/components/gallery/year/PhotoGallery2019.vue'
 import PhotoGallery2020 from '@/components/gallery/year/PhotoGallery2020.vue'
 import PhotoGallery2021 from '@/components/gallery/year/PhotoGallery2021.vue'
 import PhotoGallery2022 from '@/components/gallery/year/PhotoGallery2022.vue'
-// import PhotoGallery2023 from '@/components/gallery/year/PhotoGallery2023.vue'
+import PhotoGallery2023 from '@/components/gallery/year/PhotoGallery2023.vue'
 
 import PhotoGalleryCostaRica from '@/components/gallery/country/PhotoGalleryCostaRica.vue'
 import PhotoGalleryMexico from '@/components/gallery/country/PhotoGalleryMexico.vue'
 import PhotoGalleryMoldova from '@/components/gallery/country/PhotoGalleryMoldova.vue'
-// import PhotoGalleryRomania from '@/components/gallery/country/PhotoGalleryRomania.vue'
-// import PhotoGalleryTurkiye from '@/components/gallery/country/PhotoGalleryTurkiye.vue'
+import PhotoGalleryRomania from '@/components/gallery/country/PhotoGalleryRomania.vue'
+import PhotoGalleryTurkiye from '@/components/gallery/country/PhotoGalleryTurkiye.vue'
 
+import PhotoGalleryAncient from '@/components/gallery/category/PhotoGalleryAncient.vue'
 import PhotoGalleryAnimal from '@/components/gallery/category/PhotoGalleryAnimal.vue'
 import PhotoGalleryArchitecture from '@/components/gallery/category/PhotoGalleryArchitecture.vue'
 import PhotoGalleryBW from '@/components/gallery/category/PhotoGalleryBW.vue'
@@ -271,7 +276,7 @@ const filterImages = (filterValue: string) => {
 }
 
 onMounted(() => {
-  showComponent.value = 'all'
+  showComponent.value = '2023'
 })
 </script>
 

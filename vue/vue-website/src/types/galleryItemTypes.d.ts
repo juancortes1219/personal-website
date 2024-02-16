@@ -3,6 +3,7 @@ interface ImageItem {
     all?: string
     year?: string
     country?: string
+    ancient?: string
     animal?: string
     architecture?: string
     bw?: string
