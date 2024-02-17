@@ -14,6 +14,937 @@ export const galleryImages2023 = [
       country: 'türkiye',
       ancient: 'ancient'
     },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85KPaAJnfUXj70UlWv5EeQWu6PM4Jm9kA96iB1lJijod1L4YDk7OlVYNJ4ZbP1Xym_bmoNZ9i03_yHsNsoG9m6gYGOaqNyugPQuGsCNLAUFBXaYHBw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Harbor Gymnasium in Ephesus.',
+    caption: '<h4>Harbor Gymnasium in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '1OcJTY6HeId1d4ifeLdnhIiAgwg4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87XqJO449ari2KCXCTgr__7k-0xIm2xI9pa-ydOFPOBzv6_vUD0QosDVSuJH8lbL21-vtmX_meanwtRfjeH0yjj9AZXY9nt3S8bC0NPbSMD9R3tZ0s=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Arcadian Street in Ephesus.',
+    caption: '<h4>Arcadian Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'm7YJZRQ6iZaJt5UFdqm4SYdwZQhn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV840ICZM28VJCFVc34STsV3HKt4dUBQDv_XSzP8DJtog6UOJDBqJn8YIaAQ81zwHoflYPam0-ychwM86z2-GVoiupJwtq56SPyJjaTvS22ibyqDwWek=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Arcadian Street in Ephesus.',
+    caption: '<h4>Arcadian Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '2pUJbRI8mHeLZ3Unep9IVIdwaAiX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV859LUXhjw2YhFAt20cf918XFuPeAkIh9C43GNSe6PBcKu56wO1XoidXNEuwahu4wRNdRQuLDwqkfUg-ze-lRncEXp42aRHy1kvlpwxVz3zBvXeNkoA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Great Theatre in Ephesus.',
+    caption: '<h4>Great Theatre in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '3BgKLYh/eYhxh3dyiGh3endgcwc3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86ztGXOV7If5a4Nv1BcgKDnELSaQsr-yryqEOlZAHULYk0aQQ2ZnNnkUJgYxhttZbytR31YNvCJf1AuKJ-5SEeLrrwoyfaVitRuuA8-BcGc0_YMrEE=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Great Theatre in Ephesus.',
+    caption: '<h4>Great Theatre in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'nCgKDYB0eWeAZ4hxiNhpiqCiDRr6'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87zYyQhQCK6d9cEmTYlB7oKtYht9EJKcR0U3T60XTN8i3fMpFQ0f5Y_ZuOOjpBZeeFXaZwL9AnZlER717GJ30-yZOiP6hxZzQW0SXgV1ItisOsXvW8=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Cat in Ephesus.',
+    caption: '<h4>Cat in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'XCkGDQKDeqWYWIZliK9meRPFELA8'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87CAbC4D1dRuqZA3BQJu138zIdMsOJdeJ1ov1tj9N9z9L6dD2_8j2SdUi_sWtFBB0Nmy3JKy1_FSBh98mk2yq8HDH88QQvbEJWcBy7EC1gdFcl5lx8=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Cat in Ephesus.',
+    caption: '<h4>Cat in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'HCkGDQJzeqOJeHWFea4JhwTCQKA7'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87S4pIO8zC3D_LqB7jtT5Q8v9hEjWF6jQXDi6Tk_CDNUe5pV28RpxLcr05b-T81zFKNPVOYyRb5NMk4xIpTwG0TImNm_zCVQuVKTCvSN7asGkDSGDs=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Cat in Ephesus.',
+    caption: '<h4>Cat in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'GikGDQJDm6V5KaTFe5sHlQbAVHBM'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84Kp0uVGsRHnAZzW2H0E7NdfdRNnf2UnTv5waOpZl6b7GpbtNPbQpWm7R-2n2RLMO96W49HtzVEoIo6t_68YMolnXy1mhtPFr0H7csEfr0o5cm35ao=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'View of the harbor in Ephesus.',
+    caption: '<h4>View of the harbor in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'F6YJbZRZiIifiIdyiThXfYhwdwiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86uuApOHyXEqJxkINDpsbJpUbbf93RTBOA83i8oE5JtPuQD0ckP24nm1toRoqmogeDK7K1IoGttdTdZQyNMOaghV4BoRbh0E_kpjSuSFEW_tvxafn0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Great Theatre in Ephesus.',
+    caption: '<h4>Great Theatre in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'n+cJTY5miHaAeHikeIh3h3RgNAdV'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84L8GTrFVFmUQ66Bru8IVLZf4WRza3UfFfrP8XRKeINWIyrSPKuR82IttH0So1VnrWyDvAWu3V8_6R3XlrXyy7Rrzgp3x6qV--ct-XdgyJ2EMKsz2g=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Great Theatre in Ephesus.',
+    caption: '<h4>Great Theatre in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '3BgSFYRpdodweIeqhpd4hnhwZghI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84Jl4Qx0o8SR2Z-1BI9RMb-JfdliWjCQh29bIN3k8WLJ6Nh3LgTn4Uoc-YDkaMohspxPqZPuH-VCQXi4pvWWrY7ixqn5onAGagUReIuUYVnoFA7k8c=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ephesus ruins.',
+    caption: '<h4>Ephesus ruins.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'D/gFHYZRV3aFlXl9aaV2gHeglwdI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84PQnWL27KmXlJusTUSkav7r5SRZ4qICbg61ZLixIhcRzkMw6JwPDQhZSM9_KGvOKlZo92hqQ6ZazQUkDz1btvTVaP2qMo_MOW9Eg9ariGvtqHaveo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Commercial Agora in Ephesus.',
+    caption: '<h4>Commercial Agora in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'V8cFfZAqdninl4dAm/eEoYVwVwh3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84I0eNwyq32HGU0zJeBV2TGlxNvrn6gxkI8YlCVpfV00OQhs8trdqGD8ENHfm6obvs3ftBMJLQzqOsm0nv7xi7rsvhg351rvDWK_e0tdlr788OosM0=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Commercial Agora in Ephesus.',
+    caption: '<h4>Commercial Agora in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'W7YJbRBjd6B4aImIZYaoWZaAaQm4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87IkSwKx_DVGzbBEL45uMfJzW2CdWflZjAfawD87lGl3OPUAfB99gW9mMjO4W457D6DPbfgvi2-Wq38paW9g9O4FajjbiM1px571DROVmeICWTSALo=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Curetes Street in Ephesus.',
+    caption: '<h4>Curetes Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'WLYFdRRthzSXp8YFWnl3p4hwhwiI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84wbRdNcet-U92FieimZ-J1TQSqXaeIfeWhb3H6whiFih4M41p2f8yH29RCQbUiKo8RKzHGTXoXTCZYsySPomWj04UgOVFuZfgO5d1OZ2tgXSwwP3E=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Gate of Mazaeus and Mithridates in Ephesus.',
+    caption:
+      '<h4>Gate of Mazaeus and Mithridates in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'mucFVY6xi5qohXayOHuVb3yg1gdp'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87g-E6uOlIigPS8ctt4gWFZ0BDolAuJvlogpledaumOEpKviPCJ9mwIduCZR_-G4UcSoedL_k-13kAbq3W8-E2EfM-19BjvQ-XjDD9TUOYAyruDSxA=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Library of Celsus in Ephesus.',
+    caption: '<h4>Library of Celsus in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '2VkGFQT9mYB4WqnYaXhHZzCYC5O4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87Hgroq93bGy14buT9iVYZlmB7xGSLvG5LqgMPnd-8PHdfKm8F43vNBNkdhLz8XvmQS1L1nozb0-pHAkMcpYU6v40_OfMZTBs3gTSJm0NeYgnKErLY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Gate of Mazaeus and Mithridates in Ephesus.',
+    caption:
+      '<h4>Gate of Mazaeus and Mithridates in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '2fcJRYpwiXmndXmHZ5iohW7Q9wWN'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86ITFOKg4IZC8uWRRxIXjsrcqkBsIA-ks3u7pUOFj3U5k_FuBNBQKebkfIBGDlMuSl1RMccZodcineN47ork3WXkB-CxaRUv2KTFnshjwFCSUZQTM0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Commercial Agora in Ephesus.',
+    caption: '<h4>Commercial Agora in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'GZYJfZCAeHe4d4iYeVh2Z4hwiAio'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87va0hCEUJJYN8lonCeHqXxaJ_HNfiOZ1xVrow3AAjcdMRJ71M1PkPGA0BlUPqYTCzEIJN76AEXi_Eu5zGN1GTQwEQ2eaDoZr1Yavsb9V1jKmkjSJs=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Commercial Agora in Ephesus.',
+    caption: '<h4>Commercial Agora in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '0scFVYpon5d1mXh/addYhoiAdgg4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87wFHSgkWXC8WuGZp9vl3JsOiN7KWc_FOHbeTu9cmUMfKjc8b836bAoco7yZVAU9U4e_7wqpdZ9G8bAuyOVQoqvQVSawJdnvGF67-nIafhaCfwougU=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Commercial Agora in Ephesus.',
+    caption: '<h4>Commercial Agora in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'F7cFTQ4bi45kR/WWaHeFN9mQpQ15'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84fWrZOD2PQVtfHjkQD_9XFQWtNaT-iW4OhlrHIacnUI0VteJ2I_7m4ZPhKjjPXVMa8sbH9RSAhUsdBni6lKS3hD5ohIsBqsNdgvBcZl_hFTyBysVs=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Library of Celsus in Ephesus.',
+    caption: '<h4>Library of Celsus in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'lggGTQ6av4wZRGiaaJ04eWqQkgco'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86v9JUfieLTYdDmGpuF60EmMtIEQGwFU-tr8DP1AbbQ6aJSN8CEEHQDnOR6dswsknp_KQUcPxnqai9gPIjWrnV3lbUJIkr37WW0q_CE9tRV-b2cQBM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Library of Celsus in Ephesus.',
+    caption: '<h4>Library of Celsus in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'WAgCVZBuOJnKiYiemep4gIiAgggo'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86OPltliecO52wxG4cP72cv-9i0CR0Wwxs1_4PvzEnt2DHaMx1xvVL_OzK_EZIaLozaC4qdv5CDTwTh35zps5eJylyFXLdOOHfFSfXQqZjjny4nvAw=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Library of Celsus in Ephesus.',
+    caption: '<h4>Library of Celsus in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'FccFdRR4iJ94aGdniGV4mHhwhQdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85YrGgrHqY_hXRTEpahUzXWk8lXCrG4VfaAtm33Fa3ro5k8LhbPdXhtzdvcydUk0B3Fd0_W98fNMZj6tb7GOC9yd3Y8fMtn_MIsJmVoXmQ_cD4Sw9w=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Library of Celsus in Ephesus.',
+    caption: '<h4>Library of Celsus in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'lucFXZKWl2efiYeolohoaFiAgwVI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV857HMQ90HP_s4IRlweJUy_HHH8InIi7KvdXiTxhgsObXFUaGc86E5y0F1yh09oV8ESl0y7VVdlEiTyB5MJwLluAM82U_Ufi8_6pdxfkJIaPIDiDYoY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Library of Celsus in Ephesus.',
+    caption: '<h4>Library of Celsus in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '1ucFXZKWlmafmJenlphoaFiAgwZI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85nmxppRuG2tTLNBYLJ3onqQnWz5TQRPlfEb-DnntG1d0iwr9FRMPxEkUmq2vuNSIz43BAQGX1dAh1c1C8CCQBnoCCB3NP-ds07Xk-8VH5FIp6QCuc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Ephesus.',
+    caption: '<h4>Cat in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '2ygODYKFh3hwiHeJh4h3dxS/n+CL'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84n91gzZ05kGZOtJkx0v7hIiipqji0YQXd9KVQ-uEfPj__59DDmIgRTm34FDYXtkXKLwwVPiI4lsfEU0s-Gh7hT-8_2ThSvA9TVFfXMA7JfNDP48XY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Ephesus.',
+    caption: '<h4>Cat in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'migODYKFeHiAiHd5eIh3Zme/qvV8'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87nCyDBhc7qO03XJWCMRbXJCUNN-lPswsD1g4EnD7MNEdT2nrRVFA-RaHEjVAv59L5sFsey3lVqFyBYJK7yfRLIhU6Dq6UjEhoJtjKXHKfT_pgtysk=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Library of Celsus in Ephesus.',
+    caption: '<h4>Library of Celsus in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '1sYFdRSpeI13d2cId4m5WIeAdgh3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87pq7TahU1uB2BNQnhW1mMPi6IMdPqBxakvKrEJxgO3n7AdrOFvyWAusizqwkN4rG5Dw_k6Lfgkt-aucIZLsp3pVq4LaXZmga8dogqxF5p7KFPMi9Y=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Ephesus.',
+    caption: '<h4>Cat in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'WjkGFYLOh3kJdZhPlMiau8icAKpI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87l6tVgn8nRMpGtJ4lRYRKWGVWkp2e1s2hJ3GUmpZ2ABXbUJxp7j9ZT-CCwxBbDN1vG53BviJdIJwxVCimH_8j_1XQK3NLIABfX3WMoCxdvgCVW7R4=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Ancient latrines in Ephesus.',
+    caption: '<h4>Ancient latrines in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '4UkGDQIghqSdN2SJaHaJeCXMcPUb'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86CY2dP17sKcHbYvspx924pNMJni1rYHI_dYcf4RDW7SEr_Cno82UFNUQIEdiGP1r2To5F1U9s94vGDum9CGy1psBsvVWiF2t6MQqFzyPu-ENQcjUw=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Text on pedestal in Ephesus.',
+    caption: '<h4>Text on pedestal in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'FikKDQBgjmVHuJd4V3l3eDCYFeIK'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84mqsqpQanCoGRLB7AZHnVmRkry4DifXgoEMKWPoBTw1pi343-veRpgta7bQj6U9P8BeIKCfVbmNE9h2PvQlQJHEjnD4qyLTnwic4ZuCft1PFvbmDA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Text on stones in Ephesus.',
+    caption: '<h4>Text on stones in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'HCkKDYAMOpfEuZh2eyqHhY/l+nz/'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85yIpCMcuU62CHxNGYfSg78LujbGqc8BIKcuLtbYT2Ywzes0wWD0sL3-Qm6jD5JBiBr40flL8buNrBteWG8dhGeRbEzaItLyy1aU9cBAOTm_xhAQV0=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Ephesus ruins.',
+    caption: '<h4>Ephesus ruins.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '2MYFdRRgatZYeHdqk6VouIaAZgh4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV8402D89YfrtMFJpTJ5HQ7-xc94VmtRMfVm4BLnXHO2kPwX9oe2w3Rwld3UEg2FcpMxqKjDegfy981HUMV8MgANxec8Hnt9d0e1MunBh9_m5hNOCTKw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'People in Ephesus.',
+    caption: '<h4>RevivEE 3.0 team in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '2fcFNYqufZYgeXh/hDiYvauQkQop'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85fo6LKpmkStcy4uoh1q-kNEk9mHcfWG9vqTNrEy1mLKEsRi6KnYQBvqpHpNbq2svuK6PlfFXdkZbx1oEj79WZppk2s4kf82Avc2hDefvpQ3vXDD0I=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Temple of Hadrian in Ephesus.',
+    caption: '<h4>Temple of Hadrian in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'mucJTYxmaJmQh3iFaYl4d3ZwZQdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84ij9dDZV3tvh8ZcN2IiQVejCdx0-luT5TgkWXH7WYtEFAzi8I06UC9LGEnpct8UQ6zFpAl4Z9Tk8qhTrd5PKx7HR3Zp5bWZ8ATAKVvanu30-oF6AM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Temple of Hadrian in Ephesus.',
+    caption: '<h4>Temple of Hadrian in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'GfgFPYolTA2RZ2iDanmHh2BkBVZW'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85GZro4dFiSpeJ3ZG5cViog7ZFQjFHNjENaQAC2bMnS7xrQ1343_E_d2_ZhY7g_6IhKjRk2TvrGFnzC85nEzozbRXbfVTVkRxVDn_upDF3ZVKTj-XY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Temple of Hadrian in Ephesus.',
+    caption: '<h4>Temple of Hadrian in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '1cYFRYpPo2pFinaGp3h4iDeQZQJp'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86_4to7iCidy6xHM2z-exSEDXRD-SB6SrqtT7ZSe5seEXZhPkFyjpKlkzGQpzesH7MZMUSPaGHJmP-JyOIHzgpEhZbqA-HTjaF-LNvRdIFM97O9U6k=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Text on pedestal in Ephesus.',
+    caption: '<h4>Text on pedestal in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'ojkKDQIgpoeLdZyYeHhYN/FvXt/F'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87sxBrnCHAhAFXtn-bRaN28iqRwLpYlp3JE9Je3-HbQX94UGRRPkOZMkCTCigPAi1VGiFQ6cPjXXY38bTDtv5QrbJPPK1n6PruZYhnon5Md0i-Rn-Y=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Curetes Street in Ephesus.',
+    caption: '<h4>Curetes Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '3sYJbRRkaaB32JlWhIWHmIdwdQhX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86hx8AbP3GBe0qrOSm9UV2KQfdnc2wXhlwdbDJYvM697bM2j31M2JrdWGSQV1yOCEp78B8C5KQ2TDgvroSEYw_T64MG5x07buINCbQ81YUDTqdW0-M=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys in Ephesus.',
+    caption: '<h4>Joakim, Ian, and Mark A.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'GdcFTYzOf1aBYIhPahWIh8hwdQxX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85t5S0HIrsCAO0H1V_0-dpKHFpD8lYjB49fYx6sM9tGYqRx6U2rq53o6ElNePz9tkEk5SGmR_3NSOfznXl7z_EHif74khVskMrep6IzAFHaBo5_qIk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys in Ephesus.',
+    caption: '<h4>Joakim, Ian, and Mark A.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'WtcFTY7OTVaAgZpPaTaIhchwhQxX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85nq4-yHXKxnT7ebgox4oYr-_mjcmO-zpeo7Zf1fSfWkmdZqylCVGzWm1xjbEFnENrhGgranGl-lG1CJfefn69sufUtrYV2GUJLmPURclrfEMzh6tQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Guys in Ephesus.',
+    caption: '<h4>Joakim, Ian, and Mark A.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'W9cFTY7OLFaAkqpfaTeIhclwhQxY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87q_NXGbEf2oKzPJZpISX9g2EylyehjxWcGACvjrgsFlWa0VAN_AF83i9V8r3Nsqorl2lF7RPAwDBOzPn2l2CZ4SS_saQMdlvsXJ_lqc7J37886pvo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Curetes Street in Ephesus.',
+    caption: '<h4>Curetes Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'V8cFRY5zk4afl4aqdzinlJiAkQkX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86jPs39JJocXJikN4ueadF9nYWTbEslOUBfJKoGeEmlX5ScHO_K330wzohifJNhoFdl5wX_o-FuXLr6AEep8YJcamPvA3Q63FSS8K6dWVjF-LCtbRU=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Headless statue in Ephesus.',
+    caption: '<h4>Headless statue in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'mRgKPQglqWB5R6iXiIh3mFygxQZr'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87k-bMbcUktO78jUUee_KFNv-DhHhg6_5ZYTY8Azr4tENwwwaGUM0d5NDuI3IL9B3-13sdbI2S3NdNU8qJ2QytYEnnkGIhqlgC5A_Y0M2oHWmAm650=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Curetes Street in Ephesus.',
+    caption: '<h4>Curetes Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'mbYFZRJFh5mJd3qGdJCZyYeAdAho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86EQ7V7z922xsO1Mj1Hr38vB2qmGDuWU59EObuf5CovfgAxzL6qMFumhq4puiPSbM8N8Rrc9H-gCPNITfp4oGh36KyUdShAaDEjLIQ-hHW16ZmX1b8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Curetes Street in Ephesus.',
+    caption: '<h4>Curetes Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'GfgFNY5wh3mWVHaHltZ2ZbiAgQk4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86K0983qDkFuTNHOsuJo6FRY086Auz8BQVan_QxbVM3aFmWHfsUkGMtRir34yKOjE2YY4oDyaI1w587ogbbAKMaC05KFfV5tJ8Gwl0FB3lkhxcNQXw=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Curetes Street in Ephesus.',
+    caption: '<h4>Curetes Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'obYNVQywhXaJl3dYiImHaLRQSQu1'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87USe1SgC8iIq9VU1ZkeeNsCdqx0PJQT7XXknKIQS31Sk218HWrFQOTgCijrdAd3-f4d4RfseKbFBTZ0zA3sEYOBf9uVmftbcyZ41MzIy4y5T3G4Jw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ephesus ruins.',
+    caption: '<h4>Ephesus ruins.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'kCgGHYZmZkvBdplPeTd+P3dwdAhH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85K6MPwS3v1qwMLu50-cB8iwiVNQ-A2JLv985JRGdbAgdnX3nNbLAxBNwEdPHYD4NM3Z7BgfTK9v_Qr5mqpL3AXOjQ1HaVGface_HqyJstB5t991Yg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Scenic view in Ephesus.',
+    caption: '<h4>Scenic view in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: '2pUFdZB6eYhweHiEh6iGiIhwiwjX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86nJ_y1MlOwZ8NSjVW6ACAxbgtUUTzGQCjnCEQepMWpr1hwQqbLIukyQmB_wjgvWAHTedO0VKG39Jqv6BaarG1EcvUYCg6U_ZGb8zZGpa_bMbstiB0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Pollio Fountain in Ephesus.',
+    caption: '<h4>Pollio Fountain in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'WOcFXY5nZ4hwaIh+llqYY3iAlQdo'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85YOC0c--tm3r0ut1d9V1AEeKMhbU8uS5ZALhtyDH6po3fipL57zdr3utHe9dd853-k4QWhPzhMYv_Rv65DugZqJ5dmAYVecN0ubAZKIyvxpNlhixg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Temple Of Domitian in Ephesus.',
+    caption: '<h4>Temple Of Domitian in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'UAgGHYaHd2h3dnefhneHhoSAcg'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV852lBAa6U3H3nxrlis2id5QpZL7vA8H6newaEszJzgp6SRIEoxqiRAbFOsU7TLfY6GliVsYBImqSrCmFCwZfy4njbOQYMiAR5-ULm-hkj1KAxf96Cg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Memmius Monument in Ephesus.',
+    caption: '<h4>Memmius Monument in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'V8cFfZJ3eHejeIhfdyeGmHVwVgeI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84X30uDjBbHU7Ll-3cCdwt6nEqPbOFcShRUM3tO-394HtIJ1IvhH0z9EbOHnuG7HH_4HVN5jAbOGDq8nmvUKoSxxe7IsyXJ-pZib-ZrEKMi8hMGKJo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'People in Ephesus.',
+    caption: '<h4>RevivEE 3.0 team in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'FxkGHYTFqG2EdFaAiEioimN/M2cG'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV86kMVQ0jExaJJRiBWu_1IFSGq-CR23JtddMjFMm8eHmzkUdnNaXGZgGwqQjELE5XkdXQTW6NrEC4wx_IYuiUyQS38R4sADSZTiZRNIwl_FRSKfE4RI=w2400',
     classes: {
       linkClass: landscapeLinkClass,
