@@ -14,6 +14,937 @@ export const galleryImages2023 = [
       country: 'türkiye',
       ancient: 'ancient'
     },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86n7NgJnbqndqRpY_cpOd2GfKJgvq3Bys48U_1GCLTyDxNxfkHeJRC1CnLHLpD995u1qqMVwTANLS5pPmi9z6kdp5gXJYGEy4YN5FrQuGvoO92CsYA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Saint Philippe Martyrion in the distance in Hierapolis.',
+    caption:
+      '<h4>Saint Philippe Martyrion in the distance in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'nbcFnY5be4ifWIk5lyaXdYdwZghH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87wK4lnhvbzAJhtDk_Eg2mHv4LAc6ouU-zgrjuvQjY-EWSwnoF3qwK68iNqviWRGEsa36beBa4uytnPsezn0SPc3Y-d8VYJanc6e6GcHTwWef8wlUc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'People walking in Hierapolis.',
+    caption:
+      '<h4>RevivEE 3.0 team walking in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'mrcFnYx8eHePd4hYh1eGkIdwZQc3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85NitLE61E6c9j0t9ruCQxyCZh0c1Hb2-X1ScvK15soGsnhlt7xMQDj4XVtF4VA99SG4cq4Z7sH1x7VsRz1aNMTC6L1CsfpWlSGk3LIfb7YtDyw5cI=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'People walking in Hierapolis.',
+    caption:
+      '<h4>RevivEE 3.0 team walking in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'nJYFpRCKeH93CHYoeJjYdohweAhn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86-ZH5fHjqrtFz-C31df_Bnh3k5wP2DV_o2CoVn8RfHjOceSJBTia_v67NGAKPMCQlFHwmtCNvTiPpD3uTIcypt_y9hDDy9Aqv73y-D5TxLJnMk4W8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape in Hierapolis.',
+    caption: '<h4>Landscape in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XtcJpYxoeHiPh3hziDiIh4eAhwhn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Fuy9pOtKqoD1Ak1EcXdU3bh7VfmomCLCmnNekRQjpbtZe2ya15CLnLWE8PnqOuMWn9yXfdtSHVH1TwhNfIZI3NAgpLH96giNzhp9PxJuCWoetfq0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Saint Philippe Martyrion in the distance in Hierapolis.',
+    caption:
+      '<h4>Saint Philippe Martyrion in the distance in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2bYFpY5feXh/eHdHdyiHoodwdgdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87FbdrOL7LjIOpJ6xHrx8DTu31zJg1XAdom-5naDK0hty6J2bXfKFrlwGqtbdeBB8YwWa-72JUxUBVF3yPpqizpawPU2zkAbEk_dAGgCf1qYkqOiBY=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'People walking in Hierapolis.',
+    caption:
+      '<h4>RevivEE 3.0 team walking in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'nKUFlRB0ZmuJSYgXeW94GIhwegiY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85RPXGNWZtKs3TDB_QaGYFHqnmnPlKadWuAjMCf4_z2G9pwj-Gkeh7KSyw15NMifWCCq1seg_M1gj0vj9WBeXN9kQAjDS7cy6i3xO5OoEMtuIMxHWA=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Guy in Ancient Theatre in Hierapolis.',
+    caption: '<h4>Derik V.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WRgKFQKZd3CHeWiIh4pXiKdwiQqX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85YTh8BX9xMAa3fnnfk_6LICRo-CQTpCin5VHj17odpvL_CZJ7DwcznDbzqe19oRM2nVoO6lkDoeTjtRrSrarw-JuYv6pWEti2dGTrkk2a9OfmxZUE=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Ancient Theatre in Hierapolis.',
+    caption: '<h4>Ancient Theatre in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'HAgKPQiGiHd493qYiGuIeIWAcgg3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV849ph3Z3cfi_-OJcUPc9P_XZgpGG9Xmrhqll1gCB05cbmTyfaO3Gcah4llvax0HOq__NLuoYsqsB8xcUElhnjk0Un1hYlNbdNZrFYY7obVUCNExPjE=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ancient Theatre in Hierapolis.',
+    caption: '<h4>Ancient Theatre in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GRkKHYKFeIdAh4eZdliJWnB1WghX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV8787I9cEhyZmQ3fC1GYH5SsrlX4MoXeriuVH82GBjsL4eqPIbi7cuIoFmUKJ5G2PR1F9ocfF2wPxqwCZZZ_JTjykBDEV-jdQ8DYfoUdjnfhvd7BSv8=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Ancient Theatre in Hierapolis.',
+    caption: '<h4>Ancient Theatre in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2tYJhRB1mL+Id4YHZ3TJl3eAdQhY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87jGlTXaGBw4y-eIqMlUwc8zKgM1bvpG8asxzuvhrQAl9TODHcdwepBhodoQFeZuwK2EuLCnqN1FwdHWjPWTUofaqdJQmYyv1VdXH6QOxefaFSYkfo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Hierapolis.',
+    caption: '<h4>Cat in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '3PkJLYKZs6e+V2mviZh2iXGASNkJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85nDPmZ1ATQKVy3lo1zQqSSugOAx0Scgc5EEQxAngDjKXN7zWhwNa79ItvZgWsY-W5tWy0CZDWKLE9wou37GcSl2BpFId_iyzRnW8KmwHcgLDyr9J0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ancient Theatre in Hierapolis.',
+    caption: '<h4>Ancient Theatre in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WikGDYRgZ4ehdXmXmViVjgN3TQco'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87oTMBtc03crpFPooiOITSRjMTOMCClJ-46I0k_5AAvTCj1GsX96FoBMgLM9J1-QrYVZqyHVQCvxCLvQ8hp2LEIuxQsXVrPGA_3UCiY51TN4ZHczDg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape in Hierapolis.',
+    caption: '<h4>Landscape in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'moYFnZCDhodeeHiQh1hpboiAiQh4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87ed4n7dL9T1jsLhZRiCcpXF6HvyASntfGo-Ez0pxzB0pvJ30J4psrbHF_wwU96LIVym5G6J6Iko0up3WGaCGfROjkbGsj4lzIR7M_QENNfxWqEkfc=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Rooster sculpture in Hierapolis.',
+    caption: '<h4>Rooster sculpture in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '3bUFfRB4hWuYB3lHdZ13Z4eAeAhn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87xlOyhiiXUK5UFAAJaagPSFJLZvQPfDJTOP_7YKgDTWsoBJZ1DMebuaMU9n2cEBlBkRJplh3Dfz1hd0gGLzxeglRj9ZCU3wTYD3L98mN0AnwG8yQE=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Antique pools in Hierapolis.',
+    caption: '<h4>Antique pools in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'UPgJHQSHZ2+HJ2dnh5dHaI+pxagL'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84IYwfpcEboLvNpELFBR83r94tBUG8bTujQOZYxONxskhoMzz10eGkuHMcvXuPMGgkaYHPA1FjDz60s323AjjvNegAF42lKqQUkXMO8eEp5kW5Xzxg=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Antique pools in Hierapolis.',
+    caption: '<h4>Antique pools in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'EfgJJQSHh2x2B4eHiZSIp4+Z+FdM'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV855HXf6xmLPeV7nioL5gTB9lviCTDBTv0uJTq-YgW8eLF4gIHhXKDpIEnT7hYGy1B4MeA0ZLvgSd1JEgut4p-MEtPGqG_w1l-ViP6l6e7REKdW7YGU=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Antique pools in Hierapolis.',
+    caption: '<h4>Antique pools in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'EgkKFQSXpm93CHiaiXh4mWdfVPs0'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84xorPFzAwuNFnGXpYMtCwZLEcNndm7zGVDlDlVpPVcurfnFloWaaTbxwPLHqPMX1udNe2YCV2cS6TorIagnzKhUYuDiNmsbp-6yHcHKGAHY2z57Uc=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Ploutonion at Hierapolis.',
+    caption: '<h4>Ploutonion at Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'EfgJBQBJSX+IRqiGeoZmhyM+wB38'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87IjKZAf5wXtBcpGO0McxMb278wDH1RBsjII4I3I26bXZy4PgB2t3KetGHFMQMWuJf1NhKzfwyE-T4Kr6o02c6Kh6h_KCiLCDUiSHnSBGIspAtFVhQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ploutonion at Hierapolis.',
+    caption: '<h4>Ploutonion at Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'FfgNBYBEeHd/d4ejd0iHZzR6sFz4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87x67VYb0SnNqklEfHRirPXP5ILCqDRq4AL18MYCIjXXfOtwQWIp0hI6nQ8uu0REJ7b-fwlvcoL7rKWc5xcJBkj8rOOq_S5l9-VE-q6zbVsFOezFbA=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Cat in Hierapolis.',
+    caption: '<h4>Cat in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GCkSFQJ1mJB4l4hod5mHh2iZ73XP'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86pNORgHjIJI-A6WM8disjtK4bKv_st_OIsil9tuta_kaR9GJhwsuSSafvf_0BXiB13EfYdqrQQyvORXgLD6OkaMo1j0LLFa4q3hUGL5wuTYwHgpsM=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Cat in Hierapolis.',
+    caption: '<h4>Cat in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GikSFQJ2iIB4p4h3doiYh2d2/yPd'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87JSyGsxokGlWeL4ueXNR2MqW7wfYSKJxpY2LB8z2K6fa8NPHyGD-v657QmzI2b8qZcgkGBbj3DbX1KmJXVFBJRPu-_PDjQPZa85eTvBD0eC65nyQ8=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Cat in Hierapolis.',
+    caption: '<h4>Cat in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'HhkKHQR6iHB3KGWnd4qHh4iPo7kK'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87c-yjOfd4hKqZ2GClq6nJMsmCTDTmfnM-Ultpmao5NbQbdjSBrNm_hZLIdIySYPf1u6_YZoGMrrvV7D6D4_fMQYZM6eCVoBtqNuX06_URhl7IbWVc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Frontinus Gate (Gate of Domitian) in Hierapolis.',
+    caption:
+      '<h4>Frontinus Gate (Gate of Domitian) in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'mcYNbZCJd3aPiId1himHiYdwdghX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Wv-s2JlWAX_ikjK6X4aS2tl-NfPztU9BFB6ZtyXCV3WuGd5J8B0Dq-IwQEf-JaEy2JrHPzqW0TYX_d0vGGs_DANp0jy1qSOP5fdD5Knt3TolZrME=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Frontinus Gate (Gate of Domitian) in Hierapolis.',
+    caption:
+      '<h4>Frontinus Gate (Gate of Domitian) in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'W8YFhRBraFF4CIhXeG5GSHhwiAeX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87yP31tJRsCOUV08W3YjSv7yyondEp8cgABDa6Coqz9Zbh3O0ZYE3e91vGAEzCUCrBAnunlvJ1sZhHReNNqpTYYrH6QtaoL-t13MRBk1Vmb3QRF7fc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Frontinus Gate (Gate of Domitian) in Hierapolis.',
+    caption:
+      '<h4>Frontinus Gate (Gate of Domitian) in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2tYFfZItWIdqeJlweVaoenhwhQdX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86FuRDVNfTY6Usx3ubjUorKEQF8xwxwFrkxwiBhLWxBlxGtKXRNr6AD6EywGA3kZ_hA-RELU-bkN6xsgjJiBBrBBgaotPHMYjpCMSrvHfrVvIlSRXo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ancient Hierapolis road.',
+    caption: '<h4>Ancient Hierapolis road.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GtcJdZJHh5mbiYiqeAZndoeAdghX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85koG2EJvEjXmIV45RjXyuSWKGWr_UMU-GDYq1ZjqZzN8yYYmfgcGoL-PLUR80wHa1lPrOZcIeH0vdNWhyjEaa5FZe4Y53uRO20L2T3wlqz2XPePvA=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Ancient Hierapolis road.',
+    caption: '<h4>Ancient Hierapolis road.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'nJUFjRZId8uJV4goVJ94KYhweQiX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86hu4yKi3ovA3pNm6s5HBt0mzScpNe5UGJAuTM1-7eqRLnW4Pp2Y-HI_pSGtkmPnsFTq37dT8kGFKqX6t6nhSH9GhgHsAyw3ljcqp8fwy6rvCro9OA=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hierapolis ruins.',
+    caption: '<h4>Hierapolis ruins.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'laYFfRBgl153mJxIiVbnF4mAlwh4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87plpRdxz-trA1HlRp70_5elwzLJlis3Do10Ig0cV-Dv5GqdSElj6MQLZVX-qeDP0_32lIhAE1GE8PxrM3kImKn7YOxQaKO0VFNJcoUpT3zMmpkpSE=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2qUFjRBreFB5yHcHeWqZWHeAegfI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86imNprwvVWQBemBdB5quYCrfytXI-cvss-oIAbMvocBbendrcD-AaOANDMYTjFXYXFN-lH8GPVg9EbRDfvu45CwYEPeQytyoan-puPdlJT_X-B9PY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '18YFjZCLd3c/iIiIdjeHlXhwdgdX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Ma1xJ2vnH-dRIcJ5PtNewqbcOdnJxqAo8FFvm8YUuAkdi1zKMrceMNiCAD_FIGDqlVrBD7lARpqGpnKjZx1OxiG_468ryqU-FQobHV8Yii4kq5Mk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'D/gJBYBGeHh/dneHd8iHeQZ+mx9I'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86GTCeeSG1P57mH9teqHx7srXtHdNRBXOArRHsjZUIJB-N-cNrLEfU4lthqO0xvV3_f7YdDq8CIXbqMQ4jTQ_SeCTad8J71n9i4-SVP9SA7fdb7lNk=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'VpUFhQ5fdh2aSGomh4qXR3hwigfX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85UrEPEtTFFO_8ZshUIM7FCf7G_oROKJf0my671fRE-jr2Qd2CoM9f_NF4P4WvmpdZag3cJbHnG2D7ZnwAD1sFI2FuGZi8Ax5Mnxvm90yjTdGOpcuY=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'V7YFfQyGh5aHB4aHiXeHeHhwiQeY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87_IM7kx5JTHT4b-1vWL8ITIhp4KnALqjiwKY0vzxule02tkTlR8LhgB49JgVmdmgAKYLrsRZ0VxbjUUnLv2d1rEnbKEa_89oy_lUlBNjPOFjv9mt8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GbYFjZBqd4iKiHhwd4eIeYdweAiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87p5-x_6xdgcowurNgwslJ22Y8g8sdukI6F7HYRBsp54HObZusASnO7iet9jC0HkfkgupXSgbwRHxnxmLnbzXHkM7Rv8bWsB4iMuV3aHgKx7Tkoqzw=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WKYFpQ6HeH93SHc4eIqoZndweAh4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87GxI6vUSfcHBG3jLohTjIT69IY0R_8j0DmH9MTil59pVPSizZAa4FUdkns10KTnzsjoGCQ7FbK4AUpyZuNcyuCqlhg9KObYTstrkdqBU2jOabZ41M=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WZYJnZKIh4hvh3d2d0eIh3dweAho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85MeJvu1jJyb2f9JHzNah5pfDFmrnSS_3ZuTTZX0DHDGPY9Yv6ilOshxHVw18p8fXh5Wt5qlnoL0ruFlQEiYye_i21q8Ti9NNEJOn0EDBsM5eQAYL8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape in Hierapolis.',
+    caption: '<h4>Landscape in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'FfgNBYA1eHd/hneXh0eJdkZ/mQto'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV863P4bl4v4cIasjd-QLgN_X8Gxa72NWuoXVjPkohJw7xphLir_HDiuXNObTL6jAdmXVJuk40IarMKPlnuXslPoAyxhQFZvRb0O90U4hMbdHomgNX9E=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WqUJlY6Hd3eKd4hwh5eYeXeAegiY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84Pm1l2AkClz_jBRpFzEeQLKuA8J4qWW5kfWoWedj867wnhATS0br4vO00NRfwitVk3tRo-DIke9Ile_7qjboCepdaLdcrcBehwb9peLJkrSTuaGrs=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Northern Necroplis in Hierapolis.',
+    caption: '<h4>Northern Necroplis in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WcYJnYxraHd8d4iAiWd3i4hwiAhn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87Wm9ShmSq3uXMa1FiMonmufRLsivu8WRYnQjIgoOimBDl_O3-U8JikPDZYRfajYcHgOSbVkaZT4k6CiyJYaydu22shZLl38UmkHqWCJ5nPsQlcUCg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hills in Hierapolis.',
+    caption: '<h4>Hills in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GKYJlZBld4h/eXiEiEhomYdwaAho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Zb_SEBqJpC0F8J0YBuhIv8bLiWwV8BNw74lCmQoF3wwrD3IJlccTg361GBK8Tc28NkyDWi8T6O061Yi3RAe1RVIqpxRtJFur-jogM1xPct7MHIAo=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hot air balloons near Hierapolis.',
+    caption: '<h4>Hot air balloons near Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '23QFXQ54h4qICHf3iHKoZ4hwegin'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87UDVyMDug7s9mt4Jqsj0ua7LiuB5O-u8kMuTIQgdqx2OKIUSzgCkk81hK8ec31Xgvxcavmiy6BRGkdRfsQ84cO1n45-c2VTCqctiez0zczbDPx_1A=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hills in Hierapolis.',
+    caption: '<h4>Hills in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'mcYFfY52iJZfeYd3hzh4lndwZwdH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86RKKWt_9Hee8hAP2yyO4JddYp3fEuBMzp2fXfRndfxKmlTqbAJaZ85Jyo408vaqMgudZkUNJXSoL5VMpV03Ho5DDzoDfyD3wN7qa8gTPrlydb8-QI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Tour in Hierapolis.',
+    caption:
+      '<h4>RevivEE 3.0 team tour in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '1KYJTZBQR3WdVohih3eHipmgpwl6'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86td0oKuYFCwiUbcrLo6J0qUn200HnEPg4jjuwD60D10WjMUp0JVYAj8ElvH-hIB151Gb8iIRZGzJ3RY-_p-fQgpJIwOffsXfCdca0hyW1DmIVDqiI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Scenic view in Hierapolis.',
+    caption: '<h4>Scenic view in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WrYJdZB5eIiNeHhwd5d4eodweAhX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84n8EvC2S4LM458srDbdR6_CkWLzBGgLoV8WWldiU2l2ycXxjcZiWNuhxmRcPfD2zWrV2Aoyjse7PqQ9P_3oGPMjRJhodXKnkkAyjDDCeQobLC_nlA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hills near Hierapolis.',
+    caption: '<h4>Hills near Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2LYJdY5kdndviIiFiUh4d4hweAhY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84SMZqUNXDEpJphcvzwiS2RD7QlyiFYDqe8eSv0m2QLaISXLITHOlWHhB04bkfC5BR_GI5Qhyw27oRzBuTMcgL1YpDCmPxlvwWS9USh_GXmKF337Kc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Hierapolis.',
+    caption: '<h4>Cat in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '4BgKHYT5d4d+doaKhIh3dtl/lv1X'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV853c5uxHuy5hovlYk8OoPFbhV9rK_G0Clv_8eF-A4V78LUTNcC43wHIDI8vlH30L1sVvVplNsSprTQZBK1XgUzicTUz7sRAxAGDBlrNfzCDJKcHW3s=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Hierapolis.',
+    caption: '<h4>Cat in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'IikKHYL0fXd2iIh6hoh3h/N1J093'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV865da-ULcjg9VZoerd7346lPruq2zXx730Q6OpFSWaCmoM8kTgAMQsFA6zrKS9EigI4VHgskryMcx_P5ToGgGNHwzDjkkkRKL3aRrD97AHepXttLTg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Hierapolis.',
+    caption: '<h4>Cat in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'YTkKFYK/gqeJpFl6lneIeK+J+Zuo'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV8637fXc1P91AHh4P4tT8snTWJJhnNVRzMuIwhlDXSEfO1b0aEWrI3pUqtGBuv63_WmpX61QyxFFtsbM1tmr-74rSD8ho6kQm6aJ444RnA2B1GzmOWU=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Ephesus.',
+    caption: '<h4>Cat in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'lRkSDYJGmoeAeHd4eZd4iFZgaASK'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Po31TAJ9BcpVFFu7swnjXMQKkfC1Po24b8A0hQxZNf_RdxmpEFpvL_VMuWIzSAw-h5Gx4T7tXdoYkTKx8BgDKFLton5H8XGgezIU_1RjvhXpWLvQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cats in Ephesus.',
+    caption: '<h4>Cats in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'ExkGDYJBdIlKdoh5ePmHiWS3MANl'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87MPCTDfxPWrJ5bpsVWvpmIomIyU44euhnlg0Pby8ZF2tOuWIkjaarZO-8OAmav1lchNooTj2fga7Klo7yRKAb3xmCYLNz0YrreczcRpH2pS8rYkjc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cats in Ephesus.',
+    caption: '<h4>Cats in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'zxgGDYJGl2Z/WWhpiDiLfCPOAGpW'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86qGYX5jSCJ3CNJqRLSwP9NDegIRfqDF_1kdUoNCQwC-oDZ4vbvlDW2c7N1W69zun5kRWyuzIVvXJZgT9O9H5-U2OVzE-lllQktyHl701pcolnGmkQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Harbor Gymnasium in Ephesus.',
+    caption: '<h4>Harbor Gymnasium in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'GugFRYziRnhwVHbFl/hcOIdwcAk3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87TJu9u9go5Y6vw7MpZKaQIXBrfurP8_nzwRV99O5Rt7Zj36vwgXcwMqi58fsCZsZDqSdzNEvTnEzH-k66knxLcIKDVOe8h4XqY2VevGeSqQlFV95o=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Arcadian Street in Ephesus.',
+    caption: '<h4>Arcadian Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'nKYJdRRneJSJqIgIZnvIOIeAdwiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86r0Ph1D3u8unrDqbUsQJn5rEQ3cBOekc2_Csg-54FNtr-JXZr4VAvZuQ0mtYoemJUOZk5jJ85tzxFl248zkskd_2_9P5BRrjh5BLL1hSTAnI_sEh0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'View of Great Theatre from Arcadian Street in Ephesus.',
+    caption:
+      '<h4>View of Great Theatre from Arcadian Street in Ephesus.</h4><p>Selçuk, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'F9cJZZBvd3hFeYh7h6h3iHdwcwdH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85KPaAJnfUXj70UlWv5EeQWu6PM4Jm9kA96iB1lJijod1L4YDk7OlVYNJ4ZbP1Xym_bmoNZ9i03_yHsNsoG9m6gYGOaqNyugPQuGsCNLAUFBXaYHBw=w2400',
     classes: {
       linkClass: landscapeLinkClass,
@@ -97,7 +1028,6 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient',
       animal: 'animal'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87zYyQhQCK6d9cEmTYlB7oKtYht9EJKcR0U3T60XTN8i3fMpFQ0f5Y_ZuOOjpBZeeFXaZwL9AnZlER717GJ30-yZOiP6hxZzQW0SXgV1ItisOsXvW8=w2400',
@@ -115,7 +1045,6 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient',
       animal: 'animal'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87CAbC4D1dRuqZA3BQJu138zIdMsOJdeJ1ov1tj9N9z9L6dD2_8j2SdUi_sWtFBB0Nmy3JKy1_FSBh98mk2yq8HDH88QQvbEJWcBy7EC1gdFcl5lx8=w2400',
@@ -133,7 +1062,6 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient',
       animal: 'animal'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87S4pIO8zC3D_LqB7jtT5Q8v9hEjWF6jQXDi6Tk_CDNUe5pV28RpxLcr05b-T81zFKNPVOYyRb5NMk4xIpTwG0TImNm_zCVQuVKTCvSN7asGkDSGDs=w2400',
@@ -459,7 +1387,6 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient',
       animal: 'animal'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85nmxppRuG2tTLNBYLJ3onqQnWz5TQRPlfEb-DnntG1d0iwr9FRMPxEkUmq2vuNSIz43BAQGX1dAh1c1C8CCQBnoCCB3NP-ds07Xk-8VH5FIp6QCuc=w2400',
@@ -477,7 +1404,6 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient',
       animal: 'animal'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84n91gzZ05kGZOtJkx0v7hIiipqji0YQXd9KVQ-uEfPj__59DDmIgRTm34FDYXtkXKLwwVPiI4lsfEU0s-Gh7hT-8_2ThSvA9TVFfXMA7JfNDP48XY=w2400',
@@ -512,7 +1438,6 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient',
       animal: 'animal'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87pq7TahU1uB2BNQnhW1mMPi6IMdPqBxakvKrEJxgO3n7AdrOFvyWAusizqwkN4rG5Dw_k6Lfgkt-aucIZLsp3pVq4LaXZmga8dogqxF5p7KFPMi9Y=w2400',
@@ -857,7 +1782,7 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient'
+      nature: 'nature'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV85K6MPwS3v1qwMLu50-cB8iwiVNQ-A2JLv985JRGdbAgdnX3nNbLAxBNwEdPHYD4NM3Z7BgfTK9v_Qr5mqpL3AXOjQ1HaVGface_HqyJstB5t991Yg=w2400',
     classes: {
@@ -1233,7 +2158,6 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient',
       animal: 'animal'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87EkPFzH4zTu5CtITTI7yaFTSNJSiOQbQDE642VUC036f1ObpqsREMUu8sIqdXARty9bdVRGMwfs5oW8aMq9V_jDQpx4WG-PREJkZVto9BfQw2DBRU=w2400',
