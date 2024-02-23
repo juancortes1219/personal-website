@@ -21,7 +21,19 @@
     <div class="d-flex justify-content-center align-items-center flex-wrap">
       <div>
         <MDBDropdown v-model="dropdownYear">
-          <MDBDropdownToggle @click="dropdownYear = !dropdownYear" :style="getActiveYearStyle()">
+          <MDBDropdownToggle
+            @click="dropdownYear = !dropdownYear"
+            :class="{
+              'btn-primary-year':
+                currentFilter === '2018' ||
+                currentFilter === '2019' ||
+                currentFilter === '2020' ||
+                currentFilter === '2021' ||
+                currentFilter === '2022' ||
+                currentFilter === '2023'
+            }"
+            :style="getActiveYearStyle()"
+          >
             Year
           </MDBDropdownToggle>
           <MDBDropdownMenu aria-labelledby="dropdownMenuButton">
@@ -68,6 +80,14 @@
         <MDBDropdown v-model="dropdownCountry">
           <MDBDropdownToggle
             @click="dropdownCountry = !dropdownCountry"
+            :class="{
+              'btn-primary-country':
+                currentFilter === 'costa-rica' ||
+                currentFilter === 'mexico' ||
+                currentFilter === 'moldova' ||
+                currentFilter === 'romania' ||
+                currentFilter === 'türkiye'
+            }"
             :style="getActiveCountryStyle()"
           >
             Country
@@ -110,6 +130,20 @@
         <MDBDropdown v-model="dropdownCategory">
           <MDBDropdownToggle
             @click="dropdownCategory = !dropdownCategory"
+            :class="{
+              'btn-primary-category':
+                currentFilter === 'ancient' ||
+                currentFilter === 'animal' ||
+                currentFilter === 'architecture' ||
+                currentFilter === 'bw' ||
+                currentFilter === 'graduaton' ||
+                currentFilter === 'long' ||
+                currentFilter === 'nature' ||
+                currentFilter === 'other' ||
+                currentFilter === 'portrait' ||
+                currentFilter === 'street' ||
+                currentFilter === 'wedding'
+            }"
             :style="getActiveCategoryStyle()"
           >
             Category
@@ -292,5 +326,17 @@ onMounted(() => {
   --mdb-btn-focus-bg: var(--accent-two);
   --mdb-btn-active-bg: var(--accent-two);
   --mdb-btn-box-shadow-state: none;
+}
+
+.btn-primary-year {
+  background-color: var(--accent-two);
+}
+
+.btn-primary-country {
+  background-color: var(--accent-two) !important;
+}
+
+.btn-primary-category {
+  background-color: var(--accent-two) !important;
 }
 </style>

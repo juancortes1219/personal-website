@@ -5,17 +5,14 @@
     <header>
       <MDBNavbar expand="lg" position="top" container class="nav-bar">
         <MDBNavbarBrand href="/"><strong>juan cortes</strong></MDBNavbarBrand>
-        <MDBNavbarToggler
-          @click="collapse1 = !collapse1"
-          target="#navbarSupportedContent"
-        ></MDBNavbarToggler>
-        <MDBCollapse v-model="collapse1" id="navbarSupportedContent">
+        <MDBNavbarToggler @click="collapse1 = !collapse1" target="#my-navbar"></MDBNavbarToggler>
+        <MDBCollapse v-model="collapse1" id="my-navbar">
           <MDBNavbarNav right class="mb-2 mb-lg-0">
-            <MDBNavbarItem to="/"> Home </MDBNavbarItem>
-            <MDBNavbarItem to="about"> About </MDBNavbarItem>
-            <MDBNavbarItem to="projects"> Projects </MDBNavbarItem>
-            <MDBNavbarItem to="photos"> Photos </MDBNavbarItem>
-            <MDBNavbarItem to="contact"> Contact Me </MDBNavbarItem>
+            <MDBNavbarItem to="/" @click="collapse1 = !collapse1"> Home </MDBNavbarItem>
+            <MDBNavbarItem to="about" @click="collapse1 = !collapse1"> About </MDBNavbarItem>
+            <MDBNavbarItem to="projects" @click="collapse1 = !collapse1"> Projects </MDBNavbarItem>
+            <MDBNavbarItem to="photos" @click="collapse1 = !collapse1"> Photos </MDBNavbarItem>
+            <MDBNavbarItem to="contact" @click="collapse1 = !collapse1"> Contact Me </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>
       </MDBNavbar>

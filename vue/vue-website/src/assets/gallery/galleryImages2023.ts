@@ -14,15 +14,945 @@ export const galleryImages2023 = [
       country: 'türkiye',
       ancient: 'ancient'
     },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84Yzv6aCugbXyjIIqF2eljcsgLzISZfwKx8UagXEWtL4y2dlkX1u0tOyTzj9OY5IMQWrVGXgiAuDMd2ckUI0Oby81aNaEH2uPltMkyE4fPGK1QGUko=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'West Theatre in Laodicea.',
+    caption: '<h4>West Theatre in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'mSkKFYKgd3dzh3eneGh3h0SfDwWF'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84zJ1M3jTwxQqf9Y6F4m7ToI30syPw4pi0VEzfFddlmHC98TFZ5Jy3xy-T5VnQrqzSX-K1vAzKA5Vn7qeCt7LBKppFnevjmaGvk2kqDogzLo6bSfU0=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'North Agora in Laodicea.',
+    caption: '<h4>North Agora in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XaYJjRJ1eG54CIdniH1HaIdweQiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87lzz16j_tzL7lovrHSP1psFkYYePEpdBE3picC_n0Y6N-fAp194Q-usUSw0GGHLy3tmzZJpZw0HFzLm8TSzvhNxaws0LEEzeFoECsgsxdbnYSR55U=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Ancient wall in Laodicea.',
+    caption: '<h4>Ancient wall in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'IVsGLQT0l0uHR3q2hYV3mCl/19Bp'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV847GNxu3Gm6zjDZBhuBm4SyuMcCIhHGPqw_vAKOE_DUHGwF9Uoc5V1rUBly_RhKyQM52VL51PV30CWRvHSxPOz-NVaiZZpGs5Hdc0aS74K8iBymmBI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Portico in Laodicea.',
+    caption: '<h4>Portico in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XrYFXYpLaYdQeHlxiIiHd4dwagjH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85HBg-MnS2BdnR6UYmrN2Bt6S9Tzwqyur-lIGgVxxZnzKq5qei0cRp5HwwG8Xse6hdkBTYUJxYLRAHbIU-z3TGOwWuM5CN2MkXXQQNz1JcL3qIhlzc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape in Laodicea.',
+    caption: '<h4>Landscape in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'HacJlZJ3eHitd3hwiEh3fHeAZwh4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84XrsZTbGCnbhevkcp15M6WervicdRsxgcXvvwL0k7OaoyBwg8nygIdl5AEEEXfvpqaV6UWbTEITnd5vWOK8W8-zW3RzkcxwGpOFgHdZXQ6Ou34UJA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Early church ruins in Laodicea.',
+    caption: '<h4>Early church ruins in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'V+cJXYyHiIeLd4dfh0iYdJdwcwk3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87Hg0fAgQ-voK4mVPTRlhKeB3yy_5d7BJlChUmR4V-kWk7uL_WFbykOotLdz0HDTqZDRia1nhBFCEWv3FrQTL8E8TuRefooYOfa9xv5_DeWOMnEgw8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Early church ruins in Laodicea.',
+    caption: '<h4>Early church ruins in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: '1tYJbY6IiHdvhodteAiKdIhwhAhH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85FJ1drauZcBeHegcdNeCZ7I-UAdALH-cJKSIwPvbnmLUlYZO_3Jvio26YltRiXz2Wb4u72M_Zu3bnH8QFBI4H-GFcM0BlpKCp2IxX3QwX4fRnOV34=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Portico in Laodicea.',
+    caption: '<h4>Portico in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2qUJbQyGeYBnaHiIhohnh4eAbAjo'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86orQztRTsB9iSF9zRk8-zgm2rhXIUj0OkpceX_uGK35mUSLtoCbVLviQAKoRa6PaPSihNKzBt5Qr3Ex5ASYcm3Y2uPwr7-Ud206vuULnbV8mRCgBE=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'North Agora in Laodicea.',
+    caption: '<h4>North Agora in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'mpUFbY51iIigeHdih9iJdHeAewfY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84yg2z-mtOZZDJ9Q5cgqJ27F7rJf_qZMYcXNFdF3SvihNQLlpnlRPmfupjRWd43Gugy4CxILJKNPhCmgKdXVu6-4gmsVoTv3oFXSB37e0_d2HW6HJ4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Syria Street in Laodicea.',
+    caption: '<h4>Syria Street in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'm5UFhZI7d4c6i3iAhXeaXIhwiQio'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87hSaYn7wwJNgzs3l2opMSEloEqVc2xnKSDsbF47gZVPEjwq2hWpcdv_g5wtmoMYYGGOmt4nt-trNz4lipZGGUHQt40p0dY0PPsE81aX-jpnHgtLVA=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Central Propylon in Laodicea.',
+    caption: '<h4>Central Propylon in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'lhgGNQb3vHxlJUR2qXvHxygwcBID'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87y0t1BxuPbVEaXjtyxGl5dLG79iX7DZ8lYU3PnBmlIwJ2YIHaIP-3rTRm79eJHmspitrsHEVq0P5S6RMCxaV5dxWSf8ZCbEWw6eQY3l5EusCoH6CI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Central Propylon in Laodicea.',
+    caption: '<h4>Central Propylon in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GNcFXYynfDGQRbiGmFeWeVeQeAWJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85ee_JhPVGCRRS9Y8_VADGeh3Swh15e0p9BSHYZXdomoPytAnLPXYGnD-0RWCvRpfXS2Fi4tVpTx1sOzP-vKHKGO4Yc-pSh1gDQWWVry8FUEMJhIuU=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laodicea ruins.',
+    caption: '<h4>Laodicea ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XKYFfZJQdFnJmGdziUl3fJdweAl3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87_TzOto_bIpo1KlVEetD7M3jRI--UBzZRsAJhH0gRmkdKDCvqBbRB24XiHtT6OoUj5PNyFsVyvlCG5wusJg_9WnKVb1T4GPZP0pKjvJDVaR9_DyGk=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Laodicea ruins.',
+    caption: '<h4>Laodicea ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'W7YJhQ6JeJuHB4dnaHqIaHdweAh3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86VWmnV_vbUmE-RfuNoPciwhqmyblSxBNFuz4aIdHYPbCaxoymEB_iKzA3fW0LmU_YkdCGNv91Ck8mSRUWeh6hagOvu0ZWt4U2pme5xY3YOIm_O3D0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laodicea ruins.',
+    caption: '<h4>Laodicea ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GpYFhZJ6eIaZeIhwiFd4fndweQeX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV8535dXWAGZn2Kr38aivxDXjxr59fs1NBBQ9trkAx3e-CUyKS6A5VPC3kkyqKnlsNchi2fx6mbq15Jftfktkgh6OJTUsoKnbiIWDBr94xuCA-RhucBA=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laodicea ruins.',
+    caption: '<h4>Laodicea ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: '3JUJfZCIiWeud4eAZ4eGm4hwiQiX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87qFSNDaBeKQwfM8gjnTAnsSAExE7fY76e7rBzKerKEkYswnIsfpAipSa_RSXjm0TtfS_KnkIp7apvGx2IHDNEvEgtWRcuNNEWD-PsWhb2B_XtjKGY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laodicea ruins.',
+    caption: '<h4>Laodicea ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'mbYFfZJ6d5dfl4lkaGaJgodwdghn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87Y2fYTC3GbUfqhJd2VZDCylm7Uimu857V0MabGgARCg_CxpR2Od3dJN5e4KAWiDVAV4fGP9jSQtowe8hTjwvjxokbh-ewJMTbWtq84-55GGUX7Snc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laodicea ruins.',
+    caption: '<h4>Laodicea ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XKYFhZJ7d4iaiIiAdkeGn4dweAiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87Bul8i6mtKsk3dcJ0BhbpIQ9mYPP--A5QOHY9ZKmlat9iQjHxzhYRPbhbcZjK-qEhHK_6d0JPVszKtRmLrth_DvV4u6f6Rx6YydR8D4CvXGdxqFBw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Turtle in Laodicea.',
+    caption: '<h4>Turtle in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: '4RkGDYKAiHeHd2cBhreGQh+EPMhf'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87QytZtw9gPPjz4yVZxYAO_JPhONhwej-qlw7_IoNlxuQ0o_hzxo8cIjeji0nF8C9tcrrnl206p52Tr4gij88L68FpOo_CyVFD9Xo6yROWhD8UIvH0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'North Agora in Laodicea.',
+    caption: '<h4>North Agora in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: '26UJlZJ3iIiJd3eAeJd3iodweQiX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85D9tKW7_hcIS2jFCNiTwxafCSL0YunnAFeoy1eKDcGpsRJXGr53gKEyg_BR5aQnDF55-0sa8unZwexzvseXZA7uVwTEThXGY2m6kAFyNTaTTiqvNg=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laodicea underground ruins.',
+    caption: '<h4>Laodicea underground ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XRkKHYJJm5iEh4ivh6h4iI6hzxf7'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86SVpeBlLerA0ha3BEGUg89LdZv_PP7LupbronMASqYKWF3fXefkNBD55o1VkIikyKE62GCnj8QkFneCR72Qthea2yq80PYCN5fz_NnVaZbp0WCfFk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laodicea ruins.',
+    caption: '<h4>Laodicea ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'FfgNBYBYd3iKh3dwiIh4hrRxsOT4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84aXHJXjmF9LeOIorxvmA_MGoNg0B93za4rzIdvuiJyN7ilc9_nAy4OzGxyzDtFvkIB0lN9-_lA3Xxx0Sk46OXVQ5oOXt5k9PDagEP2LCqFpq4yP5Q=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Columns in Laodicea.',
+    caption: '<h4>Columns in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'FPgJBYA4V3eWeHdwiIh4h1+TCspW'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85HImhEHl99CN54qLgFqfCRg3auvMHwSEtNxd3Y2aMIPSFa2iXc42x2FhDpHWrP23OD0hv4CAdcgVGJGoJcvC9nseoIJPQYTW34Q28UCN4BV9cmYVo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Temple of Zeus in Laodicea.',
+    caption: '<h4>Temple of Zeus in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'FPgJBYAHeHeDeodzh4h4dheAif5n'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87ajZ8heAX2fyPBs-ym7GrFy9oMvAkjl_jy_eKK-z7l11ao3r4yWSTfQOzEgOS7Y9Qq-3YceKLsy6z8xrtnXPQEr__KkeNewG3KAmHzfjVt_88WMSk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laodicea ruins.',
+    caption: '<h4>Laodicea ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: '3LYJfZJ2eIith3h2hwiHi4eAdghn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84-N0HHgn85l2px6GeoBJblUklhCJQqr64Ql90bH93m-zpC9fQ_WzbSSaNP2nBZSzkJtlFQE_bK3oiuQ3p1LwGhDouDm3IcvMFDsGp1nGZdgBLLQdQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'People walking in Laodicea.',
+    caption: '<h4>RevivEE 3.0 team in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XPgJTYxmloiciWZfh1iIh4aAcggn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87Zc3jN73uoqGvO4SF0qX7d2lQMF0r7uLGkBlUKLrFyxyyP2tqmw3Jl_MBjBaYmwF_gBDaoQde_tbhkkED7Nqprc1j_C-_BIhEPCzirZ0sNp0M1Zn8=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Syria Street in Laodicea.',
+    caption: '<h4>Syria Street in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'F/gJBQAnaJd5B3d3d4iIZxiAdP63'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84iiO0oktVlh786802FighBAgABjg0Ed08nhz_NBOcpBNE1-fYiuS9-BdepggPrr5l9fbX7194uNW6O-6MmfrMkYI3cwyEbv6Jzd57Vo4FWw2J42bw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Syria Street in Laodicea.',
+    caption: '<h4>Syria Street in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'F/gJBYAXeHeqeIdwd1iGiBqCUN73'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86N692TFuN3AAAuVyVzIRE2GztXsvygYUlvVToZXBx1DQN9BEW8AMfda4dw9mvUaH4-1JK6tbxOvc0l2Ifm87jk1zEhjN7vschAlGSkdrayMyPrZuQ=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Syria Street in Laodicea.',
+    caption: '<h4>Syria Street in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GfgJBQAYaJd5CHc3h4t4WBpzUM74'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84_3eUDjAbwiqCeOCSTedCDoyJpmOYEYKjmcyPFCS2tsFL1PLUsNnihv5n6lq7A0bOHJl-XyamCqGBwEX6howXq_qeVPObGwMVPclgomtLMfOxA6H0=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Syria Street in Laodicea.',
+    caption: '<h4>Syria Street in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GPgJBQApZomICHdHh4toaDp1UKz4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85nLRD5Cyh-mxzkxjZnjeqO_Sy5S20HswM0hQNMXZdH4EEypThJErMfk6zzY5qMXwhxfOMBzsjvUE8XSH3CrShg3dJ445E-J9bmQNkVDPNdjYxKw7o=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Syria Street in Laodicea.',
+    caption: '<h4>Syria Street in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WrYFjZIFd2e6fHaTqSpWf4eAeAiI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84PanIIKChY3KB3oyoYV9NhNN3ceoJd7h0WM1Uo8guXoWxpYzhp6Mug_dgC6oidhj3itllH0v1kgCSSBbImsLIYQTLI2__Gc0lxeMwOstHMPkVab1I=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Laodicea.',
+    caption: '<h4>Cat in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'JzoCFYLFZIVItJluggmpaBaHUHAH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85h5yFmDlsrcOahfmjJPSQhQkuZLCR1lSzYdL0OL3i7rxkSCj5dDegaoO7wQvfrk1xS9WY81C5Un6bROfyMcqFZfpSx840JHW-ev2uI9O2C4zmK5fE=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Laodicea.',
+    caption: '<h4>Cat in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: '3zkGFYLAnouzZodTpbqpjwKSMDA4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84SwwEU2d41iFdRqER-a9b6nCZJYnObBfHrBced9KNKcmFvNNvrKE_1NAeYCFiui-87gdCi_JqWV_QkqQRR9efyrDojZUXtCwd1WVYORLkTIOfABt4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Laodicea ruins.',
+    caption: '<h4>Laodicea ruins.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2bYFjZJgiYipdpm5i0aHe4mAlwl4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Doe2as2dnLHfvsx_06k9nZppNdTA9k3TET-JrrX0K8Q0e4h7ymcdzlcaRQANALl7A0s-OilAAMV_mM9OHa12qZukYZDfCJmL7TI9l29N1A6UHov8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Car in Laodicea.',
+    caption: '<h4>Car in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XqYJfZRHdnePiIiEiBh3fndweAiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85z6h-0F7PP-fqJPzxfoMEShfs0aSFXOpXRR_eH0PPuLZR8Ubroqo0AGFLQJxqR-CnPp_Vo4mUkj1x4vEaSZzAOYxu3Vk3YkUmjrzDrnDt-eriYgXU=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape near Laodicea.',
+    caption: '<h4>Landscape near Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: '3XQFZZCHeHh5d3eAeLd4d4eAegio'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87-AY1nz5-9Pvnfoa-H3NuvbRkKqf3fJCEr5D5zdoTA-YXwH2CHbnzw6bDM-DUUPvQR--dPBURSHl6njmNwqXT2aaybcuDN8YlAsR6yP8h17vtxvAo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Pamukkale travertines.',
+    caption: '<h4>Pamukkale travertines.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'YKYFdZIkZ2ZhaXiomQh5O4lwlwh4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87VQN9l2GL4oTgzk7Cx4Yj0xBz8vYkVTsy_Alj8hEBI_zp1FySYbhw3aI9jR7kA7wV-yG5UhM73RGBEnkP6DADg36zw6lWbSqaxIippnNM8VIIt5PM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape in Pamukkale.',
+    caption: '<h4>Landscape in Pamukkale.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '3KUFZZCFeIjmdohCiCiJn4ZwZwh3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84gjduKy01fr_Pq9_v7HrfpO-XLEEljHf8Q7ufyl7Cu0rX08dMmEciO8MoUqeWZhuT46wboVSonBmfp9Ay9Hs1yrB4Zw5eRL-6ifV_8uQoYV73ICbw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape in Hierapolis.',
+    caption: '<h4>Landscape in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'F/gNBYBZeHiJh3dwd3iHiWuHQIn3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85ILLmSxnfG5fz1LjZST7Q0CuumeC_fVEs3FZ7Wg726uY_BgoGSxlUwMj6BdCHEMXY2hSK_KkubfUCC2VMHCul-GeD0oAIkCFM9JctoNN7A9riHNBI=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'People at Apostle Philip Martyrion in Hierapolis.',
+    caption:
+      '<h4>RevivEE 3.0 team at Apostle Philip Martyrion in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '3LUJjZB3aYifeHlwZzd3jYeAeAdo'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85eVHJmluf8ZUadRYrKlumOUOIrijBzUCy03LA9HsbqX14B9VHYzJl-IS6PwC-XQ2MyJgX4uotqyE3pos-wVZDF31U8O0Bs2-0EtnVlCnBrhEGesKY=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Apostle Philip Martyrion in Hierapolis.',
+    caption:
+      '<h4>Apostle Philip Martyrion in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'mCkKFQL2u3t2lmnFZ3hXePqbz9/3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85d3WvlkqH4dsGiPl0Hdzn3FccBdhYuA6Jf6WJJmcSCVEqPc4I5OqY3HDF_djSFQGGjMIf5VC8Ma6K7tBKeAlmo63HyxS9kiF5u1n_hOF4fID2WpN4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Apostle Philip Martyrion in Hierapolis.',
+    caption:
+      '<h4>Apostle Philip Martyrion in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WMcFjZCZdnmPl4h6hmiXcIdwdQg4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85GJJFD8yngxiumh6E4SXD-biQrNztodkd93sXXQgVrEWtFobbDt2pxCSqO1NhsI1EkeppVmvX3SJ-HfPySbHnRkOZrYMX5lGv5EoOeAuSmKW9p86k=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Apostle Philip Martyrion in Hierapolis.',
+    caption:
+      '<h4>Apostle Philip Martyrion in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'VacJjYxGd3aPd3eKeRiYiIeAhgkY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85Do3HRlIcmvfh7xDWgZESvmu-JTY-3Ww0t3FISY3OMCiJqq7Wto_GiR5I39wZmwg1uncF48TfQZhiPmaeYsAMll-quwlr_1Gni3RP2KoCAI5vM-wY=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Apostle Philip Martyrion in Hierapolis.',
+    caption:
+      '<h4>Apostle Philip Martyrion in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GqYFlRBll5p3BahZh3mVSIeAiQmX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85gJgmBYryMGnxjNrLbsGlgR4NEY92ngHDA5srNUPPKnAH-V9EDzdS-8pzBOEjk2UmI2n-8jvVXzDCL12riRshH3Oc0WdEa5pnXBQ9v9W6RrXTiens=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Apostle Philip Martyrion in Hierapolis.',
+    caption:
+      '<h4>Apostle Philip Martyrion in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2sYFhZA9eYZ4eXdoiAiGpYeAdghn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV86RncJR8CzRprS_CMKxPAYhgpnbV0RELKzFuBCDFNzC87HVyhS-bFDJrnshDof-sZhEHAOfva_wMfi-ThCBqnAEZ0you6P98wS8QpZgb06r2MdZMuo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: "Apostle Philip's tomb in Hierapolis.",
+    caption:
+      "<h4>Apostle Philip's tomb in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>",
+    thumbhash: 'nAgGRYpKF7hwiItqeLild3qgkgYZ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85ouXI42NJLlXaG99-nAqwB2Ppj-gac3Wn2ftFNQfWFb4gk__4lr4Bb-mpAx_uHFaoGUajDqVX4bQdn43PvXwD7Vxl82Q3Vdo-FPsC-vtezdrPq3Zo=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: "Columns near Apostle Philip's tomb in Hierapolis.",
+    caption:
+      "<h4>Columns near Apostle Philip's tomb in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>",
+    thumbhash: 'mtcFZYp1hmcveHevlmibkniAgwg3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87x4Uh4oqXIs3c1bsRwY5A9_Rt6aUgMhluU8J0Gw-8F1at6lmfgr80xPzilEa2_lo8pZUtAbzjCkuXUM_ZwfR0SEu-1q04wcQmV66625pr95tvTrds=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Turtle in Hierapolis.',
+    caption: '<h4>Turtle in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'kOkBDYIEjVFml0mFW2iLh66gCaJ2'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV85brL21nv88PRXfKJYoOBZbmhZL4y9EB56udUz6QAPN7ETZAed1q3No1w_ypG-Xw0VcT8rDzlFnue4g2JZbESbxXiA8P-Z57oRF1W_g32Kt8SX8PDY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape in Hierapolis.',
+    caption: '<h4>Landscape in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'W6YJnY52eHicd3hweHd3iYeAdwho'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87Tx8H1mu3Zmk5Mpn2c4r0Q0dKDBApkZ8IZ5WyIFKvURB7LiQ_XgwypntX8RuVTwCE02fDd5jfqMKRjaqe451SKNRgDUPzf-yGHPr50wBk36-NaH08=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Apostle Philip Martyrion in the distance in Hierapolis.',
+    caption:
+      '<h4>Apostle Philip Martyrion in the distance in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2pYJlQ54iHp4CHdnd4qHWIhweAd3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV87-frSkT9sXFgoYLUe5TcKJEcmGTy6GZ4o1_0lvBEb3aK2uCGMQ8I5xkngvYNr3WONKjeLVsOCJAX3CIhENXVelkS-YwHwq7s9pffhC2lsBegmG00M=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Gravel road in Hierapolis.',
+    caption: '<h4>Gravel road in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2pUFpQ5phl2Zh2kHh4m4hohwiAd3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84G32HCoJZIW7Z5Y92NJ0YpNLlCnmDpb7lFMefdYdEIIkBWxrnnMFISQ9O_96mN6_3VUITK42S0WxllWzxx6Vv9cBi8O0z9eM_DH1g4nE1T6sd_iCs=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Apostle Philip Martyrion in the distance in Hierapolis.',
+    caption:
+      '<h4>Apostle Philip Martyrion in the distance in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'm5YJnQ5reFp4CHl4d4qIV3hweQiH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84VcA0keBShpT7tPf-kwFsydahaGyVLu9tb3jBE0osugQhZS8nksoe2E9fVIVBFqldE4NSpoZpcpRBcXgdoaGK5iOqYewud-jEfRKra5YSQazFX2Kw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Apostle Philip Martyrion in the distance in Hierapolis.',
+    caption:
+      '<h4>Apostle Philip Martyrion in the distance in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: '2rcJjY5ch3dfiYiFeDd3hnhwdQhH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/ABLVV84XKyf-Zl8HdkZ69x020Kqi_He7yu6F4jUyt_xa70e8moL9tfQJna0JaZ6mh-GGV1bEQaMbTRXSBy78EU4QqNFzmRAb2hqPwFtbTcqk8ZccJu7y6JE=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape in Hierapolis.',
+    caption: '<h4>Landscape in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XacJpYp4eHefiIiTiDd2aIhwdwg4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV86n7NgJnbqndqRpY_cpOd2GfKJgvq3Bys48U_1GCLTyDxNxfkHeJRC1CnLHLpD995u1qqMVwTANLS5pPmi9z6kdp5gXJYGEy4YN5FrQuGvoO92CsYA=w2400',
     classes: {
       linkClass: landscapeLinkClass,
       imageClass: landscapeImageClass,
       iconClass: landscapeIconClass
     },
-    alt: 'Saint Philippe Martyrion in the distance in Hierapolis.',
+    alt: 'Apostle Philip Martyrion in the distance in Hierapolis.',
     caption:
-      '<h4>Saint Philippe Martyrion in the distance in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+      '<h4>Apostle Philip Martyrion in the distance in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
     thumbhash: 'nbcFnY5be4ifWIk5lyaXdYdwZghH'
   },
   {
@@ -91,9 +1021,9 @@ export const galleryImages2023 = [
       imageClass: landscapeImageClass,
       iconClass: landscapeIconClass
     },
-    alt: 'Saint Philippe Martyrion in the distance in Hierapolis.',
+    alt: 'Apostle Philip Martyrion in the distance in Hierapolis.',
     caption:
-      '<h4>Saint Philippe Martyrion in the distance in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+      '<h4>Apostle Philip Martyrion in the distance in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
     thumbhash: '2bYFpY5feXh/eHdHdyiHoodwdgdn'
   },
   {
@@ -256,7 +1186,8 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient'
+      ancient: 'ancient',
+      portrait: 'portrait'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV87xlOyhiiXUK5UFAAJaagPSFJLZvQPfDJTOP_7YKgDTWsoBJZ1DMebuaMU9n2cEBlBkRJplh3Dfz1hd0gGLzxeglRj9ZCU3wTYD3L98mN0AnwG8yQE=w2400',
     classes: {
@@ -264,8 +1195,9 @@ export const galleryImages2023 = [
       imageClass: portraitImageClass,
       iconClass: portraitIconClass
     },
-    alt: 'Antique pools in Hierapolis.',
-    caption: '<h4>Antique pools in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    alt: 'People at the Antique pools in Hierapolis.',
+    caption:
+      '<h4>RevivEE 3.0 team at the Antique pools in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
     thumbhash: 'UPgJHQSHZ2+HJ2dnh5dHaI+pxagL'
   },
   {
@@ -273,7 +1205,8 @@ export const galleryImages2023 = [
       all: 'all',
       year: '2023',
       country: 'türkiye',
-      ancient: 'ancient'
+      ancient: 'ancient',
+      portrait: 'portrait'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV84IYwfpcEboLvNpELFBR83r94tBUG8bTujQOZYxONxskhoMzz10eGkuHMcvXuPMGgkaYHPA1FjDz60s323AjjvNegAF42lKqQUkXMO8eEp5kW5Xzxg=w2400',
     classes: {
@@ -281,8 +1214,9 @@ export const galleryImages2023 = [
       imageClass: portraitImageClass,
       iconClass: portraitIconClass
     },
-    alt: 'Antique pools in Hierapolis.',
-    caption: '<h4>Antique pools in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    alt: 'People at the Antique pools in Hierapolis.',
+    caption:
+      '<h4>RevivEE 3.0 team at the Antique pools in Hierapolis.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
     thumbhash: 'EfgJJQSHh2x2B4eHiZSIp4+Z+FdM'
   },
   {
@@ -737,7 +1671,7 @@ export const galleryImages2023 = [
       year: '2023',
       country: 'türkiye',
       ancient: 'ancient',
-      nature: 'nature'
+      portrait: 'portrait'
     },
     link: 'https://lh3.googleusercontent.com/pw/ABLVV86RKKWt_9Hee8hAP2yyO4JddYp3fEuBMzp2fXfRndfxKmlTqbAJaZ85Jyo408vaqMgudZkUNJXSoL5VMpV03Ho5DDzoDfyD3wN7qa8gTPrlydb8-QI=w2400',
     classes: {

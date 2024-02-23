@@ -13,7 +13,7 @@
           My Short Story
         </h1>
         <!-- First row -->
-        <div class="row mt-4 pt-4">
+        <div class="row mt-4">
           <!--First column-->
           <div class="col-lg-5 col-md-12 mb-4">
             <!--Image-->
@@ -74,7 +74,7 @@ const currentAge = getAge(dateString)
 <style scoped>
 /* Styling for Story section */
 .story-section {
-  height: 100vh;
+  height: 850px;
 }
 
 .container-fluid {
@@ -84,6 +84,10 @@ const currentAge = getAge(dateString)
 
 @media (min-width: 992px) {
   /* Styling for Story section */
+  .story-section {
+    height: 550px;
+  }
+
   .story-p {
     display: flex;
     justify-content: center;
