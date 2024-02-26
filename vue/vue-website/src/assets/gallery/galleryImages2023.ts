@@ -11,6 +11,931 @@ export const galleryImages2023 = [
     filters: {
       all: 'all',
       year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczP0EzWcQmNQ5P9FmoKqpP8WIjQpL0JGnmp7GrhPyLJqfYuGtRshMwl4WkHIZC1VXpLIGPlqDKshAz3LJWvUbYbP2slXmWWaBEbRMyUF1zITw3oQbV8=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Bonfire.',
+    caption: '<h4>Bonfire.</h4><p>Ungheni, Moldova (2023)</p>',
+    thumbhash: 'RxcGPQYW2H+GedlHmXmFZlmAhQR4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMR7ZkaYcYXlCDyUfeGBEbe4t0jiwDubJ1Z75FATgRVQolSXEaw95goNZLKKPzKT3ZBiXwtVUmBN2mPhgS3BeEDUdOsiw5KqtQWp-RJtfYNcX7acIM=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'xfYFLQJpea+XSYk4l2RodoVQCxiD'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczM2om1CfMK2cXq5hequEh4JRbCbJv3Q3XObkN3s3wvj8U7pKAIY2OZJZ_II-WSJhcwWXtcbfzZN3e4KeuYfwxE-MAkyOCziZY9cKVXBX6iSDcUy874=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'iBYGNQIwWn5qF6vWZ2lpaYqAOJRg'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczN0hevWBT8q_AcYloOHpmDyJSaLI1uop2BsICVHegAJqPNlFgeVxi4yVyk3Y6NI6xaHjsetSPBRnvfivpfY0lnDN3L-aYW3mvYTEbli1U5zlE_aa-w=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'xxYGHYIKbJaoWHaId5Z3h/mE+INc'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNa4S5ueWstbPNCVY9suU1I0vlncToMjps_FMzlgIXY_CNA_1hrOF2IRiwGi_DQD8iwgsM3Jrza2B1PKoxPzAfiFgPNY2QVwxzIUzLTHwQWvULA7Ig=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'RBcGDYI4m5aPhoeCWneIetpwX/RH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczN0lYBr8Dyi2XMWxoqwUyhRzq3vc4fi0oBRLrBGVVYh_6I_wyeRTgOyHgAiKuyspIKf2nvONO5-PgiL0JOs-ibRj2kcGG-w26FubtVrp1EuVFmL9vc=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'SQcGFQJNRI6ZJYfLSWiH94eARiB4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNzCyDZnaD7bdxNd6Pmi892qi1ZXHXAKhWkqzqj42Toj83lQucFYo_lLkkR7-Iv0zlEN1bxl7OFdjzxP0Vi3FjAnR9xTMpKgguGFlhC5p6-8EChl04=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'zOYFHQRzZyyQ+bVmZ3w3h2twtgdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczN_I-CyodNtjLGXffKmX2TBd6VYIKxg-BQZKigl8mrexrhBMeQ4m86LlWk4qZvFJmqABF2xV9a4iKiF_GO26Q_OQ6NCs9pUlnLq9CcOFW2J4TgYNiY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'DucFJYQEnpeXXYhoeZmnb/l1nz73'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczO9qSnybDma9hYCfQ5d0va93czJlwR7CsQXvXPKTMAvo2c_LssPm3yuAhDTmt9t54jRboxr56VNATuy0jqpYteMLdOy83-_vMSfF59MBpCBB1iP48E=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Guy posing.',
+    caption: '<h4>Frank.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'WygSJQR4aH93d3aIh4aJd3d/V/U2'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczP8e1JpnM2z9Wsq-4HVpq1C8gVgfXweJ_ga9DqCx4KG-8ebpUcRQ_P910uJs2vj1Up1B87h_gHXiQjqH4g8dfOFsFWf1FqLYII00UX7wTCAsPZRGXM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'D9YJRYgieqd/l2eMiFZ7h6uQpglp'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczP6zMrTT29mPg1tESwWFwRX8Rm16TMakaYYEVOiLbsC4T6zXb6YULl6ST1RUdFmRi48N35tYydiYxPhB60XQevIeDiuZ2qlCMnbx2qMifT-OKClm3g=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: '0uYJHQSEaoZo9bdHeotXmXNwKwao'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNOYlcL796qmOuuSVRzhD5Z_93pr_ETBxBWbKdkxUGlc78nWqZmKCgJU-MWT740M_-m8Fw3Eb8lJjtT9bZjGpausoa_nXQAzXrFWX-jN6tLKJCnoJ0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'jzgGFYgmMsm/qVaUh7mEhV+a89WJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMinaWrs7JN1WrhptcjfozjtqdgTY401pYsLd_O6XSxQ_3Dja9kbhRSQgfQP0JJ7T8zWVJ1tInwFWZU5Ecq-230L-XlAzwd3uMPf_WViDv4F1B8IpE=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Via Dacă live performance.',
+    caption: '<h4>Via Dacă live performance.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'kkkKNQZhd4+ZVXw4qoVoZ5N9QIYH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMTtpcYv-rEjza5qz4p9QHCuruNtvbYwtE4nhT382zLsGohdEpNNQjMKmyEb7eN5Pgw-NhwQXsHKmPFn_NmjRKPvy81OQRVV4xzyFjEUSP-UxDy5Dw=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Sunset.',
+    caption: '<h4>Sunset.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'hxgGJQSPjKd7B1RVInS6uXyYkEMJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPVTiUcZagkl4aZOUkAFYCNKDPZzVqUzPs99gk0IPB5KIFV0asJjfxwMQuurpdwM4QW4czutPXCFnn2QbvDuvk7uBPL-lbydqiyoxVSwpgUy_78FmA=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Evening sky.',
+    caption: '<h4>Evening sky.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'XToaTQhmd4+IZ4h4d3d3iHaPUrcI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPkfmqZNGq8hf3rlVzUs4zX_4lcrP9bwFpyeImiHGWqrQGWJ0FKnMFRv2g9eAlIZ3lk_2kBHX_YpaBuvQeNamA2rc17Xv2OCic_9o5X0k32nzlehRk=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'People taking photos.',
+    caption: '<h4>Picture time.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'k/gFNYrIiWnxiohGadJWlxAzAzWk'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPH5y6fOXLF5lpadZu8PjhWqc0V9wYW7Y5ErY4v3nPAPZtsgiQsEZaiEZ3VbzBKkC-wzj6dv4Q7GG_uNC4wz5JBJVq0k84_HPlyaohmB1c-ro_hn1k=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hotel villa at Chateau Vartely.',
+    caption: '<h4>Hotel villa at Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'VPkJNYIJepaIl4aLh8aIqYlg9hI/'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      architecture: 'architecture'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNkETphsEE6y16VTI5h51U0947UOG3L0oISsaa_kYdiS4IHjD66Gq_tl2utk6VzRdCqI0EQ_RP4znph0eo_mbmHxdAAljQTzefjw_lyb7WiPE7fxxQ=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Leafy building.',
+    caption: '<h4>Leafy building.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'ErcFXYyPmYimdXV5lXmHWlFwCEdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMTyXW8YX33poPwZU1MUYE3D6T4t7FDcUXf2wdEJbCeDnpjHhd0IUFWd8CSsYKaeJQAnMoN1Kwa_EL8wsrm6o7QR2-DjZDnTmpw2cNTK7hmyj-HqcM=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Barrels in Chateau Vartely.',
+    caption: '<h4>Barrels in Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'UHoKLQSEdnBot4aZiGaIiHdwaQd2'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPYqARShpaCD6RkmxIi5qBvOpIgKBiR6hc7bJYSG2ktPrQBP5mACG5pLwLAn22CiNgOpUPDM_7jHPnwufp50bSkD_GQaKlJG8KD2GPrqWfKJL1OzD0=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Barrels in Chateau Vartely.',
+    caption: '<h4>Barrels in Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'DkkGFQIZSHtH2JZ5d374yTFABxSF'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPbq0Qu3DEmMrM_r1zGGUUcl5ykYgxK6Sg8Kembt9PivWAJQJzsD_BR-3P0LlQ7vdoEtvyGaqZJvLZ4BzcYl46ccOxNQODDYnwhT1xSiFMIwqpQAq0=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Barrels in Chateau Vartely.',
+    caption: '<h4>Barrels in Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'jkkGFQLAVmGJqGg3mItmuFhQSAh0'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMCMMARUVdrYf0_85UAPM3c_4MG_dRJR3Rpc0FXCVleqkTLnerZjdIzQ1ptz6i4qwVWTSnrB7d9_nw1svydcbwjWOXV46QHvmx3ulVlOyiyFxFmCTk=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Barrels in Chateau Vartely.',
+    caption: '<h4>Barrels in Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'TUkGDQJFVoyi+IimZoZpZ2ewWyb8'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPr2mO79Fw_HLfw3yg_aOWcFQvmNUsDa08UbMmGXSUs_Ue6OxH9YWyhDXN4coo96XtRNmqF9zjnEE5WCq2BfDOzVx2GfS6_CqxQNXUKWSdruAo6rmk=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Barrels in Chateau Vartely.',
+    caption: '<h4>Barrels in Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'jlkGDQIpdX2T+GtkaZh6VmgYf5by'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczOMgp1tphhtczWTKuZmIXttB5cHWslipRA83q8AxLdtaFLIlv38E93lNipQRb-iYSlP3xY5HhYMYrnDB7pXq6qouAVX2SrcVQvBiSpjsvXFH8EOA5Q=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Tanks in Chateau Vartely.',
+    caption: '<h4>Tanks in Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: '1ccJDQJmSnapCIp1h3qXlp+ue9j5'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      architecture: 'architecture'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPQ1rhhiPBINDkkxaQGym8uoZxRE0ZLajKSJ5B70FxwFBdilVVr-wKwlNit1__FVAkv5cEpBlzsc6-uw0S-M3adXwLWd5psibA3rypO4QrnEvzSkIg=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Leafy wall.',
+    caption: '<h4>Leafy wall.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: '1NgFVQrQVX2jqojnhquEOoqAQgc7'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMT6FGJMuCdoJgnnBS1qEM1MhwLKUP1Dp-i-BOfxAQCgZcmC8dU4no9LJBNOPCrljjeJdnKllbvo8BUOB7EbC_u66Xc_FofajOSqZNeOVA1zGvzLq8=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Hotel villas at Chateau Vartely.',
+    caption: '<h4>Hotel villas at Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'maYJdRRpd3+JGHdIeI5nV4dwhwdn'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMNV9tmYWc_kp3ns7LgDAju8Z1KkcsFdNHNtXToZg6ORLuPDqpzl6K8VZtNkybm7qaLVouSdTYKnRd4tCnvPnYpTID8zt99m7qZ9HqH8-lWnOA8ux0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Hotel villas at Chateau Vartely.',
+    caption: '<h4>Hotel villas at Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'mqYNbZSGd4eOh4iAiIiHiohwhghY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPYztYN0iTuoOjI0tQDbgogVIpUOwQwjh7AkiYnK5IsCktP3tZzgTyhB_ZCTscIs-nkcXviWGw4jTijzF8OzE4YQU_G7BjKKcP5IjDE3KPvIKqWO3M=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Walkway to Chateau Vartely.',
+    caption: '<h4>Walkway to Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'jvgFHYR5l3qPiJl9iHSGfJB3eAZ2'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPJBJ6I5f04oOuQI8nXoBagdm8kWLwdSNj5UiyTtF4FLdcqYBxXEzLlt_a8bCZZdYeeNtyScbeY4J81fg-RFxDUIlZD4y4UmKxprrBP73UzFkB-Ny8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Chateau Vartely.',
+    caption: '<h4>Chateau Vartely.</h4><p>Orhei, Moldova (2023)</p>',
+    thumbhash: 'EvgJBYBZVnichndwhTmHdVyHMIr3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMumj3zpGHadkjRvkdgAO_a5tdxGKOWrCPIFekcT-xW83_xqpeZpvAqc8s6dci6cVC4NI5DB_1dQf7EQwyl80891ZKnpPilP_gDXOnwyvhK4wjTqGc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Abby and Lena.',
+    caption: '<h4>Abby and Lena.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'lOkFJYY8fNPgW5hZdIiHh/eqdnBY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMqBsblv7mqlSes6kZO6t1mrWiFNyM72Fq678NMq5tVPTeOEt9fZrIZxxdIV4Slix8t1YyrpdPG8iotsG5sUqmfvY22EsXxCI0IH-k8ISVdfnezDeI=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Abby and Lena.',
+    caption: '<h4>Abby and Lena.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'VNkFHQIJeOA32ZhqVXuYl/mvInCJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczOvu4IQ-rM0LQE1fweNbf94xpdDIaMgitBFSJuZyNcxBMeF2LT3gnrfphm1oY8cT5uqbbhV1mkujC8-75vTisjKFX-eWGkZPAuWpGkLI9NW64_tXCw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Picnic at Parcul Valea Morilor.',
+    caption: '<h4>Picnic at Parcul Valea Morilor.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'lekFHYg9V4ZzSWqPplN2mkufVge3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMlKMVlrSPRqCJdRHUzOX6OwCIZ1D4faWe-rwtnWA8jObT1GMBqaLsIVs3Lq9c7u790IvxVfeRGDUZeYndozGt2PiEkdkgSMQTTDVlHxqyb-qfvyK4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Picnic at Parcul Valea Morilor.',
+    caption: '<h4>Picnic at Parcul Valea Morilor.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'lPgFHYRqXExAZ1a4eWqVlmWPhQdm'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNxwWQRxVoQnzg0ZtVXhlVsdObpC9gFiD4OWYLWTQ2uyO7Yx9WiSvJTVtk0deII6MaSyNJ9gt0oXkHapCXY8ZLfLBAPyvrihrGNXIj6cKret3LOU10=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Dasha, Nadia, and Anya.',
+    caption: '<h4>Dasha, Nadia, and Anya.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'WfkJNYybR0Zwh4mMeJh5doW/aQaJ'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNr_I4vwN9t037PEPznlfwdBh1e69kmubTnrjRl84SDyybrb_HE8AvGMIYw4Twxwyk0auriKHRGgYJ-FRumOLQkvF6rGuaDel6niR7sZX_KSROcDf4=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Dasha and cheese.',
+    caption: '<h4>Dasha and cheese.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'V9kFPYgFp4WSbbWLp2lkhptvNwdH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczP2JLO8U4n8vBm-NDeO5i4cv8SYqgXv22uBKFiEyC32PgbBYvn6sGzY6BQ5WE0wj67F1WZ74vOv05gE6sY-6QJ65H6kpQjIqsruOD8SGa7K6SeqfXc=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Dasha and cheese.',
+    caption: '<h4>Dasha and cheese.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'WNkFPYhCpWawiJR8qnk0hZpvVgRX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'moldova',
+      portrait: 'portrait'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczM6ycX-d30wy8_Mk6-AlcSv9aI2Df4F0lMXQDX6D5wGnVoF-XGMDofmR1dv4W8R0rg1EbkR_DBXhMVNr7H4oOOhxGaHQ32cb47qTRM2hSG1Y7i6xE8=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Picnic at Parcul Valea Morilor.',
+    caption: '<h4>Picnic at Parcul Valea Morilor.</h4><p>Chișinău, Moldova (2023)</p>',
+    thumbhash: 'FNkFNYYHt6iFnYaHlrhnhJWPRQR5'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNRFy9SLuGkMJr2upGcPdgvj8gyx69cXq1jttCnI38XBpEQIQSjm0Ir2zWyHmEJREKaE8XzET0eFGru6Fqr2AlB-SUdd9COXlrOexIQOTYbn3pYIwc=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Stroll downtown.',
+    caption: '<h4>Stroll downtown.</h4><p>Konak, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'G/gNFQQ4iX92dodniIuGd/KDRC+Y'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNyamfWc12HtO0g2ARo0Hx6OuZZpFLLE2TpIgXZzfvaKnVfAuehqhcnf9pjkEUBdH2TCIIw41x0kSuG92G-_9QI2XBSIjlhyfzDtUGBcYf5WKtFVPw=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Stroll downtown.',
+    caption: '<h4>Stroll downtown.</h4><p>Konak, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'mMYFZQ6E9cqJFWZ6iU0HyrmQhgt4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczO9qEDVmhbO54D4aNn3jhuFdUeLGLEgdX4JSzt3WOzVwLdDwTAgttIA029p0hexCE32oc6bBp_YJpHUdMMkS3KzILkpdY0mXuLUdxYtb7czWJl1aUg=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Stroll downtown.',
+    caption: '<h4>Stroll downtown.</h4><p>Konak, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'oOcNPQiJaI+ISJdYh3t3iJiAdgpY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczOTPodxXYlVJob0DAg_pmsSb5c4n-LYQJjJdV8AoLIkQHs1IJlK0lW5_dt1A3zxcZF9vpPBBXosq1KDRPKSp5f5GtF5JDXttonMOcTWfBl1tD2uKew=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Scenic view.',
+    caption: '<h4>Scenic view.</h4><p>Konak, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'W7YFXYySdnhgeoihdzh6nYZwWgi2'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPZXx7YJq8HG1ThD-khL-n1bBAL1VuF1nAiNE-SVb4I4UUpnCJxPWRYB57k4YZZ5GuYCxzh4kdTQ8CdX8oDcjGron6HhC5dELQONsexC_XMcGx1GRM=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ferry.',
+    caption: '<h4>Ferry.</h4><p>Konak, İzmir, Türkiye (2023)</p>',
+    thumbhash: '3sYFTYqIl3h5eIlxiAiIi4iAiAiI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      other: 'other',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNEURHxTZsl87DLA691q3o-bx3ZEVu3Hxm501t9wnanBsvea7AylwzhRRh1ef_Txxjm-LiUxq91I-CyzTofmrIgh1hQlib9HzKD86tTbmXyQ-AIt8Q=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Ferry.',
+    caption: '<h4>Ferry.</h4><p>Konak, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'HdcJXYx6iHeViHh2eQh3eYiAlwiI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNaKn_yo18vCEb1vEp9IgfCRieaTUq3xpTzweHxRtlrfvdD9UyFGU9wkhvqLfpNMbJEQcf8UB0d6lhYfCCNcVeVrztfXQZjEhcQuBOsgzxM8Pv916E=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Scenic view.',
+    caption: '<h4>Scenic view.</h4><p>Konak, İzmir, Türkiye (2023)</p>',
+    thumbhash: '5PcJRQiGeHqIB4c4d4ZnWHdwdQhH'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNkEcqASgE3yaroknrKJUYBrirOX-AOfR-2lS7UvQW1Lrn0dW7pUCW4oCTKV2q0zK91gs30BCBg7Hmsf36cCmP2Ju6nFXHjEpkd9s9E7T-oEAV8Tug=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Scenic view.',
+    caption: '<h4>Scenic view.</h4><p>Konak, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'nMYFTYqSepcQiYeQdyZ+mYRgOQi2'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      street: 'street'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczM-NuzG1RlDD9SilAM4mShGD40ySnlvFF8aOZQSUdsZwGGGREiBsvDTZWITMoqdhdDUGQkeUMY_ovH0fsJrBlY8x84v6dotTrSdleL8X8eqogrIe4I=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cumhuriyet Ağacı Heykeli.',
+    caption: '<h4>Cumhuriyet Ağacı Heykeli.</h4><p>Konak, İzmir, Türkiye (2023)</p>',
+    thumbhash: 'oecFPYhWmZWLhllipwZ2aWZwZgZY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMQL4hyPN7iXhXyTY3mmAiPkP960a2ObhKTc2zBQP0GiuJgI4Fe1xbEbTclqP6QK1LsPFKOcc_OIo_AsGnn5yTJi4PPulu7ljm1odjSebmHqKjkBhw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Onyx stone presentation.',
+    caption: '<h4>Onyx stone presentation.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'mUoKLYK/mxeMc3qBd2iWds9180Ym'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczOtqSn8-zwgU-ogai9tHHpbj6KLhHsd3TtXxQIKd2BZSPcrXI3pzYY3844qT0GR8Qki3KhqzmThjlL1d69LtyZnkLYFG-NNukoD8jzao2ArMZxCLKo=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Scenic view.',
+    caption: '<h4>Scenic view.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'GNcFZQ6WeJF3CIdIaH6YR4iAiQiY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPlVUKWZvFRWcoFa_PC5L11lvrlopzQbDmPnz_D-YAex7kK61tII6LfUzeuhHHNe40DQFOUNoi53BBDKw_dvNFmLzaSLkFNaYSRMJHBJHFQGb1oF3Q=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Scenic view.',
+    caption: '<h4>Scenic view.</h4><p>Pamukkale, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'V+cFXY5laGeKaXhiiAeYmYdweAiX'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      animal: 'animal'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPqrIVdwEwnKVc_vLRTLnjK4bnP8gw5R5MFSFlEnxaMztoP0cUnL9JCKqe--5Va7ReKBt9GNvsHz-TNj5wU3hkrdsnlafyqNbZA4vPc31j4L0qGN7k=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Cat in Laodicea.',
+    caption: '<h4>Cat in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XkoGDYBza3mrdYarpgiYKXBFOAZ0'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMPetcW4CzIE4h9ALEOkDbtHq6fXfAFoA_e2aVK24uEYhdIyJHJ2KBrr3eZ35IHXx7o6QFQon7iVjmrsysD3Z_bEbRyYiDwpcCNG7vxMNplqcHyijY=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Church of Laodicea.',
+    caption: '<h4>Church of Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'XCkGFYRWZnZ6d4eRl5h2b4+gzQn5'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMqDkyb317ybVtne88qZS1MyBrkOXTL9uqr7friCDrePy6mFQdHgdr5LT7M1cqWMWmtBE9UFokL_RM-g_4eXkTKzhPgJFMmCMwPrwOlObRwtE7uo2E=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Church of Laodicea.',
+    caption: '<h4>Church of Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'HikKFYR4mFdnd3eQiEaIeFOGX0f4'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczODx7GxTNdD-1dyD0I6nxWO28m1-760YhL8ta3wW4sPyntZ2JnGrD4WR_DaoonOjucmaj6HN7eHDzi-h_BeLdNQE9JsPcnnkrfMkKL0DVr_QyXOM30=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Landscape in Laodicea.',
+    caption: '<h4>Landscape in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'WscFlZJmd4edeIhgiCd4ineAdwdo'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      country: 'türkiye',
+      ancient: 'ancient'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczMktpkFGuWCO1KS0bRSs9e6JNzzMMFqIUhviFv7NdQY3JV3ibLP73UEhyJhR_kpds-SauMJFnqKSch39PY2wUEEyaLGO-r103MD89gFpuQeUT5YIlw=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'North Theatre in Laodicea.',
+    caption: '<h4>North Theatre in Laodicea.</h4><p>Eskihisar, Denizli, Türkiye (2023)</p>',
+    thumbhash: 'lxoGJYBdd3hvlohsd8h3bI1y0OBv'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
       country: 'türkiye',
       ancient: 'ancient'
     },
