@@ -9,7 +9,7 @@
       <swiper-container
         :loop="true"
         :slides-per-view="4"
-        :autoplay-delay="3000"
+        :autoplay-delay="2000"
         v-motion-slide-visible-once-bottom
       >
         <swiper-slide>

@@ -5,14 +5,17 @@
     <header>
       <MDBNavbar expand="lg" position="top" container class="nav-bar">
         <MDBNavbarBrand href="/"><strong>juan cortes</strong></MDBNavbarBrand>
-        <MDBNavbarToggler @click="collapse1 = !collapse1" target="#my-navbar"></MDBNavbarToggler>
-        <MDBCollapse v-model="collapse1" id="my-navbar">
+        <MDBNavbarToggler
+          @click="collapseNav = !collapseNav"
+          target="#my-navbar"
+        ></MDBNavbarToggler>
+        <MDBCollapse v-model="collapseNav" id="my-navbar">
           <MDBNavbarNav right class="mb-2 mb-lg-0">
-            <MDBNavbarItem to="/" @click="collapse1 = !collapse1"> Home </MDBNavbarItem>
-            <MDBNavbarItem to="about" @click="collapse1 = !collapse1"> About </MDBNavbarItem>
-            <MDBNavbarItem to="projects" @click="collapse1 = !collapse1"> Projects </MDBNavbarItem>
-            <MDBNavbarItem to="photos" @click="collapse1 = !collapse1"> Photos </MDBNavbarItem>
-            <MDBNavbarItem to="contact" @click="collapse1 = !collapse1"> Contact Me </MDBNavbarItem>
+            <MDBNavbarItem to="/" @click="closeNav()"> Home </MDBNavbarItem>
+            <MDBNavbarItem to="about" @click="closeNav()"> About </MDBNavbarItem>
+            <MDBNavbarItem to="projects" @click="closeNav()"> Projects </MDBNavbarItem>
+            <MDBNavbarItem to="photos" @click="closeNav()"> Photos </MDBNavbarItem>
+            <MDBNavbarItem to="contact" @click="closeNav()"> Contact Me </MDBNavbarItem>
           </MDBNavbarNav>
         </MDBCollapse>
       </MDBNavbar>
@@ -103,7 +106,7 @@ import {
 const globalStore = useStore()
 const isLoading = computed(() => globalStore.state.preloader.isLoading)
 const isLandscape = ref(false)
-const collapse1 = ref(false)
+const collapseNav = ref(false)
 
 onMounted(() => {
   // Simulates an asynchronous action (e.g., fetching data)
@@ -121,6 +124,12 @@ onMounted(() => {
 const checkOrientation = () => {
   // Update isLandscape based on the current orientation
   isLandscape.value = window.orientation === 90 || window.orientation === -90
+}
+
+const closeNav = () => {
+  if (window.innerWidth < 992) {
+    collapseNav.value = !collapseNav.value
+  }
 }
 
 // Dynamic year for the 'Footer'

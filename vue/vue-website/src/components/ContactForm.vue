@@ -1,8 +1,5 @@
 <template>
-  <div
-    v-if="showContact === true"
-    class="form-container d-flex justify-content-center align-items-center"
-  >
+  <div v-if="showContact === true" class="d-flex justify-content-center align-items-center">
     <form class="contact-form" @submit.prevent="sendEmail">
       <!-- Name input -->
       <MDBInput
@@ -126,13 +123,9 @@ const sendEmail = async () => {
 </script>
 
 <style scoped>
-.form-container {
-  width: 70%;
+.contact-form {
+  width: 303px;
 }
-
-/* .contact-form {
-  width: 70%;
-} */
 .btn {
   --mdb-btn-bg: var(--mdb-primary) !important;
   --mdb-btn-color: white !important;
@@ -144,17 +137,5 @@ const sendEmail = async () => {
 .btn:disabled {
   background-color: var(--mdb-primary);
   opacity: 0.3;
-}
-
-@media (min-width: 992px) {
-  /* Styling for Image section */
-  .form-container {
-    width: 25%;
-  }
-
-  /* .contact-form {
-    width: 25%;
-  } */
-  /* Styling for Image section */
 }
 </style>
