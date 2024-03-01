@@ -31,10 +31,11 @@
       "
       title="Guys at the beach in Izmir, Türkiye."
     >
+      <div class="top-mask"></div>
       <!-- Grid container -->
-      <MDBContainer class="contact-icons" v-motion-slide-visible-bottom>
+      <MDBContainer v-motion-slide-visible-bottom>
         <!-- Section: Social media -->
-        <section class="mb-4">
+        <section>
           <!-- Instagram -->
           <a
             class="btn btn-link btn-floating btn-lg text-white m-1"
@@ -77,7 +78,6 @@
         <a class="footer-name text-white" href="/">Juan Cortes</a>
       </div>
       <!-- Copyright -->
-      <div class="top-mask"></div>
     </MDBFooter>
   </main>
 </template>
@@ -148,10 +148,6 @@ const currentYear = new Date().getFullYear()
 /* Bottom border for Navbar */
 
 /* Styling for Footer icons */
-.contact-icons {
-  padding-bottom: 30%;
-}
-
 .btn-lg,
 .btn-group-lg > .btn {
   --mdb-btn-font-size: 2rem !important;
@@ -171,17 +167,19 @@ a:hover.btn-lg,
 .footer-section {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
-  height: 60vh !important;
+  height: 300px;
+  /* margin-top: 137px; */
+  /* z-index: 9; */
 }
 
 .top-mask {
   position: relative;
-  bottom: 60vh;
-  margin-bottom: -20vh;
+  bottom: 14px;
+  /* margin-bottom: -150px; */
   width: 100%;
-  height: 20vh;
+  height: 150px;
   overflow: hidden;
   background-attachment: fixed;
   background: var(--top-fade);
@@ -192,13 +190,45 @@ a:hover.btn-lg,
 }
 /* Styling for Footer */
 
+@media (min-width: 540px) {
+  .footer-section {
+    background-position-y: -50px;
+  }
+}
+
+@media (min-width: 768px) {
+  .footer-section {
+    background-position-y: -175px;
+  }
+}
+
 @media (min-width: 992px) {
   .footer-section {
-    background-position-y: -450px;
+    background-position-y: -275px;
   }
+}
 
-  .contact-icons {
-    padding-bottom: 4%;
+@media (min-width: 1024px) {
+  .footer-section {
+    background-position-y: -375px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .footer-section {
+    background-position-y: -475px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .footer-section {
+    background-position-y: -525px;
+  }
+}
+
+@media (min-width: 2560px) {
+  .footer-section {
+    background-position-y: -950px;
   }
 }
 </style>
