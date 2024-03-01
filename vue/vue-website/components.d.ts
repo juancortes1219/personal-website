@@ -40,6 +40,7 @@ declare module 'vue' {
     ProjectsJumbotron: typeof import('./src/components/ProjectsJumbotron.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    ScrollToTop: typeof import('./src/components/ScrollToTop.vue')['default']
     SectionDivider: typeof import('./src/components/SectionDivider.vue')['default']
     StorySection: typeof import('./src/components/StorySection.vue')['default']
     TechSkillsCarousel: typeof import('./src/components/TechSkillsCarousel.vue')['default']

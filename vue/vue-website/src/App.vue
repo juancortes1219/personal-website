@@ -79,6 +79,7 @@
       </div>
       <!-- Copyright -->
     </MDBFooter>
+    <ScrollToTop />
   </main>
 </template>
 
@@ -88,6 +89,7 @@ import { RouterView } from 'vue-router'
 import { useStore } from 'vuex'
 import PageLoader from './components/PageLoader.vue'
 import OrientationWarning from './components/OrientationWarning.vue'
+import ScrollToTop from './components/ScrollToTop.vue'
 
 // Imports for MDBootstrap
 import {
@@ -109,7 +111,7 @@ const isLandscape = ref(false)
 const collapseNav = ref(false)
 
 onMounted(() => {
-  // Simulates an asynchronous action (e.g., fetching data)
+  // Simulates an asynchronous action
   setTimeout(() => {
     globalStore.commit('preloader/setLoading', false, { root: true })
   }, 3000),
@@ -122,7 +124,6 @@ onMounted(() => {
 /* Needed for PageLoader */
 
 const checkOrientation = () => {
-  // Update isLandscape based on the current orientation
   isLandscape.value = window.orientation === 90 || window.orientation === -90
 }
 
@@ -170,8 +171,6 @@ a:hover.btn-lg,
   justify-content: center;
   align-items: center;
   height: 300px;
-  /* margin-top: 137px; */
-  /* z-index: 9; */
 }
 
 .top-mask {
