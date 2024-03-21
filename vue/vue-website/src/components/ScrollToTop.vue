@@ -4,7 +4,7 @@
       @click="scrollToTop"
       :icon="['fas', 'circle-up']"
       size="2xl"
-      style="color: var(--accent-two)"
+      style="color: var(--mdb-primary)"
     />
   </div>
 </template>

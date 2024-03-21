@@ -5,7 +5,12 @@
     </div>
     <lightgallery
       class="d-flex justify-content-evenly align-items-center flex-wrap"
-      :settings="{ speed: 500, download: false, plugins: plugins }"
+      :settings="{
+        speed: 500,
+        download: false,
+        plugins: plugins,
+        mobileSettings: { controls: false, showCloseIcon: true }
+      }"
       :onInit="onInit"
       :onBeforeSlide="onBeforeSlide"
     >
