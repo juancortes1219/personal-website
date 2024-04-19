@@ -85,7 +85,7 @@
     </div>
     <div class="about-question">
       <h2>What are my hobbies?</h2>
-      <h4>Soccer ⚽, Tennis 🎾, Hiking ⛰️, Camping 🏕️, Photography 📷, and Rubik's cubes 🧩</h4>
+      <h4>Cycling 🚲, Hiking ⛰️, Camping 🏕️, Photography 📷, and Rubik's cubes 🧩</h4>
       <p>The fastest time I solved a Rubik's cube was 32s.</p>
     </div>
     <div class="about-question">
