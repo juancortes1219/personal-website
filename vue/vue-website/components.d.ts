@@ -9,7 +9,6 @@ declare module 'vue' {
   export interface GlobalComponents {
     AboutSection: typeof import('./src/components/AboutSection.vue')['default']
     ContactForm: typeof import('./src/components/ContactForm.vue')['default']
-    copy: typeof import('./src/components/gallery/year/PhotoGallery2023 copy.vue')['default']
     HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
     ImageComponent: typeof import('./src/components/ImageComponent.vue')['default']
     OrientationWarning: typeof import('./src/components/OrientationWarning.vue')['default']
