@@ -4,8 +4,10 @@ import { galleryImages2020 } from './galleryImages2020'
 import { galleryImages2021 } from './galleryImages2021'
 import { galleryImages2022 } from './galleryImages2022'
 import { galleryImages2023 } from './galleryImages2023'
+import { galleryImages2024 } from './galleryImages2024'
 
 export const galleryImages = [
+  ...galleryImages2024,
   ...galleryImages2023,
   ...galleryImages2022,
   ...galleryImages2021,

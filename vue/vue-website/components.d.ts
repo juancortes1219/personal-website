@@ -9,6 +9,7 @@ declare module 'vue' {
   export interface GlobalComponents {
     AboutSection: typeof import('./src/components/AboutSection.vue')['default']
     ContactForm: typeof import('./src/components/ContactForm.vue')['default']
+    copy: typeof import('./src/components/gallery/year/PhotoGallery2023 copy.vue')['default']
     HeroJumbotron: typeof import('./src/components/HeroJumbotron.vue')['default']
     ImageComponent: typeof import('./src/components/ImageComponent.vue')['default']
     OrientationWarning: typeof import('./src/components/OrientationWarning.vue')['default']
@@ -19,6 +20,7 @@ declare module 'vue' {
     PhotoGallery2021: typeof import('./src/components/gallery/year/PhotoGallery2021.vue')['default']
     PhotoGallery2022: typeof import('./src/components/gallery/year/PhotoGallery2022.vue')['default']
     PhotoGallery2023: typeof import('./src/components/gallery/year/PhotoGallery2023.vue')['default']
+    PhotoGallery2024: typeof import('./src/components/gallery/year/PhotoGallery2024.vue')['default']
     PhotoGalleryAll: typeof import('./src/components/gallery/category/PhotoGalleryAll.vue')['default']
     PhotoGalleryAncient: typeof import('./src/components/gallery/category/PhotoGalleryAncient.vue')['default']
     PhotoGalleryAnimal: typeof import('./src/components/gallery/category/PhotoGalleryAnimal.vue')['default']

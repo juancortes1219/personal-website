@@ -11,6 +11,71 @@ export const galleryImages2023 = [
     filters: {
       all: 'all',
       year: '2023',
+      nature: 'nature'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPdBBTdkrOYGrkvgSLXa0faoL44ZPdnezgkn8DfvefP7ShHvNXnATXS3vypRgvEY_lzX9lb9UsjUD_w0_Lr33tX0Q4Fcbomot6ARzwxpy6zgdylYHE=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Nansemond River.',
+    caption: '<h4>Nansemond River.</h4><p>Suffolk, VA, USA (2023)</p>',
+    thumbhash: 'YnUJVYpaeHeKiohwdleXhpeAeQiI'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      nature: 'nature',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczOMsOIctQ--YVCR9LC23D7fXk_8T0hrvjbflXT4kT7IFMktKfMmC_Is5V2hNC1ikmPycexqeBRYm23_sumAaBi6ZwsiS4o_GTroijndN-hfJLcS8DM=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Virginia Beach.',
+    caption: '<h4>Virginia Beach.</h4><p>Virginia Beach, VA, USA (2023)</p>',
+    thumbhash: 'IZUJfRZnh4h4B3eYeH0op4eAeQiY'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      bw: 'bw'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczPTt7RyqQdCcQtstRugrh9ijS4I_r4pmcPPywo6s9ox_iLKXo34zYfCW5ScwYVLeZrMz9-gI4dN7irp5IjVBuFgi6eAdj_aPD_bTS6n2QeqtDb0WF0=w2400',
+    classes: {
+      linkClass: landscapeLinkClass,
+      imageClass: landscapeImageClass,
+      iconClass: landscapeIconClass
+    },
+    alt: 'Virginia Beach.',
+    caption: '<h4>Virginia Beach.</h4><p>Virginia Beach, VA, USA (2023)</p>',
+    thumbhash: 'GPgJBYALaHeaiIdih2iIh1WHoIr3'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
+      other: 'other'
+    },
+    link: 'https://lh3.googleusercontent.com/pw/AP1GczNmOzOzAfptkFP5pG89w4pCiBxRURpbfQQIDc_XGX2rgSGtC2PUNT9OnTN5RYFwd3Dy4-GoRi93wrpbc1nlYDPsz2HPIka52a4x2vkYM93eWfFtb9c=w2400',
+    classes: {
+      linkClass: portraitLinkClass,
+      imageClass: portraitImageClass,
+      iconClass: portraitIconClass
+    },
+    alt: 'Bike path.',
+    caption: '<h4>Bike path.</h4><p>Virginia Beach, VA, USA (2023)</p>',
+    thumbhash: '26YFZQ55mZ6LCGlodoxHiayApwh5'
+  },
+  {
+    filters: {
+      all: 'all',
+      year: '2023',
       country: 'moldova',
       other: 'other'
     },
