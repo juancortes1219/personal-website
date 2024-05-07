@@ -143,7 +143,7 @@
                 currentFilter === 'animal' ||
                 currentFilter === 'architecture' ||
                 currentFilter === 'bw' ||
-                currentFilter === 'graduaton' ||
+                currentFilter === 'graduation' ||
                 currentFilter === 'long' ||
                 currentFilter === 'nature' ||
                 currentFilter === 'other' ||
@@ -319,7 +319,7 @@ const filterImages = (filterValue: string) => {
 }
 
 onMounted(() => {
-  showComponent.value = 'all'
+  showComponent.value = '2024'
 })
 </script>
 
