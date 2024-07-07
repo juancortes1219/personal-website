@@ -10,8 +10,14 @@
 
 <style scoped>
 .preloader {
-  height: 100vh;
+  height: calc(100vh - 100px);
   background-color: #d4d0be;
   overflow: hidden;
+}
+
+@media (min-width: 576px) {
+  .preloader {
+    height: 100vh;
+  }
 }
 </style>

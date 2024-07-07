@@ -128,28 +128,29 @@ import { MDBCard, MDBCardHeader, MDBListGroup, MDBListGroupItem } from 'mdb-vue-
 
 <style scoped>
 .about-container {
-  padding: 3rem;
+  padding: 3.5rem;
 }
 
 .about-question {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: flex-start;
+  align-items: flex-start;
   margin-bottom: 2rem;
 }
 
 h2 {
   color: var(--accent-one);
+  text-align: left;
 }
 
 h4 {
-  text-align: center;
+  text-align: left;
 }
 
 p {
   font-style: italic;
-  text-align: center;
+  text-align: left;
 }
 
 .card-header {
@@ -161,9 +162,26 @@ p {
   flex-direction: row;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 576px) {
   .about-container {
     padding: 6rem;
+  }
+
+  .about-question {
+    justify-content: center;
+    align-items: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  h4 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
   }
 }
 </style>

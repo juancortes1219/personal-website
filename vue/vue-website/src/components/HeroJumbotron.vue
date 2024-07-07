@@ -79,7 +79,7 @@ onMounted(() => {
 <style scoped>
 /* Styling for Jumbotron section */
 .jumbotron {
-  height: calc(100vh - 50px);
+  height: calc(100vh - 100px);
   background-attachment: scroll;
 }
 
@@ -122,6 +122,12 @@ h4 {
   font-size: 1.75rem;
 }
 /* Styling for headings */
+
+@media (min-width: 576px) {
+  .jumbotron {
+    height: calc(100vh - 50px);
+  }
+}
 
 @media (min-width: 992px) {
   /* Styling for Jumbotron section */
