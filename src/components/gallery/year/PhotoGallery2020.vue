@@ -20,7 +20,7 @@
         :href="item.link"
         :class="item.classes?.linkClass"
         :data-sub-html="item.caption"
-        oncontextmenu="return false;"
+        oncontextmenu="return false"
       >
         <UnLazyImage
           :key="index"

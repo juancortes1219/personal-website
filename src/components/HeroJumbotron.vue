@@ -14,7 +14,7 @@
           <h4>
             A
             <VueTyper
-              :text="['Programmer', 'Photographer']"
+              :text="['Programmer', 'Photographer', 'Electrical Apprentice']"
               :repeat="Infinity"
               :shuffle="false"
               initial-action="erasing"

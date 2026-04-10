@@ -41,7 +41,9 @@
               on a mission trip with my church to Costa Rica, where I took lots of photos. From then
               on, my love for <i>photography</i> grew, and I decided to get a minor in
               <i>art</i> (<i>photography</i>). I graduated from Georgia State University in May of
-              2020.
+              2020. <br /><br />
+              I am currently working as an Electrical Apprentice at <i>M.C. Dean</i> focusing on
+              resolving QC tasks and punch list items.
             </p>
           </div>
           <!--/Second column-->

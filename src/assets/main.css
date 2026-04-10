@@ -44,11 +44,11 @@
   --mdb-black-rgb: 0, 0, 0 !important;
   --mdb-body-color-rgb: 79, 79, 79 !important;
   --mdb-body-bg-rgb: 255, 255, 255 !important;
-  --mdb-font-sans-serif: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans',
-    'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
-    'Noto Color Emoji' !important;
-  --mdb-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New',
-    monospace !important;
+  --mdb-font-sans-serif:
+    system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans',
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji' !important;
+  --mdb-font-monospace:
+    SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace !important;
   --mdb-gradient: linear-gradient(
     180deg,
     rgba(255, 255, 255, 0.15),

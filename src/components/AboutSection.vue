@@ -20,7 +20,12 @@
         <img alt="Molodova flag" src="../assets/icons/moldova-flag.png" style="height: 1.7rem" />,
         Romania
         <img alt="Romania flag" src="../assets/icons/romania-flag.png" style="height: 1.7rem" />,
-        and Türkiye
+        South Africa
+        <img
+          alt="South Africa flag"
+          src="../assets/icons/south-africa-flag.png"
+          style="height: 1.7rem"
+        />, and Türkiye
         <img alt="Türkiye flag" src="../assets/icons/türkiye-flag.png" style="height: 1.7rem" />
       </h4>
     </div>
@@ -37,12 +42,7 @@
         Malta <img alt="Malta flag" src="../assets/icons/malta-flag.png" style="height: 1.7rem" />,
         Norway
         <img alt="Norway flag" src="../assets/icons/norway-flag.png" style="height: 1.7rem" />,
-        South Africa
-        <img
-          alt="South Africa flag"
-          src="../assets/icons/south-africa-flag.png"
-          style="height: 1.7rem"
-        />, South Korea
+        South Korea
         <img
           alt="South Korea flag"
           src="../assets/icons/south-korea-flag.png"
@@ -81,7 +81,7 @@
           <MDBListGroupItem>RGB: rgb(2, 164, 211)</MDBListGroupItem>
         </MDBListGroup>
       </MDBCard>
-      <p class="mt-3">I usually say all types of blue. If I have to chose one, it's this.</p>
+      <p class="mt-3">I usually say all types of blue. If I have to choose one, it's this.</p>
     </div>
     <div class="about-question">
       <h2>What are my hobbies?</h2>
@@ -107,8 +107,8 @@
     <div class="about-question">
       <h2>Who are my favorite artists?</h2>
       <h4>
-        deadmau5, Fleet Foxes, The Beatles, Spangle Call Lilli Line, TWICE, Stray Kids, and NewJeans
-        🎧🎶🔥
+        deadmau5, Fleet Foxes, The Beatles, Mass of the Fermenting Dregs, TWICE, Stray Kids, and
+        NewJeans 🎧🎶🔥
       </h4>
     </div>
     <div class="about-question">

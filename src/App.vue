@@ -112,11 +112,11 @@ const collapseNav = ref(false)
 
 onMounted(() => {
   // Simulates an asynchronous action
-  setTimeout(() => {
+  ;(setTimeout(() => {
     globalStore.commit('preloader/setLoading', false, { root: true })
   }, 3000),
     // Checks initial orientation
-    checkOrientation()
+    checkOrientation())
 
   // Listens for orientation changes
   window.addEventListener('orientationchange', checkOrientation)
