@@ -76,7 +76,7 @@ const currentAge = getAge(dateString)
 <style scoped>
 /* Styling for Story section */
 .story-section {
-  height: 850px;
+  height: 950px;
 }
 
 .container-fluid {
