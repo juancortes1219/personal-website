@@ -34,6 +34,7 @@ declare module 'vue' {
     PhotoGalleryOther: typeof import('./src/components/gallery/category/PhotoGalleryOther.vue')['default']
     PhotoGalleryPortrait: typeof import('./src/components/gallery/category/PhotoGalleryPortrait.vue')['default']
     PhotoGalleryRomania: typeof import('./src/components/gallery/country/PhotoGalleryRomania.vue')['default']
+    PhotoGallerySouthAfrica: typeof import('./src/components/gallery/country/PhotoGallerySouthAfrica.vue')['default']
     PhotoGalleryStreet: typeof import('./src/components/gallery/category/PhotoGalleryStreet.vue')['default']
     PhotoGalleryTurkiye: typeof import('./src/components/gallery/country/PhotoGalleryTurkiye.vue')['default']
     PhotoGalleryWedding: typeof import('./src/components/gallery/category/PhotoGalleryWedding.vue')['default']

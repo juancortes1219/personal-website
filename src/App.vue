@@ -1,6 +1,6 @@
 <template>
   <PageLoader v-if="isLoading" />
-  <OrientationWarning v-else-if="isLandscape" />
+  <!-- <OrientationWarning v-else-if="isLandscape" />-- -->
   <main v-else>
     <header>
       <MDBNavbar expand="lg" position="top" container class="nav-bar">
@@ -88,7 +88,7 @@ import { ref, computed, onMounted } from 'vue'
 import { RouterView } from 'vue-router'
 import { useStore } from 'vuex'
 import PageLoader from './components/PageLoader.vue'
-import OrientationWarning from './components/OrientationWarning.vue'
+// import OrientationWarning from './components/OrientationWarning.vue'
 import ScrollToTop from './components/ScrollToTop.vue'
 
 // Imports for MDBootstrap

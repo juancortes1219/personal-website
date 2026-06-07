@@ -781,7 +781,8 @@ export const galleryImages2018 = [
     filters: {
       all: 'all',
       year: '2018',
-      portrait: 'portrait'
+      portrait: 'portrait',
+      wedding: 'wedding'
     },
     link: 'https://live.staticflickr.com/65535/50861233221_f5faea2373_k.jpg',
     classes: {

@@ -93,6 +93,7 @@
                 currentFilter === 'mexico' ||
                 currentFilter === 'moldova' ||
                 currentFilter === 'romania' ||
+                currentFilter === 'south-africa' ||
                 currentFilter === 'türkiye'
             }"
             :style="getActiveCountryStyle()"
@@ -123,6 +124,12 @@
               @click="filterImages('romania')"
               :style="getActiveStyle('romania')"
               >Romania</MDBDropdownItem
+            >
+            <MDBDropdownItem
+              tag="button"
+              @click="filterImages('south-africa')"
+              :style="getActiveStyle('south-africa')"
+              >South Africa</MDBDropdownItem
             >
             <MDBDropdownItem
               tag="button"
@@ -237,6 +244,7 @@
   <PhotoGalleryMexico v-if="showComponent === 'mexico'" />
   <PhotoGalleryMoldova v-if="showComponent === 'moldova'" />
   <PhotoGalleryRomania v-if="showComponent === 'romania'" />
+  <PhotoGallerySouthAfrica v-if="showComponent === 'south-africa'" />
   <PhotoGalleryTurkiye v-if="showComponent === 'türkiye'" />
 
   <PhotoGalleryAncient v-if="showComponent === 'ancient'" />
@@ -269,6 +277,7 @@ import PhotoGalleryCostaRica from '@/components/gallery/country/PhotoGalleryCost
 import PhotoGalleryMexico from '@/components/gallery/country/PhotoGalleryMexico.vue'
 import PhotoGalleryMoldova from '@/components/gallery/country/PhotoGalleryMoldova.vue'
 import PhotoGalleryRomania from '@/components/gallery/country/PhotoGalleryRomania.vue'
+import PhotoGallerySouthAfrica from '@/components/gallery/country/PhotoGallerySouthAfrica.vue'
 import PhotoGalleryTurkiye from '@/components/gallery/country/PhotoGalleryTurkiye.vue'
 
 import PhotoGalleryAncient from '@/components/gallery/category/PhotoGalleryAncient.vue'

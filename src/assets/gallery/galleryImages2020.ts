@@ -551,7 +551,7 @@ export const galleryImages2020 = [
       imageClass: portraitImageClass,
       iconClass: portraitIconClass
     },
-    alt: 'Zechariah.',
+    alt: 'Guy posing.',
     caption: '<h4>Zechariah.</h4><p>Marietta, GA, USA (2020)</p>',
     thumbhash: 'oBgGLQhdo2uLFceXSI9lZ6ePefmI'
   },
@@ -567,7 +567,7 @@ export const galleryImages2020 = [
       imageClass: portraitImageClass,
       iconClass: portraitIconClass
     },
-    alt: 'Zechariah.',
+    alt: 'Guy posing.',
     caption: '<h4>Zechariah.</h4><p>Marietta, GA, USA (2020)</p>',
     thumbhash: '29cNFQI4l4CJeKjHeHVoqHePdnBH'
   },
@@ -583,7 +583,7 @@ export const galleryImages2020 = [
       imageClass: portraitImageClass,
       iconClass: portraitIconClass
     },
-    alt: 'Zechariah.',
+    alt: 'Guy posing.',
     caption: '<h4>Zechariah.</h4><p>Marietta, GA, USA (2020)</p>',
     thumbhash: '5wcODQK4mX94dIeIWIp2h4h/aKBY'
   },
